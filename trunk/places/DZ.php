@@ -1654,7 +1654,112 @@ $places['DZ'] = array(
 		_x('El Ouldja', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
 		_x('Merdja Sidi Abed', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
 		_x('Ouled Sidi Mihoub', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
-	)
+	),
+
+	'DZ-49' => array(
+		_x('Aougrout', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Charouine', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Deldoul', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Ksar Kaddour', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Metarfa', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Ouled Aissa', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Ouled Said', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Talmine', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Timimoun', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Tinerkouk', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
+	'DZ-50' => array(
+		_x('Bordj Badji Mokhtar', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Timiaouine', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
+	'DZ-51' => array(
+		_x('Besbes', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Chaiba', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Doucen', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Ouled Djellal', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Ras El Miad', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Sidi Khaled', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
+	'DZ-52' => array(
+		_x('Beni Abbes', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Beni Ikhlef', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('El Ouata', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Igli', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Kerzaz', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Ksabi', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Ouled Khoudir', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Tabelbala', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Tamtert', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Timoudi', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
+	'DZ-53' => array(
+		_x('Foggaret Azzaouia', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('In Ghar', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('In Salah', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
+	'DZ-54' => array(
+		_x('In Guezzam', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Tin Zouatine', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
+	'DZ-55' => array(
+		_x('Benaceur', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Blidet Amor', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('El Alia', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('El Hadjira', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Megarine', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Mnaguer', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Nezla', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Sidi Slimane', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Taibet', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Tebesbest', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Temacine', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Touggourt', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Zaouia El Abidia', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
+	'DZ-55' => array(
+		_x('Benaceur', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Blidet Amor', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('El Alia', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('El Hadjira', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Megarine', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Mnaguer', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Nezla', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Sidi Slimane', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Taibet', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Tebesbest', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Temacine', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Touggourt', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Zaouia El Abidia', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
+	'DZ-56' => array(
+		_x('Bordj El Haouasse', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Djanet', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
+	'DZ-57' => array(
+		_x('Djamaa', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('El M\'ghair', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Mrara', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Oum Touyour', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Sidi Amrane', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Sidi Khelil', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Still', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Tendla', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+	'DZ-58' => array(
+		_x('El Menia', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Hassi Fehal', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+		_x('Hassi Gara', 'Algerian Communes', 'states-cities-and-places-for-woocommerce'),
+	),
+
 );
 
 // Use this filter to handle the Communes (Baladiyahs) of Algeria

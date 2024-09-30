@@ -66,6 +66,16 @@ $states['DZ'] = array(
 	'DZ-46' => _x('Aïn Témouchent', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
 	'DZ-47' => _x('Ghardaïa', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
 	'DZ-48' => _x('Relizane', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-49' => _x('Timimoun', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-50' => _x('Bordj Baji Mokhtar', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-51' => _x('Ouled Djellal', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-52' => _x('Béni Abbès', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-53' => _x('In Salah', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-54' => _x('In Guezzam', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-55' => _x('Touggourt', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-56' => _x('Djanet', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-57' => _x('El M\'ghair', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
+	'DZ-58' => _x('El Menia', 'Algerian Provinces', 'states-cities-and-places-for-woocommerce'),
 );
 
 // Use this filter to handle the Provinces of Algeria
