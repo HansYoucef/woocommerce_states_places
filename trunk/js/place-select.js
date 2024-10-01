@@ -85,14 +85,26 @@ jQuery( function($) {
     var $statebox = $container.find( '#billing_state, #shipping_state, #calc_shipping_state' );
     var state = $statebox.val();
     $( document.body ).trigger( 'state_changing', [country, state, $container ] );
+    // console.log( 'country_to_state_changing', $statebox, country, state, $container );
   });
 
   $( 'body' ).on( 'change', 'select.state_select, #calc_shipping_state', function() {
     var $container = $( this ).closest( 'div' );
     var country = $container.find( '#billing_country, #shipping_country, #calc_shipping_country' ).val();
-    var state = $( this ).val();
+    // var state = $( this ).val();
+
+    /* 
+     * just a temporary fix.
+     * I need to think about this in the future
+     */
+    if ($(this).val() <= 9) {
+      var state = country + '-0' + $( this ).val();
+    } else {
+      var state = country + '-' + $( this ).val();
+    }
 
     $( document.body ).trigger( 'state_changing', [country, state, $container ] );
+    // console.log( 'state_changing', country, state, $container );
   });
 
   $( 'body' ).on( 'state_changing', function(e, country, state, $container) {
@@ -105,8 +117,10 @@ jQuery( function($) {
       } else if ( state ) {
         if ( cities[ country ][ state ] ) {
           cityToSelect( $citybox, cities[ country ][ state ] );
+          // console.log( 'cityToSelect' );
         } else {
           cityToInput( $citybox );
+          // console.log( 'cityToInput', cities );
         }
       } else {
         disableCity( $citybox );
