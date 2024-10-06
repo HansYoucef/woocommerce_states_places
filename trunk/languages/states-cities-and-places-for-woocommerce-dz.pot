@@ -2,21 +2,21 @@
 # This file is distributed under the GPLv2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: States, Cities, and Places for WooCommerce 1.3.3\n"
+"Project-Id-Version: States, Cities, and Places for WooCommerce (Updated) 1.3.2\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trunk\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-10-06T11:50:42+00:00\n"
+"POT-Creation-Date: 2024-10-06T11:43:43+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: states-cities-and-places-for-woocommerce\n"
 
 #. Plugin Name of the plugin
 #: states-cities-and-places-for-woocommerce.php
-msgid "States, Cities, and Places for WooCommerce"
+msgid "States, Cities, and Places for WooCommerce (Updated)"
 msgstr ""
 
 #. Plugin URI of the plugin
@@ -5951,950 +5951,950 @@ msgstr ""
 #: places/DZ.php:22
 msgctxt "Algerian Communes"
 msgid "Adrar"
-msgstr "أدرار"
+msgstr ""
 
 #: places/DZ.php:23
 msgctxt "Algerian Communes"
 msgid "Tamest"
-msgstr "تأماست"
+msgstr ""
 
 #: places/DZ.php:24
 msgctxt "Algerian Communes"
 msgid "Reggane"
-msgstr "رڨان"
+msgstr ""
 
 #: places/DZ.php:25
 msgctxt "Algerian Communes"
 msgid "Inozghmir"
-msgstr "ان زغمير"
+msgstr ""
 
 #: places/DZ.php:26
 msgctxt "Algerian Communes"
 msgid "Tit"
-msgstr "تــيـــت"
+msgstr ""
 
 #: places/DZ.php:27
 msgctxt "Algerian Communes"
 msgid "Tsabit"
-msgstr "تسابيت"
+msgstr ""
 
 #: places/DZ.php:28
 msgctxt "Algerian Communes"
 msgid "Zaouiet Kounta"
-msgstr "زاوية كنتة"
+msgstr ""
 
 #: places/DZ.php:29
 msgctxt "Algerian Communes"
 msgid "Aoulef"
-msgstr "أولف"
+msgstr ""
 
 #: places/DZ.php:30
 msgctxt "Algerian Communes"
 msgid "Timokten"
-msgstr "تيمقتن"
+msgstr ""
 
 #: places/DZ.php:31
 msgctxt "Algerian Communes"
 msgid "Tamentit"
-msgstr "تامنطيت"
+msgstr ""
 
 #: places/DZ.php:32
 msgctxt "Algerian Communes"
 msgid "Fenoughil"
-msgstr "فنوغيل"
+msgstr ""
 
 #: places/DZ.php:33
 msgctxt "Algerian Communes"
 msgid "Sali"
-msgstr "سالى"
+msgstr ""
 
 #: places/DZ.php:34
 msgctxt "Algerian Communes"
 msgid "Akabli"
-msgstr "أقبلي"
+msgstr ""
 
 #: places/DZ.php:35
 msgctxt "Algerian Communes"
 msgid "Ouled Ahmed Timmi"
-msgstr "أولاد أحمد تيمى"
+msgstr ""
 
 #: places/DZ.php:36
 msgctxt "Algerian Communes"
 msgid "Bouda"
-msgstr "بودة"
+msgstr ""
 
 #: places/DZ.php:37
 #: places/DZ.php:1609
 msgctxt "Algerian Communes"
 msgid "Talmine"
-msgstr "ﻃﺎﻟﻤﻴﻦ"
+msgstr ""
 
 #: places/DZ.php:38
 msgctxt "Algerian Communes"
 msgid "Sbaa"
-msgstr "السبع"
+msgstr ""
 
 #: places/DZ.php:41
 msgctxt "Algerian Communes"
 msgid "Chlef"
-msgstr "الشلف"
+msgstr ""
 
 #: places/DZ.php:42
 msgctxt "Algerian Communes"
 msgid "Tenes"
-msgstr "تنس"
+msgstr ""
 
 #: places/DZ.php:43
 msgctxt "Algerian Communes"
 msgid "Benairia"
-msgstr "بنايرية"
+msgstr ""
 
 #: places/DZ.php:44
 msgctxt "Algerian Communes"
 msgid "El Karimia"
-msgstr "الكريمية"
+msgstr ""
 
 #: places/DZ.php:45
 msgctxt "Algerian Communes"
 msgid "Tadjna"
-msgstr "تاجنة"
+msgstr ""
 
 #: places/DZ.php:46
 msgctxt "Algerian Communes"
 msgid "Taougrite"
-msgstr "تاوقريت"
+msgstr ""
 
 #: places/DZ.php:47
 msgctxt "Algerian Communes"
 msgid "Beni Haoua"
-msgstr "بني حواء"
+msgstr ""
 
 #: places/DZ.php:48
 msgctxt "Algerian Communes"
 msgid "Sobha"
-msgstr "صبحة"
+msgstr ""
 
 #: places/DZ.php:49
 msgctxt "Algerian Communes"
 msgid "Harchoun"
-msgstr "حرشون"
+msgstr ""
 
 #: places/DZ.php:50
 msgctxt "Algerian Communes"
 msgid "Ouled Fares"
-msgstr "أولاد فارس"
+msgstr ""
 
 #: places/DZ.php:51
 msgctxt "Algerian Communes"
 msgid "Sidi Akacha"
-msgstr "سيدي عكاشة"
+msgstr ""
 
 #: places/DZ.php:52
 msgctxt "Algerian Communes"
 msgid "Boukadir"
-msgstr "بوقدير"
+msgstr ""
 
 #: places/DZ.php:53
 msgctxt "Algerian Communes"
 msgid "Beni Rached"
-msgstr "بني راشد"
+msgstr ""
 
 #: places/DZ.php:54
 msgctxt "Algerian Communes"
 msgid "Talassa"
-msgstr "تلعصة"
+msgstr ""
 
 #: places/DZ.php:55
 msgctxt "Algerian Communes"
 msgid "Herenfa"
-msgstr "الهرنفة"
+msgstr ""
 
 #: places/DZ.php:56
 msgctxt "Algerian Communes"
 msgid "Oued Goussine"
-msgstr "واد ڨوسين"
+msgstr ""
 
 #: places/DZ.php:57
 msgctxt "Algerian Communes"
 msgid "Dahra"
-msgstr "الظهرة"
+msgstr ""
 
 #: places/DZ.php:58
 msgctxt "Algerian Communes"
 msgid "Ouled Abbes"
-msgstr "أولاد عباس"
+msgstr ""
 
 #: places/DZ.php:59
 msgctxt "Algerian Communes"
 msgid "Sendjas"
-msgstr "سنجاس"
+msgstr ""
 
 #: places/DZ.php:60
 msgctxt "Algerian Communes"
 msgid "Zeboudja"
-msgstr "الزبوجة"
+msgstr ""
 
 #: places/DZ.php:61
 msgctxt "Algerian Communes"
 msgid "Oued Sly"
-msgstr "واد سلي"
+msgstr ""
 
 #: places/DZ.php:62
 msgctxt "Algerian Communes"
 msgid "Abou El Hassen"
-msgstr "أبو الحسن"
+msgstr ""
 
 #: places/DZ.php:63
 #: places/DZ.php:817
 msgctxt "Algerian Communes"
 msgid "El Marsa"
-msgstr "المرصى"
+msgstr ""
 
 #: places/DZ.php:64
 msgctxt "Algerian Communes"
 msgid "Chettia"
-msgstr "الشطية"
+msgstr ""
 
 #: places/DZ.php:65
 #: places/DZ.php:497
 msgctxt "Algerian Communes"
 msgid "Sidi Abderrahmane"
-msgstr "سيدي عبد الرحمان"
+msgstr ""
 
 #: places/DZ.php:66
 msgctxt "Algerian Communes"
 msgid "Moussadek"
-msgstr "مصدق"
+msgstr ""
 
 #: places/DZ.php:67
 msgctxt "Algerian Communes"
 msgid "El Hadjadj"
-msgstr "الحجاج"
+msgstr ""
 
 #: places/DZ.php:68
 msgctxt "Algerian Communes"
 msgid "Labiod Medjadja"
-msgstr "الأبيض مجاجة"
+msgstr ""
 
 #: places/DZ.php:69
 msgctxt "Algerian Communes"
 msgid "Oued Fodda"
-msgstr "واد الفضة"
+msgstr ""
 
 #: places/DZ.php:70
 msgctxt "Algerian Communes"
 msgid "Ouled Ben Abdelkader"
-msgstr "أولاد بن عبد القادر"
+msgstr ""
 
 #: places/DZ.php:71
 msgctxt "Algerian Communes"
 msgid "Bouzghaia"
-msgstr "بوزغاية"
+msgstr ""
 
 #: places/DZ.php:72
 msgctxt "Algerian Communes"
 msgid "Ain Merane"
-msgstr "عين مران"
+msgstr ""
 
 #: places/DZ.php:73
 msgctxt "Algerian Communes"
 msgid "Oum Drou"
-msgstr "أم الذروع"
+msgstr ""
 
 #: places/DZ.php:74
 msgctxt "Algerian Communes"
 msgid "Breira"
-msgstr "بريرة"
+msgstr ""
 
 #: places/DZ.php:75
 msgctxt "Algerian Communes"
 msgid "Ben Boutaleb"
-msgstr "بوطالب"
+msgstr ""
 
 #: places/DZ.php:78
 msgctxt "Algerian Communes"
 msgid "Laghouat"
-msgstr "الأغواط"
+msgstr ""
 
 #: places/DZ.php:79
 msgctxt "Algerian Communes"
 msgid "Ksar El Hirane"
-msgstr "قصر الحيران"
+msgstr ""
 
 #: places/DZ.php:80
 msgctxt "Algerian Communes"
 msgid "Benacer Ben Chohra"
-msgstr "بن ناصر بن شهرة"
+msgstr ""
 
 #: places/DZ.php:81
 msgctxt "Algerian Communes"
 msgid "Sidi Makhlouf"
-msgstr "سيدي مخلوف"
+msgstr ""
 
 #: places/DZ.php:82
 msgctxt "Algerian Communes"
 msgid "Hassi Delaa"
-msgstr "حاسي دلاعة"
+msgstr ""
 
 #: places/DZ.php:83
 msgctxt "Algerian Communes"
 msgid "Hassi R Mel"
-msgstr "حاسي الرمل"
+msgstr ""
 
 #: places/DZ.php:84
 msgctxt "Algerian Communes"
 msgid "Ain Mahdi"
-msgstr "عــيــن مـــاضــي"
+msgstr ""
 
 #: places/DZ.php:85
 msgctxt "Algerian Communes"
 msgid "Tadjmout"
-msgstr "تاجموت"
+msgstr ""
 
 #: places/DZ.php:86
 msgctxt "Algerian Communes"
 msgid "Kheneg"
-msgstr "الخنق"
+msgstr ""
 
 #: places/DZ.php:87
 msgctxt "Algerian Communes"
 msgid "Gueltat Sidi Saad"
-msgstr "قلتة سيدي سعد"
+msgstr ""
 
 #: places/DZ.php:88
 msgctxt "Algerian Communes"
 msgid "Ain Sidi Ali"
-msgstr "عين سيدي علي"
+msgstr ""
 
 #: places/DZ.php:89
 msgctxt "Algerian Communes"
 msgid "Beidha"
-msgstr "بيضاء"
+msgstr ""
 
 #: places/DZ.php:90
 msgctxt "Algerian Communes"
 msgid "Brida"
-msgstr "بريدة"
+msgstr ""
 
 #: places/DZ.php:91
 msgctxt "Algerian Communes"
 msgid "El Ghicha"
-msgstr "الغيشة"
+msgstr ""
 
 #: places/DZ.php:92
 msgctxt "Algerian Communes"
 msgid "Hadj Mechri"
-msgstr "الحاج المشري"
+msgstr ""
 
 #: places/DZ.php:93
 msgctxt "Algerian Communes"
 msgid "Sebgag"
-msgstr "سبقاق"
+msgstr ""
 
 #: places/DZ.php:94
 msgctxt "Algerian Communes"
 msgid "Taouiala"
-msgstr "تاويالة"
+msgstr ""
 
 #: places/DZ.php:95
 msgctxt "Algerian Communes"
 msgid "Tadjrouna"
-msgstr "تاجرونة"
+msgstr ""
 
 #: places/DZ.php:96
 msgctxt "Algerian Communes"
 msgid "Aflou"
-msgstr "أفلو"
+msgstr ""
 
 #: places/DZ.php:97
 msgctxt "Algerian Communes"
 msgid "El Assafia"
-msgstr "العسافية"
+msgstr ""
 
 #: places/DZ.php:98
 msgctxt "Algerian Communes"
 msgid "Oued Morra"
-msgstr "وادي مرة"
+msgstr ""
 
 #: places/DZ.php:99
 msgctxt "Algerian Communes"
 msgid "Oued M Zi"
-msgstr "وادي مزي"
+msgstr ""
 
 #: places/DZ.php:100
 msgctxt "Algerian Communes"
 msgid "El Haouaita"
-msgstr "الهوارية"
+msgstr ""
 
 #: places/DZ.php:101
 msgctxt "Algerian Communes"
 msgid "Sidi Bouzid"
-msgstr "سيدي بوزيد"
+msgstr ""
 
 #: places/DZ.php:104
 msgctxt "Algerian Communes"
 msgid "Oum El Bouaghi"
-msgstr "أم البواقي"
+msgstr ""
 
 #: places/DZ.php:105
 #: places/DZ.php:1137
 msgctxt "Algerian Communes"
 msgid "Ain Beida"
-msgstr "عين البيضاء"
+msgstr ""
 
 #: places/DZ.php:106
 msgctxt "Algerian Communes"
 msgid "Ainmlila"
-msgstr "عين مليلة"
+msgstr ""
 
 #: places/DZ.php:107
 msgctxt "Algerian Communes"
 msgid "Behir Chergui"
-msgstr "بحير الشرڨي"
+msgstr ""
 
 #: places/DZ.php:108
 msgctxt "Algerian Communes"
 msgid "El Amiria"
-msgstr "العامرية"
+msgstr ""
 
 #: places/DZ.php:109
 msgctxt "Algerian Communes"
 msgid "Sigus"
-msgstr "سيقوس"
+msgstr ""
 
 #: places/DZ.php:110
 msgctxt "Algerian Communes"
 msgid "El Belala"
-msgstr "البلالة"
+msgstr ""
 
 #: places/DZ.php:111
 msgctxt "Algerian Communes"
 msgid "Ain Babouche"
-msgstr "عين بابوش"
+msgstr ""
 
 #: places/DZ.php:112
 msgctxt "Algerian Communes"
 msgid "Berriche"
-msgstr "بريش"
+msgstr ""
 
 #: places/DZ.php:113
 msgctxt "Algerian Communes"
 msgid "Ouled Hamla"
-msgstr "أولاد حملة"
+msgstr ""
 
 #: places/DZ.php:114
 msgctxt "Algerian Communes"
 msgid "Dhala"
-msgstr "الضلعة"
+msgstr ""
 
 #: places/DZ.php:115
 msgctxt "Algerian Communes"
 msgid "Ain Kercha"
-msgstr "عين كرشة"
+msgstr ""
 
 #: places/DZ.php:116
 msgctxt "Algerian Communes"
 msgid "Hanchir Toumghani"
-msgstr "هنشير تومغني"
+msgstr ""
 
 #: places/DZ.php:117
 msgctxt "Algerian Communes"
 msgid "El Djazia"
-msgstr "الجازيـــــــة"
+msgstr ""
 
 #: places/DZ.php:118
 msgctxt "Algerian Communes"
 msgid "Ain Diss"
-msgstr "عين الديس"
+msgstr ""
 
 #: places/DZ.php:119
 msgctxt "Algerian Communes"
 msgid "Fkirina"
-msgstr "فكرينة"
+msgstr ""
 
 #: places/DZ.php:120
 msgctxt "Algerian Communes"
 msgid "Souk Naamane"
-msgstr "سوق نعمان"
+msgstr ""
 
 #: places/DZ.php:121
 msgctxt "Algerian Communes"
 msgid "Zorg"
-msgstr "الزرڨ"
+msgstr ""
 
 #: places/DZ.php:122
 msgctxt "Algerian Communes"
 msgid "El Fedjoudj Boughrar"
-msgstr "الفجوج بوغرارة سعودى"
+msgstr ""
 
 #: places/DZ.php:123
 msgctxt "Algerian Communes"
 msgid "Ouled Zouai"
-msgstr "أولاد زواي"
+msgstr ""
 
 #: places/DZ.php:124
 msgctxt "Algerian Communes"
 msgid "Bir Chouhada"
-msgstr "بئر الشهداء"
+msgstr ""
 
 #: places/DZ.php:125
 msgctxt "Algerian Communes"
 msgid "Ksar Sbahi"
-msgstr "قصر صباحي"
+msgstr ""
 
 #: places/DZ.php:126
 msgctxt "Algerian Communes"
 msgid "Oued Nini"
-msgstr "وادي نيني"
+msgstr ""
 
 #: places/DZ.php:127
 msgctxt "Algerian Communes"
 msgid "Meskiana"
-msgstr "مسكيانة"
+msgstr ""
 
 #: places/DZ.php:128
 msgctxt "Algerian Communes"
 msgid "Ain Fekroune"
-msgstr "عين فكرون"
+msgstr ""
 
 #: places/DZ.php:129
 msgctxt "Algerian Communes"
 msgid "Rahia"
-msgstr "الراحية"
+msgstr ""
 
 #: places/DZ.php:130
 msgctxt "Algerian Communes"
 msgid "Ain Zitoun"
-msgstr "عين الزيتون"
+msgstr ""
 
 #: places/DZ.php:131
 msgctxt "Algerian Communes"
 msgid "Ouled Gacem"
-msgstr "أولاد ڨاسم"
+msgstr ""
 
 #: places/DZ.php:132
 msgctxt "Algerian Communes"
 msgid "El Harmilia"
-msgstr "الحرملية"
+msgstr ""
 
 #: places/DZ.php:135
 msgctxt "Algerian Communes"
 msgid "Batna"
-msgstr "باتنة"
+msgstr ""
 
 #: places/DZ.php:136
 msgctxt "Algerian Communes"
 msgid "Ghassira"
-msgstr "غسيرة"
+msgstr ""
 
 #: places/DZ.php:137
 msgctxt "Algerian Communes"
 msgid "Maafa"
-msgstr "معافة"
+msgstr ""
 
 #: places/DZ.php:138
 msgctxt "Algerian Communes"
 msgid "Merouana"
-msgstr "مروانة"
+msgstr ""
 
 #: places/DZ.php:139
 msgctxt "Algerian Communes"
 msgid "Seriana"
-msgstr "سريانة"
+msgstr ""
 
 #: places/DZ.php:140
 msgctxt "Algerian Communes"
 msgid "Menaa"
-msgstr "منعة"
+msgstr ""
 
 #: places/DZ.php:141
 msgctxt "Algerian Communes"
 msgid "El Madher"
-msgstr "المعذر"
+msgstr ""
 
 #: places/DZ.php:142
 msgctxt "Algerian Communes"
 msgid "Tazoult"
-msgstr "تازولت"
+msgstr ""
 
 #: places/DZ.php:143
 msgctxt "Algerian Communes"
 msgid "Ngaous"
-msgstr "نڨاوس"
+msgstr ""
 
 #: places/DZ.php:144
 msgctxt "Algerian Communes"
 msgid "Guigba"
-msgstr "قيقبة"
+msgstr ""
 
 #: places/DZ.php:145
 msgctxt "Algerian Communes"
 msgid "Inoughissen"
-msgstr "إينوغيسن"
+msgstr ""
 
 #: places/DZ.php:146
 msgctxt "Algerian Communes"
 msgid "Ouyoun El Assafir"
-msgstr "عيون العصافير"
+msgstr ""
 
 #: places/DZ.php:147
 msgctxt "Algerian Communes"
 msgid "Djerma"
-msgstr "جرمة"
+msgstr ""
 
 #: places/DZ.php:148
 msgctxt "Algerian Communes"
 msgid "Bitam"
-msgstr "بيطام"
+msgstr ""
 
 #: places/DZ.php:149
 msgctxt "Algerian Communes"
 msgid "Metkaouak"
-msgstr "عزيل عبد القادر"
+msgstr ""
 
 #: places/DZ.php:150
 msgctxt "Algerian Communes"
 msgid "Arris"
-msgstr "اريس"
+msgstr ""
 
 #: places/DZ.php:151
 msgctxt "Algerian Communes"
 msgid "Kimmel"
-msgstr "كيمل"
+msgstr ""
 
 #: places/DZ.php:152
 msgctxt "Algerian Communes"
 msgid "Tilatou"
-msgstr "تيلاطو"
+msgstr ""
 
 #: places/DZ.php:153
 msgctxt "Algerian Communes"
 msgid "Ain Djasser"
-msgstr "عين جاسر"
+msgstr ""
 
 #: places/DZ.php:154
 msgctxt "Algerian Communes"
 msgid "Ouled Selam"
-msgstr "أولاد سلام"
+msgstr ""
 
 #: places/DZ.php:155
 msgctxt "Algerian Communes"
 msgid "Tigherghar"
-msgstr "تيغرغار"
+msgstr ""
 
 #: places/DZ.php:156
 msgctxt "Algerian Communes"
 msgid "Ain Yagout"
-msgstr "عين ياقوت"
+msgstr ""
 
 #: places/DZ.php:157
 msgctxt "Algerian Communes"
 msgid "Fesdis"
-msgstr "فسديس"
+msgstr ""
 
 #: places/DZ.php:158
 msgctxt "Algerian Communes"
 msgid "Sefiane"
-msgstr "سفيان"
+msgstr ""
 
 #: places/DZ.php:159
 msgctxt "Algerian Communes"
 msgid "Rahbat"
-msgstr "الرحبات"
+msgstr ""
 
 #: places/DZ.php:160
 msgctxt "Algerian Communes"
 msgid "Tighanimine"
-msgstr "تيغانمين"
+msgstr ""
 
 #: places/DZ.php:161
 msgctxt "Algerian Communes"
 msgid "Lemsane"
-msgstr "لمسان"
+msgstr ""
 
 #: places/DZ.php:162
 msgctxt "Algerian Communes"
 msgid "Ksar Belezma"
-msgstr "قصر بلازمة"
+msgstr ""
 
 #: places/DZ.php:163
 msgctxt "Algerian Communes"
 msgid "Seggana"
-msgstr "سقانة"
+msgstr ""
 
 #: places/DZ.php:164
 msgctxt "Algerian Communes"
 msgid "Ichmoul"
-msgstr "ايشمول"
+msgstr ""
 
 #: places/DZ.php:165
 msgctxt "Algerian Communes"
 msgid "Foum Toub"
-msgstr "فم الطوب"
+msgstr ""
 
 #: places/DZ.php:166
 msgctxt "Algerian Communes"
 msgid "Beni Foudhala El Hakania"
-msgstr "بنى فضالة الحقانية"
+msgstr ""
 
 #: places/DZ.php:167
 msgctxt "Algerian Communes"
 msgid "Oued El Ma"
-msgstr "واد الماء"
+msgstr ""
 
 #: places/DZ.php:168
 msgctxt "Algerian Communes"
 msgid "Talkhamt"
-msgstr "تالخمت"
+msgstr ""
 
 #: places/DZ.php:169
 msgctxt "Algerian Communes"
 msgid "Bouzina"
-msgstr "بوزينة"
+msgstr ""
 
 #: places/DZ.php:170
 msgctxt "Algerian Communes"
 msgid "Chemora"
-msgstr "الشمرة"
+msgstr ""
 
 #: places/DZ.php:171
 msgctxt "Algerian Communes"
 msgid "Oued Chaaba"
-msgstr "واد الشعبة"
+msgstr ""
 
 #: places/DZ.php:172
 msgctxt "Algerian Communes"
 msgid "Taxlent"
-msgstr "تاكسلانت"
+msgstr ""
 
 #: places/DZ.php:173
 msgctxt "Algerian Communes"
 msgid "Gosbat"
-msgstr "القصبات"
+msgstr ""
 
 #: places/DZ.php:174
 msgctxt "Algerian Communes"
 msgid "Ouled Aouf"
-msgstr "أولاد عوف"
+msgstr ""
 
 #: places/DZ.php:175
 msgctxt "Algerian Communes"
 msgid "Boumagueur"
-msgstr "بــومقر"
+msgstr ""
 
 #: places/DZ.php:176
 msgctxt "Algerian Communes"
 msgid "Barika"
-msgstr "بريكة"
+msgstr ""
 
 #: places/DZ.php:177
 msgctxt "Algerian Communes"
 msgid "Djezzar"
-msgstr "الجزار"
+msgstr ""
 
 #: places/DZ.php:178
 msgctxt "Algerian Communes"
 msgid "Tkout"
-msgstr "تكوت"
+msgstr ""
 
 #: places/DZ.php:179
 msgctxt "Algerian Communes"
 msgid "Ain Touta"
-msgstr "عين التوتة"
+msgstr ""
 
 #: places/DZ.php:180
 msgctxt "Algerian Communes"
 msgid "Hidoussa"
-msgstr "حيدوسة"
+msgstr ""
 
 #: places/DZ.php:181
 msgctxt "Algerian Communes"
 msgid "Teniet El Abed"
-msgstr "نية العابد"
+msgstr ""
 
 #: places/DZ.php:182
 msgctxt "Algerian Communes"
 msgid "Oued Taga"
-msgstr "وادي الطاقة"
+msgstr ""
 
 #: places/DZ.php:183
 msgctxt "Algerian Communes"
 msgid "Ouled Fadel"
-msgstr "أولاد فاضل"
+msgstr ""
 
 #: places/DZ.php:184
 msgctxt "Algerian Communes"
 msgid "Timgad"
-msgstr "تيمقاد"
+msgstr ""
 
 #: places/DZ.php:185
 msgctxt "Algerian Communes"
 msgid "Ras El Aioun"
-msgstr "رأس العيون"
+msgstr ""
 
 #: places/DZ.php:186
 msgctxt "Algerian Communes"
 msgid "Chir"
-msgstr "شير"
+msgstr ""
 
 #: places/DZ.php:187
 msgctxt "Algerian Communes"
 msgid "Ouled Si Slimane"
-msgstr "أولاد سي سليمان"
+msgstr ""
 
 #: places/DZ.php:188
 msgctxt "Algerian Communes"
 msgid "Zanat El Beida"
-msgstr "زانة البيضاء"
+msgstr ""
 
 #: places/DZ.php:189
 msgctxt "Algerian Communes"
 msgid "Amdoukal"
-msgstr "أمدوكال"
+msgstr ""
 
 #: places/DZ.php:190
 msgctxt "Algerian Communes"
 msgid "Ouled Ammar"
-msgstr "أولاد عمار"
+msgstr ""
 
 #: places/DZ.php:191
 #: places/DZ.php:1593
 msgctxt "Algerian Communes"
 msgid "El Hassi"
-msgstr "الحاسي"
+msgstr ""
 
 #: places/DZ.php:192
 msgctxt "Algerian Communes"
 msgid "Lazrou"
-msgstr "لازرو"
+msgstr ""
 
 #: places/DZ.php:193
 msgctxt "Algerian Communes"
 msgid "Boumia"
-msgstr "بومية"
+msgstr ""
 
 #: places/DZ.php:194
 msgctxt "Algerian Communes"
 msgid "Boulhilat"
-msgstr "بولهيلات"
+msgstr ""
 
 #: places/DZ.php:195
 #: places/DZ.php:310
 #: places/DZ.php:1319
 msgctxt "Algerian Communes"
 msgid "Larbaa"
-msgstr "الاربعاء"
+msgstr ""
 
 #: places/DZ.php:198
 msgctxt "Algerian Communes"
 msgid "Bejaia"
-msgstr "بجاية"
+msgstr ""
 
 #: places/DZ.php:199
 msgctxt "Algerian Communes"
 msgid "Amizour"
-msgstr "اميزور"
+msgstr ""
 
 #: places/DZ.php:200
 msgctxt "Algerian Communes"
 msgid "Ferraoun"
-msgstr "فرعون"
+msgstr ""
 
 #: places/DZ.php:201
 msgctxt "Algerian Communes"
 msgid "Taourirt Ighil"
-msgstr "تاوريرت اغيل"
+msgstr ""
 
 #: places/DZ.php:202
 msgctxt "Algerian Communes"
 msgid "Chelata"
-msgstr "شلاطة"
+msgstr ""
 
 #: places/DZ.php:203
 msgctxt "Algerian Communes"
 msgid "Tamokra"
-msgstr "تامقرة"
+msgstr ""
 
 #: places/DZ.php:204
 msgctxt "Algerian Communes"
 msgid "Timzrit"
-msgstr "تيمزريت"
+msgstr ""
 
 #: places/DZ.php:205
 #: places/DZ.php:560
 msgctxt "Algerian Communes"
 msgid "Souk El Thenine"
-msgstr "ﺳﻮق اﻻﺛﻨﻴﻦ"
+msgstr ""
 
 #: places/DZ.php:206
 msgctxt "Algerian Communes"
 msgid "Mcisna"
-msgstr "مسيسنة"
+msgstr ""
 
 #: places/DZ.php:207
 msgctxt "Algerian Communes"
 msgid "Thinabdher"
-msgstr "تينبذار"
+msgstr ""
 
 #: places/DZ.php:208
 msgctxt "Algerian Communes"
 msgid "Tichi"
-msgstr "تيشي"
+msgstr ""
 
 #: places/DZ.php:209
 msgctxt "Algerian Communes"
 msgid "Semaoun"
-msgstr "سمعون"
+msgstr ""
 
 #: places/DZ.php:210
 msgctxt "Algerian Communes"
 msgid "Kendira"
-msgstr "كنديرة"
+msgstr ""
 
 #: places/DZ.php:211
 msgctxt "Algerian Communes"
 msgid "Tifra"
-msgstr "تيفرة"
+msgstr ""
 
 #: places/DZ.php:212
 msgctxt "Algerian Communes"
 msgid "Ighram"
-msgstr "إغرم"
+msgstr ""
 
 #: places/DZ.php:213
 msgctxt "Algerian Communes"
 msgid "Amalou"
-msgstr "امالو"
+msgstr ""
 
 #: places/DZ.php:214
 msgctxt "Algerian Communes"
 msgid "Ighil Ali"
-msgstr "إغيل على"
+msgstr ""
 
 #: places/DZ.php:215
 msgctxt "Algerian Communes"
 msgid "Ifelain Ilmathen"
-msgstr "افناين الماثن"
+msgstr ""
 
 #: places/DZ.php:216
 msgctxt "Algerian Communes"
 msgid "Toudja"
-msgstr "توجة"
+msgstr ""
 
 #: places/DZ.php:217
 msgctxt "Algerian Communes"
 msgid "Darguina"
-msgstr "درقينة"
+msgstr ""
 
 #: places/DZ.php:218
 msgctxt "Algerian Communes"
 msgid "Sidi Ayad"
-msgstr "سيدي عياد"
+msgstr ""
 
 #: places/DZ.php:219
 msgctxt "Algerian Communes"
 msgid "Aokas"
-msgstr "أوقاس"
+msgstr ""
 
 #: places/DZ.php:220
 msgctxt "Algerian Communes"
@@ -6904,1664 +6904,1664 @@ msgstr ""
 #: places/DZ.php:221
 msgctxt "Algerian Communes"
 msgid "Adekar"
-msgstr "آدكار"
+msgstr ""
 
 #: places/DZ.php:222
 msgctxt "Algerian Communes"
 msgid "Akbou"
-msgstr "أقبو"
+msgstr ""
 
 #: places/DZ.php:223
 msgctxt "Algerian Communes"
 msgid "Seddouk"
-msgstr "صدوق"
+msgstr ""
 
 #: places/DZ.php:224
 msgctxt "Algerian Communes"
 msgid "Tazmalt"
-msgstr "تازمالت"
+msgstr ""
 
 #: places/DZ.php:225
 msgctxt "Algerian Communes"
 msgid "Ait Rizine"
-msgstr "آيت أرزين"
+msgstr ""
 
 #: places/DZ.php:226
 msgctxt "Algerian Communes"
 msgid "Chemini"
-msgstr "شميني"
+msgstr ""
 
 #: places/DZ.php:227
 msgctxt "Algerian Communes"
 msgid "Souk Oufella"
-msgstr "سوق أوفلة"
+msgstr ""
 
 #: places/DZ.php:228
 msgctxt "Algerian Communes"
 msgid "Taskriout"
-msgstr "تاسقريوت"
+msgstr ""
 
 #: places/DZ.php:229
 msgctxt "Algerian Communes"
 msgid "Tibane"
-msgstr "طيبان"
+msgstr ""
 
 #: places/DZ.php:230
 msgctxt "Algerian Communes"
 msgid "Tala Hamza"
-msgstr "ثالة حمزة"
+msgstr ""
 
 #: places/DZ.php:231
 msgctxt "Algerian Communes"
 msgid "Barbacha"
-msgstr "برباشة"
+msgstr ""
 
 #: places/DZ.php:232
 msgctxt "Algerian Communes"
 msgid "Beni Ksila"
-msgstr "بنى كسيلة"
+msgstr ""
 
 #: places/DZ.php:233
 msgctxt "Algerian Communes"
 msgid "Ouzallaguen"
-msgstr "أوزلاقن"
+msgstr ""
 
 #: places/DZ.php:234
 msgctxt "Algerian Communes"
 msgid "Bouhamza"
-msgstr "بوحمزة"
+msgstr ""
 
 #: places/DZ.php:235
 msgctxt "Algerian Communes"
 msgid "Beni Melikeche"
-msgstr "بنى مليكش"
+msgstr ""
 
 #: places/DZ.php:236
 msgctxt "Algerian Communes"
 msgid "Sidi Aich"
-msgstr "سيدي عيش"
+msgstr ""
 
 #: places/DZ.php:237
 msgctxt "Algerian Communes"
 msgid "El Kseur"
-msgstr "القصر"
+msgstr ""
 
 #: places/DZ.php:238
 msgctxt "Algerian Communes"
 msgid "Melbou"
-msgstr "ملبو"
+msgstr ""
 
 #: places/DZ.php:239
 msgctxt "Algerian Communes"
 msgid "Akfadou"
-msgstr "اكفادو"
+msgstr ""
 
 #: places/DZ.php:240
 msgctxt "Algerian Communes"
 msgid "Leflaye"
-msgstr "لفلاى"
+msgstr ""
 
 #: places/DZ.php:241
 msgctxt "Algerian Communes"
 msgid "Kherrata"
-msgstr "خراطة"
+msgstr ""
 
 #: places/DZ.php:242
 msgctxt "Algerian Communes"
 msgid "Draa Kaid"
-msgstr "ذراع القايد"
+msgstr ""
 
 #: places/DZ.php:243
 msgctxt "Algerian Communes"
 msgid "Tamridjet"
-msgstr "تامريجت"
+msgstr ""
 
 #: places/DZ.php:244
 msgctxt "Algerian Communes"
 msgid "Ait Smail"
-msgstr "آيت سماعيل"
+msgstr ""
 
 #: places/DZ.php:245
 msgctxt "Algerian Communes"
 msgid "Boukhelifa"
-msgstr "بوخليفة"
+msgstr ""
 
 #: places/DZ.php:246
 msgctxt "Algerian Communes"
 msgid "Tizi Nberber"
-msgstr "تيزى نبربر"
+msgstr ""
 
 #: places/DZ.php:247
 msgctxt "Algerian Communes"
 msgid "Beni Maouch"
-msgstr "بني معوش"
+msgstr ""
 
 #: places/DZ.php:248
 msgctxt "Algerian Communes"
 msgid "Oued Ghir"
-msgstr "وادي غير"
+msgstr ""
 
 #: places/DZ.php:249
 msgctxt "Algerian Communes"
 msgid "Boudjellil"
-msgstr "بوجليل"
+msgstr ""
 
 #: places/DZ.php:252
 msgctxt "Algerian Communes"
 msgid "Biskra"
-msgstr "بسكرة"
+msgstr ""
 
 #: places/DZ.php:253
 msgctxt "Algerian Communes"
 msgid "Oumache"
-msgstr "أوماش"
+msgstr ""
 
 #: places/DZ.php:254
 msgctxt "Algerian Communes"
 msgid "Branis"
-msgstr "البرانس"
+msgstr ""
 
 #: places/DZ.php:255
 msgctxt "Algerian Communes"
 msgid "Chetma"
-msgstr "شتمة"
+msgstr ""
 
 #: places/DZ.php:256
 msgctxt "Algerian Communes"
 msgid "Sidi Okba"
-msgstr "سيدي عقبة"
+msgstr ""
 
 #: places/DZ.php:257
 msgctxt "Algerian Communes"
 msgid "Mchouneche"
-msgstr "مشونش"
+msgstr ""
 
 #: places/DZ.php:258
 msgctxt "Algerian Communes"
 msgid "El Haouch"
-msgstr "الحوش"
+msgstr ""
 
 #: places/DZ.php:259
 msgctxt "Algerian Communes"
 msgid "Ain Naga"
-msgstr "عين الناقة"
+msgstr ""
 
 #: places/DZ.php:260
 msgctxt "Algerian Communes"
 msgid "Zeribet El Oued"
-msgstr "زريبة الوادي"
+msgstr ""
 
 #: places/DZ.php:261
 msgctxt "Algerian Communes"
 msgid "El Feidh"
-msgstr "الفيض"
+msgstr ""
 
 #: places/DZ.php:262
 msgctxt "Algerian Communes"
 msgid "El Kantara"
-msgstr "القنطرة"
+msgstr ""
 
 #: places/DZ.php:263
 msgctxt "Algerian Communes"
 msgid "Ain Zaatout"
-msgstr "عين زعطوط"
+msgstr ""
 
 #: places/DZ.php:264
 msgctxt "Algerian Communes"
 msgid "El Outaya"
-msgstr "لوطاية"
+msgstr ""
 
 #: places/DZ.php:265
 msgctxt "Algerian Communes"
 msgid "Djemorah"
-msgstr "جمورة"
+msgstr ""
 
 #: places/DZ.php:266
 msgctxt "Algerian Communes"
 msgid "Tolga"
-msgstr "طولقة"
+msgstr ""
 
 #: places/DZ.php:267
 msgctxt "Algerian Communes"
 msgid "Lioua"
-msgstr "لواء"
+msgstr ""
 
 #: places/DZ.php:268
 msgctxt "Algerian Communes"
 msgid "Lichana"
-msgstr "لشانة"
+msgstr ""
 
 #: places/DZ.php:269
 msgctxt "Algerian Communes"
 msgid "Ourlal"
-msgstr "أورلال"
+msgstr ""
 
 #: places/DZ.php:270
 msgctxt "Algerian Communes"
 msgid "Mlili"
-msgstr "مليلي"
+msgstr ""
 
 #: places/DZ.php:271
 msgctxt "Algerian Communes"
 msgid "Foughala"
-msgstr "فوغالة"
+msgstr ""
 
 #: places/DZ.php:272
 msgctxt "Algerian Communes"
 msgid "Bordj Ben Azzouz"
-msgstr "برج بن عزوز"
+msgstr ""
 
 #: places/DZ.php:273
 msgctxt "Algerian Communes"
 msgid "Meziraa"
-msgstr "مزيرعة"
+msgstr ""
 
 #: places/DZ.php:274
 msgctxt "Algerian Communes"
 msgid "Bouchagroun"
-msgstr "بوشقرون"
+msgstr ""
 
 #: places/DZ.php:275
 msgctxt "Algerian Communes"
 msgid "Mekhadma"
-msgstr "مخادمة"
+msgstr ""
 
 #: places/DZ.php:276
 msgctxt "Algerian Communes"
 msgid "El Ghrous"
-msgstr "الغروس"
+msgstr ""
 
 #: places/DZ.php:277
 msgctxt "Algerian Communes"
 msgid "El Hadjab"
-msgstr "الحاجب"
+msgstr ""
 
 #: places/DZ.php:278
 msgctxt "Algerian Communes"
 msgid "Khanguet Sidinadji"
-msgstr "خنڨة سيدي ناجي"
+msgstr ""
 
 #: places/DZ.php:281
 msgctxt "Algerian Communes"
 msgid "Bechar"
-msgstr "بشار"
+msgstr ""
 
 #: places/DZ.php:282
 msgctxt "Algerian Communes"
 msgid "Erg Ferradj"
-msgstr "عرق فراج"
+msgstr ""
 
 #: places/DZ.php:283
 msgctxt "Algerian Communes"
 msgid "Meridja"
-msgstr "مريجة"
+msgstr ""
 
 #: places/DZ.php:284
 msgctxt "Algerian Communes"
 msgid "Lahmar"
-msgstr "لحمر"
+msgstr ""
 
 #: places/DZ.php:285
 msgctxt "Algerian Communes"
 msgid "Mechraa Houari B"
-msgstr "مشرع ھوارى بومدين"
+msgstr ""
 
 #: places/DZ.php:286
 msgctxt "Algerian Communes"
 msgid "Kenedsa"
-msgstr "القنادسة"
+msgstr ""
 
 #: places/DZ.php:287
 msgctxt "Algerian Communes"
 msgid "Taghit"
-msgstr "تــــاغـيــث"
+msgstr ""
 
 #: places/DZ.php:288
 msgctxt "Algerian Communes"
 msgid "Boukais"
-msgstr "بوكايس"
+msgstr ""
 
 #: places/DZ.php:289
 msgctxt "Algerian Communes"
 msgid "Mogheul"
-msgstr "موغل"
+msgstr ""
 
 #: places/DZ.php:290
 msgctxt "Algerian Communes"
 msgid "Abadla"
-msgstr "العبادلة"
+msgstr ""
 
 #: places/DZ.php:291
 msgctxt "Algerian Communes"
 msgid "Beni Ounif"
-msgstr "بني ونيف"
+msgstr ""
 
 #: places/DZ.php:294
 msgctxt "Algerian Communes"
 msgid "Blida"
-msgstr "البليدة"
+msgstr ""
 
 #: places/DZ.php:295
 msgctxt "Algerian Communes"
 msgid "Chebli"
-msgstr "الشبلي"
+msgstr ""
 
 #: places/DZ.php:296
 msgctxt "Algerian Communes"
 msgid "Bouinan"
-msgstr "بوعينان"
+msgstr ""
 
 #: places/DZ.php:297
 msgctxt "Algerian Communes"
 msgid "Oued El Alleug"
-msgstr "واد العلايڨ"
+msgstr ""
 
 #: places/DZ.php:298
 msgctxt "Algerian Communes"
 msgid "Ouled Yaich"
-msgstr "اولاد يعيش"
+msgstr ""
 
 #: places/DZ.php:299
 msgctxt "Algerian Communes"
 msgid "Chrea"
-msgstr "الشريعة"
+msgstr ""
 
 #: places/DZ.php:300
 msgctxt "Algerian Communes"
 msgid "El Affroun"
-msgstr "العفرون"
+msgstr ""
 
 #: places/DZ.php:301
 msgctxt "Algerian Communes"
 msgid "Chiffa"
-msgstr "الشفة"
+msgstr ""
 
 #: places/DZ.php:302
 msgctxt "Algerian Communes"
 msgid "Hammam Melouane"
-msgstr "حمام ملوان"
+msgstr ""
 
 #: places/DZ.php:303
 msgctxt "Algerian Communes"
 msgid "Ben Khlil"
-msgstr "بني خليل"
+msgstr ""
 
 #: places/DZ.php:304
 msgctxt "Algerian Communes"
 msgid "Soumaa"
-msgstr "صومعة"
+msgstr ""
 
 #: places/DZ.php:305
 msgctxt "Algerian Communes"
 msgid "Mouzaia"
-msgstr "موزاية"
+msgstr ""
 
 #: places/DZ.php:306
 msgctxt "Algerian Communes"
 msgid "Souhane"
-msgstr "صوحان"
+msgstr ""
 
 #: places/DZ.php:307
 msgctxt "Algerian Communes"
 msgid "Meftah"
-msgstr "مفتاح"
+msgstr ""
 
 #: places/DZ.php:308
 msgctxt "Algerian Communes"
 msgid "Ouled Selama"
-msgstr "أولاد سلامة"
+msgstr ""
 
 #: places/DZ.php:309
 msgctxt "Algerian Communes"
 msgid "Boufarik"
-msgstr "بوفاريك"
+msgstr ""
 
 #: places/DZ.php:311
 msgctxt "Algerian Communes"
 msgid "Oued Djer"
-msgstr "واد جر"
+msgstr ""
 
 #: places/DZ.php:312
 msgctxt "Algerian Communes"
 msgid "Beni Tamou"
-msgstr "بني تامو"
+msgstr ""
 
 #: places/DZ.php:313
 msgctxt "Algerian Communes"
 msgid "Bouarfa"
-msgstr "بوعرفة"
+msgstr ""
 
 #: places/DZ.php:314
 msgctxt "Algerian Communes"
 msgid "Beni Mered"
-msgstr "بني مراد"
+msgstr ""
 
 #: places/DZ.php:315
 #: places/DZ.php:499
 msgctxt "Algerian Communes"
 msgid "Bougara"
-msgstr "بوڨرة"
+msgstr ""
 
 #: places/DZ.php:316
 msgctxt "Algerian Communes"
 msgid "Guerrouaou"
-msgstr "ڨرواو"
+msgstr ""
 
 #: places/DZ.php:317
 msgctxt "Algerian Communes"
 msgid "Ain Romana"
-msgstr "عين الرمانة"
+msgstr ""
 
 #: places/DZ.php:318
 msgctxt "Algerian Communes"
 msgid "Djebabra"
-msgstr "جبابرة"
+msgstr ""
 
 #: places/DZ.php:321
 msgctxt "Algerian Communes"
 msgid "Bouira"
-msgstr "البويرة"
+msgstr ""
 
 #: places/DZ.php:322
 msgctxt "Algerian Communes"
 msgid "El Asnam"
-msgstr "الأصنام"
+msgstr ""
 
 #: places/DZ.php:323
 msgctxt "Algerian Communes"
 msgid "Guerrouma"
-msgstr "قرومة"
+msgstr ""
 
 #: places/DZ.php:324
 #: places/DZ.php:452
 msgctxt "Algerian Communes"
 msgid "Souk El Khemis"
-msgstr "سوق الخميس"
+msgstr ""
 
 #: places/DZ.php:325
 msgctxt "Algerian Communes"
 msgid "Kadiria"
-msgstr "قادرية"
+msgstr ""
 
 #: places/DZ.php:326
 msgctxt "Algerian Communes"
 msgid "Hanif"
-msgstr "احنيف"
+msgstr ""
 
 #: places/DZ.php:327
 msgctxt "Algerian Communes"
 msgid "Dirah"
-msgstr "ديــرة"
+msgstr ""
 
 #: places/DZ.php:328
 msgctxt "Algerian Communes"
 msgid "Ait Laaziz"
-msgstr "آيت لعزيز"
+msgstr ""
 
 #: places/DZ.php:329
 #: places/DZ.php:1337
 msgctxt "Algerian Communes"
 msgid "Taghzout"
-msgstr "تاغزوت"
+msgstr ""
 
 #: places/DZ.php:330
 msgctxt "Algerian Communes"
 msgid "Raouraoua"
-msgstr "الروراوة"
+msgstr ""
 
 #: places/DZ.php:331
 msgctxt "Algerian Communes"
 msgid "Mezdour"
-msgstr "مسدور"
+msgstr ""
 
 #: places/DZ.php:332
 msgctxt "Algerian Communes"
 msgid "Haizer"
-msgstr "حيزر"
+msgstr ""
 
 #: places/DZ.php:333
 msgctxt "Algerian Communes"
 msgid "Lakhdaria"
-msgstr "الأخضرية"
+msgstr ""
 
 #: places/DZ.php:334
 msgctxt "Algerian Communes"
 msgid "Maala"
-msgstr "معالة"
+msgstr ""
 
 #: places/DZ.php:335
 msgctxt "Algerian Communes"
 msgid "El Hachimia"
-msgstr "الھاشمية"
+msgstr ""
 
 #: places/DZ.php:336
 msgctxt "Algerian Communes"
 msgid "Aomar"
-msgstr "أعمر"
+msgstr ""
 
 #: places/DZ.php:337
 #: places/DZ.php:1129
 msgctxt "Algerian Communes"
 msgid "Chorfa"
-msgstr "الشرفاء"
+msgstr ""
 
 #: places/DZ.php:338
 msgctxt "Algerian Communes"
 msgid "Bordj Oukhriss"
-msgstr "برج أوخريص"
+msgstr ""
 
 #: places/DZ.php:339
 msgctxt "Algerian Communes"
 msgid "El Adjiba"
-msgstr "العجيبة"
+msgstr ""
 
 #: places/DZ.php:340
 msgctxt "Algerian Communes"
 msgid "El Hakimia"
-msgstr "الحاكمية"
+msgstr ""
 
 #: places/DZ.php:341
 msgctxt "Algerian Communes"
 msgid "El Khebouzia"
-msgstr "الخبوزية"
+msgstr ""
 
 #: places/DZ.php:342
 msgctxt "Algerian Communes"
 msgid "Ahl El Ksar"
-msgstr "أھل القصر"
+msgstr ""
 
 #: places/DZ.php:343
 msgctxt "Algerian Communes"
 msgid "Bouderbala"
-msgstr "بودربالة"
+msgstr ""
 
 #: places/DZ.php:344
 msgctxt "Algerian Communes"
 msgid "Zbarbar"
-msgstr "زبربر"
+msgstr ""
 
 #: places/DZ.php:345
 #: places/DZ.php:764
 msgctxt "Algerian Communes"
 msgid "Ain El Hadjar"
-msgstr "عين الحجر"
+msgstr ""
 
 #: places/DZ.php:346
 msgctxt "Algerian Communes"
 msgid "Djebahia"
-msgstr "الجباحية"
+msgstr ""
 
 #: places/DZ.php:347
 msgctxt "Algerian Communes"
 msgid "Aghbalou"
-msgstr "أغبالو"
+msgstr ""
 
 #: places/DZ.php:348
 msgctxt "Algerian Communes"
 msgid "Taguedit"
-msgstr "تاڨديت"
+msgstr ""
 
 #: places/DZ.php:349
 #: places/DZ.php:1154
 msgctxt "Algerian Communes"
 msgid "Ain Turk"
-msgstr "عين الترك"
+msgstr ""
 
 #: places/DZ.php:350
 msgctxt "Algerian Communes"
 msgid "Saharidj"
-msgstr "الصهاريج"
+msgstr ""
 
 #: places/DZ.php:351
 msgctxt "Algerian Communes"
 msgid "Dechmia"
-msgstr "الدشمية"
+msgstr ""
 
 #: places/DZ.php:352
 msgctxt "Algerian Communes"
 msgid "Ridane"
-msgstr "ريدان"
+msgstr ""
 
 #: places/DZ.php:353
 msgctxt "Algerian Communes"
 msgid "Bechloul"
-msgstr "بشلول"
+msgstr ""
 
 #: places/DZ.php:354
 msgctxt "Algerian Communes"
 msgid "Boukram"
-msgstr "بوكرام"
+msgstr ""
 
 #: places/DZ.php:355
 msgctxt "Algerian Communes"
 msgid "Ain Bessam"
-msgstr "عين بسام"
+msgstr ""
 
 #: places/DZ.php:356
 msgctxt "Algerian Communes"
 msgid "Bir Ghbalou"
-msgstr "بئر غبالو"
+msgstr ""
 
 #: places/DZ.php:357
 msgctxt "Algerian Communes"
 msgid "Mchedallah"
-msgstr "مشدا الله"
+msgstr ""
 
 #: places/DZ.php:358
 msgctxt "Algerian Communes"
 msgid "Sour El Ghozlane"
-msgstr "سور الغزلان"
+msgstr ""
 
 #: places/DZ.php:359
 #: places/DZ.php:772
 msgctxt "Algerian Communes"
 msgid "Maamora"
-msgstr "المعمورة"
+msgstr ""
 
 #: places/DZ.php:360
 msgctxt "Algerian Communes"
 msgid "Ouled Rached"
-msgstr "أولاد راشد"
+msgstr ""
 
 #: places/DZ.php:361
 msgctxt "Algerian Communes"
 msgid "Ain Laloui"
-msgstr "عين العلوي"
+msgstr ""
 
 #: places/DZ.php:362
 msgctxt "Algerian Communes"
 msgid "Hadjera Zerga"
-msgstr "الحجرة الزرقاء"
+msgstr ""
 
 #: places/DZ.php:363
 msgctxt "Algerian Communes"
 msgid "Ath Mansour"
-msgstr "آث منصور"
+msgstr ""
 
 #: places/DZ.php:364
 msgctxt "Algerian Communes"
 msgid "El Mokrani"
-msgstr "المقراني"
+msgstr ""
 
 #: places/DZ.php:365
 msgctxt "Algerian Communes"
 msgid "Oued El Berdi"
-msgstr "وادى البردي"
+msgstr ""
 
 #: places/DZ.php:368
 msgctxt "Algerian Communes"
 msgid "Tamanghasset"
-msgstr "تمنراست"
+msgstr ""
 
 #: places/DZ.php:369
 msgctxt "Algerian Communes"
 msgid "Abalessa"
-msgstr "أبلسة"
+msgstr ""
 
 #: places/DZ.php:370
 msgctxt "Algerian Communes"
 msgid "Idles"
-msgstr "إدلس"
+msgstr ""
 
 #: places/DZ.php:371
 msgctxt "Algerian Communes"
 msgid "Tazouk"
-msgstr "تاظروك"
+msgstr ""
 
 #: places/DZ.php:372
 msgctxt "Algerian Communes"
 msgid "In Amguel"
-msgstr "ان أمقل"
+msgstr ""
 
 #: places/DZ.php:375
 msgctxt "Algerian Communes"
 msgid "Tebessa"
-msgstr "تبسة"
+msgstr ""
 
 #: places/DZ.php:376
 msgctxt "Algerian Communes"
 msgid "Bir El Ater"
-msgstr "بئر العاتر"
+msgstr ""
 
 #: places/DZ.php:377
 msgctxt "Algerian Communes"
 msgid "Cheria"
-msgstr "الــشــريــعـة"
+msgstr ""
 
 #: places/DZ.php:378
 msgctxt "Algerian Communes"
 msgid "Stah Guentis"
-msgstr "سطح قنطيس"
+msgstr ""
 
 #: places/DZ.php:379
 msgctxt "Algerian Communes"
 msgid "El Aouinet"
-msgstr "العوينات"
+msgstr ""
 
 #: places/DZ.php:380
 msgctxt "Algerian Communes"
 msgid "Lahouidjbet"
-msgstr "الحويجبات"
+msgstr ""
 
 #: places/DZ.php:381
 msgctxt "Algerian Communes"
 msgid "Safsaf El Ouesra"
-msgstr "صفصاف الوسرة"
+msgstr ""
 
 #: places/DZ.php:382
 msgctxt "Algerian Communes"
 msgid "Hammamet"
-msgstr "الحمامات"
+msgstr ""
 
 #: places/DZ.php:383
 msgctxt "Algerian Communes"
 msgid "Negrine"
-msgstr "نقرين"
+msgstr ""
 
 #: places/DZ.php:384
 msgctxt "Algerian Communes"
 msgid "Bir El Mokadem"
-msgstr "بــئــر مــقـدم"
+msgstr ""
 
 #: places/DZ.php:385
 msgctxt "Algerian Communes"
 msgid "El Kouif"
-msgstr "الكويف"
+msgstr ""
 
 #: places/DZ.php:386
 msgctxt "Algerian Communes"
 msgid "Morsott"
-msgstr "مرسط"
+msgstr ""
 
 #: places/DZ.php:387
 #: places/DZ.php:1348
 msgctxt "Algerian Communes"
 msgid "El Ogla"
-msgstr "العقلة"
+msgstr ""
 
 #: places/DZ.php:388
 msgctxt "Algerian Communes"
 msgid "Bir Dheheb"
-msgstr "بٔير الذھب"
+msgstr ""
 
 #: places/DZ.php:389
 msgctxt "Algerian Communes"
 msgid "El Ogla El Malha"
-msgstr "العقلة"
+msgstr ""
 
 #: places/DZ.php:390
 msgctxt "Algerian Communes"
 msgid "Gorriguer"
-msgstr "قوريقر"
+msgstr ""
 
 #: places/DZ.php:391
 msgctxt "Algerian Communes"
 msgid "Bekkaria"
-msgstr "بكارية"
+msgstr ""
 
 #: places/DZ.php:392
 msgctxt "Algerian Communes"
 msgid "Boukhadra"
-msgstr "بوخضرة"
+msgstr ""
 
 #: places/DZ.php:393
 msgctxt "Algerian Communes"
 msgid "Ouenza"
-msgstr "الونزة"
+msgstr ""
 
 #: places/DZ.php:394
 msgctxt "Algerian Communes"
 msgid "El Ma El Biodh"
-msgstr "الماء الأبيض"
+msgstr ""
 
 #: places/DZ.php:395
 msgctxt "Algerian Communes"
 msgid "Oum Ali"
-msgstr "أم على"
+msgstr ""
 
 #: places/DZ.php:396
 msgctxt "Algerian Communes"
 msgid "Thlidjene"
-msgstr "ثليجان"
+msgstr ""
 
 #: places/DZ.php:397
 msgctxt "Algerian Communes"
 msgid "Ain Zerga"
-msgstr "عين الزرقاء"
+msgstr ""
 
 #: places/DZ.php:398
 msgctxt "Algerian Communes"
 msgid "El Meridj"
-msgstr "المريج"
+msgstr ""
 
 #: places/DZ.php:399
 msgctxt "Algerian Communes"
 msgid "Boulhaf Dyr"
-msgstr "بولحاف الدير"
+msgstr ""
 
 #: places/DZ.php:400
 msgctxt "Algerian Communes"
 msgid "Bedjene"
-msgstr "بجن"
+msgstr ""
 
 #: places/DZ.php:401
 msgctxt "Algerian Communes"
 msgid "El Mazeraa"
-msgstr "المزرعة"
+msgstr ""
 
 #: places/DZ.php:402
 msgctxt "Algerian Communes"
 msgid "Ferkane"
-msgstr "فـــــــركـــــان"
+msgstr ""
 
 #: places/DZ.php:405
 msgctxt "Algerian Communes"
 msgid "Tlemcen"
-msgstr "تلمسان"
+msgstr ""
 
 #: places/DZ.php:406
 msgctxt "Algerian Communes"
 msgid "Beni Mester"
-msgstr "بني مستار"
+msgstr ""
 
 #: places/DZ.php:407
 msgctxt "Algerian Communes"
 msgid "Ain Tallout"
-msgstr "عين تالوت"
+msgstr ""
 
 #: places/DZ.php:408
 msgctxt "Algerian Communes"
 msgid "Remchi"
-msgstr "الرمشي"
+msgstr ""
 
 #: places/DZ.php:409
 msgctxt "Algerian Communes"
 msgid "El Fehoul"
-msgstr "الفحول"
+msgstr ""
 
 #: places/DZ.php:410
 msgctxt "Algerian Communes"
 msgid "Sabra"
-msgstr "صبرة"
+msgstr ""
 
 #: places/DZ.php:411
 msgctxt "Algerian Communes"
 msgid "Ghazaouet"
-msgstr "الغزوات"
+msgstr ""
 
 #: places/DZ.php:412
 msgctxt "Algerian Communes"
 msgid "Souani"
-msgstr "السواني"
+msgstr ""
 
 #: places/DZ.php:413
 msgctxt "Algerian Communes"
 msgid "Djebala"
-msgstr "جبالة"
+msgstr ""
 
 #: places/DZ.php:414
 msgctxt "Algerian Communes"
 msgid "El Gor"
-msgstr "الغور"
+msgstr ""
 
 #: places/DZ.php:415
 msgctxt "Algerian Communes"
 msgid "Oued Chouly"
-msgstr "وادى الشولى"
+msgstr ""
 
 #: places/DZ.php:416
 msgctxt "Algerian Communes"
 msgid "Ain Fezza"
-msgstr "عين فزّة"
+msgstr ""
 
 #: places/DZ.php:417
 msgctxt "Algerian Communes"
 msgid "Ouled Mimoun"
-msgstr "أولاد ميمون"
+msgstr ""
 
 #: places/DZ.php:418
 msgctxt "Algerian Communes"
 msgid "Amieur"
-msgstr "عمير"
+msgstr ""
 
 #: places/DZ.php:419
 msgctxt "Algerian Communes"
 msgid "Ain Youcef"
-msgstr "عين يوسف"
+msgstr ""
 
 #: places/DZ.php:420
 msgctxt "Algerian Communes"
 msgid "Zenata"
-msgstr "زناتة"
+msgstr ""
 
 #: places/DZ.php:421
 msgctxt "Algerian Communes"
 msgid "Beni Snous"
-msgstr "بنى سنوس"
+msgstr ""
 
 #: places/DZ.php:422
 msgctxt "Algerian Communes"
 msgid "Bab El Assa"
-msgstr "باب العسة"
+msgstr ""
 
 #: places/DZ.php:423
 msgctxt "Algerian Communes"
 msgid "Dar Yaghmouracene"
-msgstr "دار يغمراسن"
+msgstr ""
 
 #: places/DZ.php:424
 msgctxt "Algerian Communes"
 msgid "Fellaoucene"
-msgstr "فلاوسن"
+msgstr ""
 
 #: places/DZ.php:425
 msgctxt "Algerian Communes"
 msgid "Azails"
-msgstr "العزايل"
+msgstr ""
 
 #: places/DZ.php:426
 msgctxt "Algerian Communes"
 msgid "Sebbaa Chioukh"
-msgstr "سبعة شيوخ"
+msgstr ""
 
 #: places/DZ.php:427
 msgctxt "Algerian Communes"
 msgid "Terni Beni Hediel"
-msgstr "تيرني بني هديل"
+msgstr ""
 
 #: places/DZ.php:428
 msgctxt "Algerian Communes"
 msgid "Bensekrane"
-msgstr "بن سكران"
+msgstr ""
 
 #: places/DZ.php:429
 msgctxt "Algerian Communes"
 msgid "Ain Nehala"
-msgstr "عين نحالة"
+msgstr ""
 
 #: places/DZ.php:430
 msgctxt "Algerian Communes"
 msgid "Hennaya"
-msgstr "الحناية"
+msgstr ""
 
 #: places/DZ.php:431
 msgctxt "Algerian Communes"
 msgid "Maghnia"
-msgstr "مغنية"
+msgstr ""
 
 #: places/DZ.php:432
 msgctxt "Algerian Communes"
 msgid "Hammam Boughrara"
-msgstr "حمام بوغرارة"
+msgstr ""
 
 #: places/DZ.php:433
 msgctxt "Algerian Communes"
 msgid "Souahlia"
-msgstr "تونان"
+msgstr ""
 
 #: places/DZ.php:434
 msgctxt "Algerian Communes"
 msgid "Msirda Fouaga"
-msgstr "مسيردة الفواقة"
+msgstr ""
 
 #: places/DZ.php:435
 msgctxt "Algerian Communes"
 msgid "Ain Fetah"
-msgstr "عين فتاح"
+msgstr ""
 
 #: places/DZ.php:436
 msgctxt "Algerian Communes"
 msgid "El Aricha"
-msgstr "العريشة"
+msgstr ""
 
 #: places/DZ.php:437
 msgctxt "Algerian Communes"
 msgid "Souk Thlata"
-msgstr "سوق الثلاثاء"
+msgstr ""
 
 #: places/DZ.php:438
 msgctxt "Algerian Communes"
 msgid "Sidi Abdelli"
-msgstr "سيدي العبدلي"
+msgstr ""
 
 #: places/DZ.php:439
 msgctxt "Algerian Communes"
 msgid "Sebdou"
-msgstr "سبدو"
+msgstr ""
 
 #: places/DZ.php:440
 msgctxt "Algerian Communes"
 msgid "Beni Ouarsous"
-msgstr "برج عريمة"
+msgstr ""
 
 #: places/DZ.php:441
 msgctxt "Algerian Communes"
 msgid "Sidi Medjahed"
-msgstr "سيدي مجاهد"
+msgstr ""
 
 #: places/DZ.php:442
 msgctxt "Algerian Communes"
 msgid "Beni Boussaid"
-msgstr "بني بوسعيد"
+msgstr ""
 
 #: places/DZ.php:443
 msgctxt "Algerian Communes"
 msgid "Marsa Ben Mhidi"
-msgstr "مرسى بن مھيدي"
+msgstr ""
 
 #: places/DZ.php:444
 msgctxt "Algerian Communes"
 msgid "Nedroma"
-msgstr "ندرومة"
+msgstr ""
 
 #: places/DZ.php:445
 msgctxt "Algerian Communes"
 msgid "Sidi Djillali"
-msgstr "سيدي الجيلالي"
+msgstr ""
 
 #: places/DZ.php:446
 msgctxt "Algerian Communes"
 msgid "Beni Bahdel"
-msgstr "بني بهدل"
+msgstr ""
 
 #: places/DZ.php:447
 msgctxt "Algerian Communes"
 msgid "El Bouihi"
-msgstr "البويھي"
+msgstr ""
 
 #: places/DZ.php:448
 msgctxt "Algerian Communes"
 msgid "Honaine"
-msgstr "هنين"
+msgstr ""
 
 #: places/DZ.php:449
 msgctxt "Algerian Communes"
 msgid "Tianet"
-msgstr "تيانت"
+msgstr ""
 
 #: places/DZ.php:450
 msgctxt "Algerian Communes"
 msgid "Ouled Riyah"
-msgstr "أولاد رياح"
+msgstr ""
 
 #: places/DZ.php:451
 msgctxt "Algerian Communes"
 msgid "Bouhlou"
-msgstr "بوحلو"
+msgstr ""
 
 #: places/DZ.php:453
 msgctxt "Algerian Communes"
 msgid "Ain Ghoraba"
-msgstr "عين غرابة"
+msgstr ""
 
 #: places/DZ.php:454
 msgctxt "Algerian Communes"
 msgid "Chetouane"
-msgstr "شتوان"
+msgstr ""
 
 #: places/DZ.php:455
 #: places/DZ.php:1026
 msgctxt "Algerian Communes"
 msgid "Mansourah"
-msgstr "المنصورة"
+msgstr ""
 
 #: places/DZ.php:456
 msgctxt "Algerian Communes"
 msgid "Beni Semiel"
-msgstr "بني مستار"
+msgstr ""
 
 #: places/DZ.php:457
 msgctxt "Algerian Communes"
 msgid "Ain Kebira"
-msgstr "عين الكبيرة"
+msgstr ""
 
 #: places/DZ.php:460
 msgctxt "Algerian Communes"
 msgid "Tiaret"
-msgstr "تيارت"
+msgstr ""
 
 #: places/DZ.php:461
 msgctxt "Algerian Communes"
 msgid "Medroussa"
-msgstr "مدروسة"
+msgstr ""
 
 #: places/DZ.php:462
 msgctxt "Algerian Communes"
 msgid "Ain Bouchekif"
-msgstr "بوشقيف"
+msgstr ""
 
 #: places/DZ.php:463
 msgctxt "Algerian Communes"
 msgid "Sidi Ali Mellal"
-msgstr "سيدي علي ملال"
+msgstr ""
 
 #: places/DZ.php:464
 msgctxt "Algerian Communes"
 msgid "Ain Zarit"
-msgstr "عين زاريت"
+msgstr ""
 
 #: places/DZ.php:465
 msgctxt "Algerian Communes"
 msgid "Ain Deheb"
-msgstr "عين الذهب"
+msgstr ""
 
 #: places/DZ.php:466
 msgctxt "Algerian Communes"
 msgid "Sidi Bakhti"
-msgstr "سيدي بختي"
+msgstr ""
 
 #: places/DZ.php:467
 msgctxt "Algerian Communes"
 msgid "Medrissa"
-msgstr "مدريسة"
+msgstr ""
 
 #: places/DZ.php:468
 msgctxt "Algerian Communes"
 msgid "Zmalet El Emir Aek"
-msgstr "زمالة الأمير عبد القادر"
+msgstr ""
 
 #: places/DZ.php:469
 msgctxt "Algerian Communes"
 msgid "Madna"
-msgstr "مادنة"
+msgstr ""
 
 #: places/DZ.php:470
 msgctxt "Algerian Communes"
 msgid "Sebt"
-msgstr "السبت"
+msgstr ""
 
 #: places/DZ.php:471
 msgctxt "Algerian Communes"
 msgid "Mellakou"
-msgstr "ملاكو"
+msgstr ""
 
 #: places/DZ.php:472
 msgctxt "Algerian Communes"
 msgid "Dahmouni"
-msgstr "دحموني"
+msgstr ""
 
 #: places/DZ.php:473
 msgctxt "Algerian Communes"
 msgid "Rahouia"
-msgstr "رحوية"
+msgstr ""
 
 #: places/DZ.php:474
 msgctxt "Algerian Communes"
 msgid "Mahdia"
-msgstr "المھدية"
+msgstr ""
 
 #: places/DZ.php:475
 msgctxt "Algerian Communes"
 msgid "Sougueur"
-msgstr "سوقر"
+msgstr ""
 
 #: places/DZ.php:476
 msgctxt "Algerian Communes"
 msgid "Sidi Abdelghani"
-msgstr "سيدي عبد الغنى"
+msgstr ""
 
 #: places/DZ.php:477
 msgctxt "Algerian Communes"
 msgid "Ain El Hadid"
-msgstr "عين الحديد"
+msgstr ""
 
 #: places/DZ.php:478
 msgctxt "Algerian Communes"
 msgid "Ouled Djerad"
-msgstr "اولاد جراد"
+msgstr ""
 
 #: places/DZ.php:479
 msgctxt "Algerian Communes"
 msgid "Naima"
-msgstr "نعيمة"
+msgstr ""
 
 #: places/DZ.php:480
 msgctxt "Algerian Communes"
 msgid "Meghila"
-msgstr "مغيلة"
+msgstr ""
 
 #: places/DZ.php:481
 msgctxt "Algerian Communes"
 msgid "Guertoufa"
-msgstr "قرطوفة"
+msgstr ""
 
 #: places/DZ.php:482
 msgctxt "Algerian Communes"
 msgid "Sidi Hosni"
-msgstr "سيدي حسني"
+msgstr ""
 
 #: places/DZ.php:483
 msgctxt "Algerian Communes"
 msgid "Djillali Ben Amar"
-msgstr "جيلالي بن عمار"
+msgstr ""
 
 #: places/DZ.php:484
 msgctxt "Algerian Communes"
 msgid "Sebaine"
-msgstr "سبعين"
+msgstr ""
 
 #: places/DZ.php:485
 msgctxt "Algerian Communes"
 msgid "Tousnina"
-msgstr "توسنينة"
+msgstr ""
 
 #: places/DZ.php:486
 msgctxt "Algerian Communes"
 msgid "Frenda"
-msgstr "فرندة"
+msgstr ""
 
 #: places/DZ.php:487
 msgctxt "Algerian Communes"
 msgid "Ain Kermes"
-msgstr "عين كرمس"
+msgstr ""
 
 #: places/DZ.php:488
 msgctxt "Algerian Communes"
 msgid "Ksar Chellala"
-msgstr "قصر الشلالة"
+msgstr ""
 
 #: places/DZ.php:489
 msgctxt "Algerian Communes"
 msgid "Rechaiga"
-msgstr "الرشايقة"
+msgstr ""
 
 #: places/DZ.php:490
 msgctxt "Algerian Communes"
 msgid "Nadorah"
-msgstr "ملاكو"
+msgstr ""
 
 #: places/DZ.php:491
 msgctxt "Algerian Communes"
 msgid "Tagdemt"
-msgstr "تاقدمت"
+msgstr ""
 
 #: places/DZ.php:492
 msgctxt "Algerian Communes"
 msgid "Oued Lilli"
-msgstr "وادى ليلى"
+msgstr ""
 
 #: places/DZ.php:493
 msgctxt "Algerian Communes"
 msgid "Mechraa Safa"
-msgstr "مشرع الصفاء"
+msgstr ""
 
 #: places/DZ.php:494
 msgctxt "Algerian Communes"
 msgid "Hamadia"
-msgstr "الحمادية"
+msgstr ""
 
 #: places/DZ.php:495
 msgctxt "Algerian Communes"
 msgid "Chehaima"
-msgstr "شحيمة"
+msgstr ""
 
 #: places/DZ.php:496
 msgctxt "Algerian Communes"
 msgid "Takhemaret"
-msgstr "تاخمرت"
+msgstr ""
 
 #: places/DZ.php:498
 msgctxt "Algerian Communes"
 msgid "Serghine"
-msgstr "سرغين"
+msgstr ""
 
 #: places/DZ.php:500
 msgctxt "Algerian Communes"
 msgid "Faidja"
-msgstr "الفايجة"
+msgstr ""
 
 #: places/DZ.php:501
 msgctxt "Algerian Communes"
 msgid "Tidda"
-msgstr "تيدة"
+msgstr ""
 
 #: places/DZ.php:504
 msgctxt "Algerian Communes"
 msgid "Tizi Ouzou"
-msgstr "تيزي وزو"
+msgstr ""
 
 #: places/DZ.php:505
 msgctxt "Algerian Communes"
 msgid "Ain El Hammam"
-msgstr "عين الحمام"
+msgstr ""
 
 #: places/DZ.php:506
 msgctxt "Algerian Communes"
 msgid "Akbil"
-msgstr "أقبيل"
+msgstr ""
 
 #: places/DZ.php:507
 msgctxt "Algerian Communes"
 msgid "Freha"
-msgstr "فريحة"
+msgstr ""
 
 #: places/DZ.php:508
 #: places/DZ.php:1077
 msgctxt "Algerian Communes"
 msgid "Souamaa"
-msgstr "صوامع"
+msgstr ""
 
 #: places/DZ.php:509
 msgctxt "Algerian Communes"
 msgid "Mechtrass"
-msgstr "مشطراس"
+msgstr ""
 
 #: places/DZ.php:510
 msgctxt "Algerian Communes"
 msgid "Irdjen"
-msgstr "إرجن"
+msgstr ""
 
 #: places/DZ.php:511
 msgctxt "Algerian Communes"
 msgid "Timizart"
-msgstr "تيميزارت"
+msgstr ""
 
 #: places/DZ.php:512
 msgctxt "Algerian Communes"
 msgid "Makouda"
-msgstr "ماكودة"
+msgstr ""
 
 #: places/DZ.php:513
 msgctxt "Algerian Communes"
 msgid "Draa El Mizan"
-msgstr "ذراع الميزان"
+msgstr ""
 
 #: places/DZ.php:514
 msgctxt "Algerian Communes"
 msgid "Tizi Ghenif"
-msgstr "تيزي غنيف"
+msgstr ""
 
 #: places/DZ.php:515
 msgctxt "Algerian Communes"
 msgid "Bounouh"
-msgstr "بونوح"
+msgstr ""
 
 #: places/DZ.php:516
 msgctxt "Algerian Communes"
 msgid "Ait Chaffaa"
-msgstr "آيت شفعة"
+msgstr ""
 
 #: places/DZ.php:517
 msgctxt "Algerian Communes"
 msgid "Frikat"
-msgstr "فريقات"
+msgstr ""
 
 #: places/DZ.php:518
 msgctxt "Algerian Communes"
 msgid "Beni Aissi"
-msgstr "بني عيسي"
+msgstr ""
 
 #: places/DZ.php:519
 msgctxt "Algerian Communes"
 msgid "Beni Zmenzer"
-msgstr "أيت زمنزر"
+msgstr ""
 
 #: places/DZ.php:520
 msgctxt "Algerian Communes"
 msgid "Iferhounene"
-msgstr "إيفرحونن"
+msgstr ""
 
 #: places/DZ.php:521
 msgctxt "Algerian Communes"
 msgid "Azazga"
-msgstr "عزازقة"
+msgstr ""
 
 #: places/DZ.php:522
 msgctxt "Algerian Communes"
 msgid "Iloula Oumalou"
-msgstr "إيلولة أمالو"
+msgstr ""
 
 #: places/DZ.php:523
 msgctxt "Algerian Communes"
 msgid "Yakouren"
-msgstr "اعكورن"
+msgstr ""
 
 #: places/DZ.php:524
 msgctxt "Algerian Communes"
 msgid "Larba Nait Irathen"
-msgstr "الأربعاء نايت إيراثن"
+msgstr ""
 
 #: places/DZ.php:525
 msgctxt "Algerian Communes"
 msgid "Tizi Rached"
-msgstr "تيزي راشد"
+msgstr ""
 
 #: places/DZ.php:526
 msgctxt "Algerian Communes"
 msgid "Zekri"
-msgstr "زكري"
+msgstr ""
 
 #: places/DZ.php:527
 msgctxt "Algerian Communes"
 msgid "Ouaguenoun"
-msgstr "واقنون"
+msgstr ""
 
 #: places/DZ.php:528
 msgctxt "Algerian Communes"
 msgid "Ain Zaouia"
-msgstr "عين الزاوية"
+msgstr ""
 
 #: places/DZ.php:529
 msgctxt "Algerian Communes"
 msgid "Mkira"
-msgstr "مكيرة"
+msgstr ""
 
 #: places/DZ.php:530
 msgctxt "Algerian Communes"
 msgid "Ait Yahia"
-msgstr "أيت يحي"
+msgstr ""
 
 #: places/DZ.php:531
 msgctxt "Algerian Communes"
 msgid "Ait Mahmoud"
-msgstr "أيت محمود"
+msgstr ""
 
 #: places/DZ.php:532
 msgctxt "Algerian Communes"
 msgid "Maatka"
-msgstr "المعاتقة"
+msgstr ""
 
 #: places/DZ.php:533
 msgctxt "Algerian Communes"
 msgid "Ait Boumehdi"
-msgstr "آيت بومھدى"
+msgstr ""
 
 #: places/DZ.php:534
 msgctxt "Algerian Communes"
 msgid "Abi Youcef"
-msgstr "أبي يوسف"
+msgstr ""
 
 #: places/DZ.php:535
 msgctxt "Algerian Communes"
 msgid "Beni Douala"
-msgstr "بني دوالة"
+msgstr ""
 
 #: places/DZ.php:536
 msgctxt "Algerian Communes"
 msgid "Illilten"
-msgstr "إليلتن"
+msgstr ""
 
 #: places/DZ.php:537
 msgctxt "Algerian Communes"
 msgid "Bouzguen"
-msgstr "بوزقن"
+msgstr ""
 
 #: places/DZ.php:538
 msgctxt "Algerian Communes"
 msgid "Ait Aggouacha"
-msgstr "أيت أقواشة"
+msgstr ""
 
 #: places/DZ.php:539
 msgctxt "Algerian Communes"
 msgid "Ouadhia"
-msgstr "واضية"
+msgstr ""
 
 #: places/DZ.php:540
 msgctxt "Algerian Communes"
 msgid "Azzefoun"
-msgstr "أزفون"
+msgstr ""
 
 #: places/DZ.php:541
 msgctxt "Algerian Communes"
 msgid "Tigzirt"
-msgstr "تقزيرت"
+msgstr ""
 
 #: places/DZ.php:542
 msgctxt "Algerian Communes"
 msgid "Ait Aissa Mimoun"
-msgstr "آيت عيسى ميمون"
+msgstr ""
 
 #: places/DZ.php:543
 msgctxt "Algerian Communes"
 msgid "Boghni"
-msgstr "بوغني"
+msgstr ""
 
 #: places/DZ.php:544
 msgctxt "Algerian Communes"
 msgid "Ifigha"
-msgstr "ايفيغاء"
+msgstr ""
 
 #: places/DZ.php:545
 msgctxt "Algerian Communes"
 msgid "Ait Oumalou"
-msgstr "آيت أومالو"
+msgstr ""
 
 #: places/DZ.php:546
 msgctxt "Algerian Communes"
 msgid "Tirmitine"
-msgstr "ترمتين"
+msgstr ""
 
 #: places/DZ.php:547
 msgctxt "Algerian Communes"
 msgid "Akerrou"
-msgstr "أقرو"
+msgstr ""
 
 #: places/DZ.php:548
 msgctxt "Algerian Communes"
 msgid "Yatafen"
-msgstr "يطافن"
+msgstr ""
 
 #: places/DZ.php:549
 msgctxt "Algerian Communes"
 msgid "Beni Ziki"
-msgstr "بنى زيكى"
+msgstr ""
 
 #: places/DZ.php:550
 msgctxt "Algerian Communes"
 msgid "Draa Ben Khedda"
-msgstr "ذراع بن خدة"
+msgstr ""
 
 #: places/DZ.php:551
 msgctxt "Algerian Communes"
 msgid "Ouacif"
-msgstr "واسيف"
+msgstr ""
 
 #: places/DZ.php:552
 msgctxt "Algerian Communes"
 msgid "Idjeur"
-msgstr "آجر"
+msgstr ""
 
 #: places/DZ.php:553
 msgctxt "Algerian Communes"
 msgid "Mekla"
-msgstr "مقلع"
+msgstr ""
 
 #: places/DZ.php:554
 msgctxt "Algerian Communes"
 msgid "Tizi Nthlata"
-msgstr "تيزي نثلاثة"
+msgstr ""
 
 #: places/DZ.php:555
 msgctxt "Algerian Communes"
 msgid "Beni Yenni"
-msgstr "بني يني"
+msgstr ""
 
 #: places/DZ.php:556
 msgctxt "Algerian Communes"
 msgid "Aghrib"
-msgstr "أغريب"
+msgstr ""
 
 #: places/DZ.php:557
 msgctxt "Algerian Communes"
 msgid "Iflissen"
-msgstr "إفليسن"
+msgstr ""
 
 #: places/DZ.php:558
 msgctxt "Algerian Communes"
 msgid "Boudjima"
-msgstr "بوجيمة"
+msgstr ""
 
 #: places/DZ.php:559
 msgctxt "Algerian Communes"
 msgid "Ait Yahia Moussa"
-msgstr "أيت يحي موسى"
+msgstr ""
 
 #: places/DZ.php:561
 msgctxt "Algerian Communes"
 msgid "Ait Khelil"
-msgstr "أيت خليلي"
+msgstr ""
 
 #: places/DZ.php:562
 #: places/DZ.php:963
 msgctxt "Algerian Communes"
 msgid "Sidi Naamane"
-msgstr "سيدي نعمان"
+msgstr ""
 
 #: places/DZ.php:563
 msgctxt "Algerian Communes"
 msgid "Iboudraren"
-msgstr "أبودرارن"
+msgstr ""
 
 #: places/DZ.php:564
 msgctxt "Algerian Communes"
 msgid "Aghni Goughran"
-msgstr "آقنى قغران"
+msgstr ""
 
 #: places/DZ.php:565
 msgctxt "Algerian Communes"
 msgid "Mizrana"
-msgstr "مزرانة"
+msgstr ""
 
 #: places/DZ.php:566
 msgctxt "Algerian Communes"
 msgid "Imsouhal"
-msgstr "إمسوحال"
+msgstr ""
 
 #: places/DZ.php:567
 msgctxt "Algerian Communes"
 msgid "Tadmait"
-msgstr "تادمايت"
+msgstr ""
 
 #: places/DZ.php:568
 msgctxt "Algerian Communes"
 msgid "Ait Bouadou"
-msgstr "أيت بوعدو"
+msgstr ""
 
 #: places/DZ.php:569
 msgctxt "Algerian Communes"
 msgid "Assi Youcef"
-msgstr "أسي يوسف"
+msgstr ""
 
 #: places/DZ.php:570
 msgctxt "Algerian Communes"
 msgid "Ait Toudert"
-msgstr "أيت تودرت"
+msgstr ""
 
 #: places/DZ.php:573
 msgctxt "Algerian Communes"
 msgid "Alger Centre"
-msgstr "الجزائر الوسطى"
+msgstr ""
 
 #: places/DZ.php:574
 #: places/DZ.php:1075
 msgctxt "Algerian Communes"
 msgid "Sidi Mhamed"
-msgstr "سيدي امحمد"
+msgstr ""
 
 #: places/DZ.php:575
 msgctxt "Algerian Communes"
 msgid "El Madania"
-msgstr "المدنية"
+msgstr ""
 
 #: places/DZ.php:576
 msgctxt "Algerian Communes"
@@ -8571,7 +8571,7 @@ msgstr ""
 #: places/DZ.php:577
 msgctxt "Algerian Communes"
 msgid "Bab El Oued"
-msgstr "باب الواد"
+msgstr ""
 
 #: places/DZ.php:578
 msgctxt "Algerian Communes"
@@ -8581,87 +8581,87 @@ msgstr ""
 #: places/DZ.php:579
 msgctxt "Algerian Communes"
 msgid "Casbah"
-msgstr "القصبة"
+msgstr ""
 
 #: places/DZ.php:580
 msgctxt "Algerian Communes"
 msgid "Oued Koriche"
-msgstr "وادي قريش"
+msgstr ""
 
 #: places/DZ.php:581
 msgctxt "Algerian Communes"
 msgid "Bir Mourad Rais"
-msgstr "بير مراد رايس"
+msgstr ""
 
 #: places/DZ.php:582
 msgctxt "Algerian Communes"
 msgid "El Biar"
-msgstr "الآبيار"
+msgstr ""
 
 #: places/DZ.php:583
 msgctxt "Algerian Communes"
 msgid "Bouzareah"
-msgstr "بوزريعة"
+msgstr ""
 
 #: places/DZ.php:584
 msgctxt "Algerian Communes"
 msgid "Birkhadem"
-msgstr "بئر خادم"
+msgstr ""
 
 #: places/DZ.php:585
 msgctxt "Algerian Communes"
 msgid "El Harrach"
-msgstr "الحراش"
+msgstr ""
 
 #: places/DZ.php:586
 msgctxt "Algerian Communes"
 msgid "Baraki"
-msgstr "براقي"
+msgstr ""
 
 #: places/DZ.php:587
 msgctxt "Algerian Communes"
 msgid "Oued Smar"
-msgstr "وادي سمار"
+msgstr ""
 
 #: places/DZ.php:588
 msgctxt "Algerian Communes"
 msgid "Bourouba"
-msgstr "بوروبة"
+msgstr ""
 
 #: places/DZ.php:589
 msgctxt "Algerian Communes"
 msgid "Hussein Dey"
-msgstr "حسين داي"
+msgstr ""
 
 #: places/DZ.php:590
 msgctxt "Algerian Communes"
 msgid "Kouba"
-msgstr "القبة"
+msgstr ""
 
 #: places/DZ.php:591
 msgctxt "Algerian Communes"
 msgid "Bachedjerah"
-msgstr "باش جراح"
+msgstr ""
 
 #: places/DZ.php:592
 msgctxt "Algerian Communes"
 msgid "Dar El Beida"
-msgstr "الدار البيضاء"
+msgstr ""
 
 #: places/DZ.php:593
 msgctxt "Algerian Communes"
 msgid "Bab Azzouar"
-msgstr "باب الزوار"
+msgstr ""
 
 #: places/DZ.php:594
 msgctxt "Algerian Communes"
 msgid "Ben Aknoun"
-msgstr "بن عكنون"
+msgstr ""
 
 #: places/DZ.php:595
 msgctxt "Algerian Communes"
 msgid "Dely Ibrahim"
-msgstr "دالي ابراهيم"
+msgstr ""
 
 #: places/DZ.php:596
 msgctxt "Algerian Communes"
@@ -8671,475 +8671,475 @@ msgstr ""
 #: places/DZ.php:597
 msgctxt "Algerian Communes"
 msgid "Rais Hamidou"
-msgstr "الرايس حميدو"
+msgstr ""
 
 #: places/DZ.php:598
 msgctxt "Algerian Communes"
 msgid "Djasr Kasentina"
-msgstr "جسر قسنطينة"
+msgstr ""
 
 #: places/DZ.php:599
 msgctxt "Algerian Communes"
 msgid "El Mouradia"
-msgstr "المرادية"
+msgstr ""
 
 #: places/DZ.php:600
 msgctxt "Algerian Communes"
 msgid "Hydra"
-msgstr "حيدرة"
+msgstr ""
 
 #: places/DZ.php:601
 #: places/DZ.php:1117
 msgctxt "Algerian Communes"
 msgid "Mohammadia"
-msgstr "المحمدية"
+msgstr ""
 
 #: places/DZ.php:602
 msgctxt "Algerian Communes"
 msgid "Bordj El Kiffan"
-msgstr "برج الكيفان"
+msgstr ""
 
 #: places/DZ.php:603
 msgctxt "Algerian Communes"
 msgid "El Magharia"
-msgstr "المقرية"
+msgstr ""
 
 #: places/DZ.php:604
 msgctxt "Algerian Communes"
 msgid "Beni Messous"
-msgstr "بني مسوس"
+msgstr ""
 
 #: places/DZ.php:605
 msgctxt "Algerian Communes"
 msgid "Les Eucalyptus"
-msgstr "الكليتوس"
+msgstr ""
 
 #: places/DZ.php:606
 msgctxt "Algerian Communes"
 msgid "Birtouta"
-msgstr "بئر توتة"
+msgstr ""
 
 #: places/DZ.php:607
 msgctxt "Algerian Communes"
 msgid "Tassala El Merdja"
-msgstr "تسالة المرجة"
+msgstr ""
 
 #: places/DZ.php:608
 msgctxt "Algerian Communes"
 msgid "Ouled Chebel"
-msgstr "أولاد الشبل"
+msgstr ""
 
 #: places/DZ.php:609
 msgctxt "Algerian Communes"
 msgid "Sidi Moussa"
-msgstr "سيدي موسى"
+msgstr ""
 
 #: places/DZ.php:610
 msgctxt "Algerian Communes"
 msgid "Ain Taya"
-msgstr "عين طاية"
+msgstr ""
 
 #: places/DZ.php:611
 msgctxt "Algerian Communes"
 msgid "Bordj El Bahri"
-msgstr "برج البحري"
+msgstr ""
 
 #: places/DZ.php:612
 msgctxt "Algerian Communes"
 msgid "Marsa"
-msgstr "المرصى"
+msgstr ""
 
 #: places/DZ.php:613
 msgctxt "Algerian Communes"
 msgid "Haraoua"
-msgstr "هراوة"
+msgstr ""
 
 #: places/DZ.php:614
 msgctxt "Algerian Communes"
 msgid "Rouiba"
-msgstr "رويبة"
+msgstr ""
 
 #: places/DZ.php:615
 msgctxt "Algerian Communes"
 msgid "Reghaia"
-msgstr "الرغاية"
+msgstr ""
 
 #: places/DZ.php:616
 #: places/DZ.php:1492
 msgctxt "Algerian Communes"
 msgid "Ain Benian"
-msgstr "عين بنيان"
+msgstr ""
 
 #: places/DZ.php:617
 msgctxt "Algerian Communes"
 msgid "Staoueli"
-msgstr "سطاوالي"
+msgstr ""
 
 #: places/DZ.php:618
 msgctxt "Algerian Communes"
 msgid "Zeralda"
-msgstr "زرالدة"
+msgstr ""
 
 #: places/DZ.php:619
 msgctxt "Algerian Communes"
 msgid "Mahelma"
-msgstr "محالمة"
+msgstr ""
 
 #: places/DZ.php:620
 msgctxt "Algerian Communes"
 msgid "Rahmania"
-msgstr "رحمانية"
+msgstr ""
 
 #: places/DZ.php:621
 msgctxt "Algerian Communes"
 msgid "Souidania"
-msgstr "سويدانية"
+msgstr ""
 
 #: places/DZ.php:622
 msgctxt "Algerian Communes"
 msgid "Cheraga"
-msgstr "شراقة"
+msgstr ""
 
 #: places/DZ.php:623
 msgctxt "Algerian Communes"
 msgid "Ouled Fayet"
-msgstr "أولاد فايت"
+msgstr ""
 
 #: places/DZ.php:624
 msgctxt "Algerian Communes"
 msgid "El Achour"
-msgstr "العاشور"
+msgstr ""
 
 #: places/DZ.php:625
 msgctxt "Algerian Communes"
 msgid "Draria"
-msgstr "درارية"
+msgstr ""
 
 #: places/DZ.php:626
 msgctxt "Algerian Communes"
 msgid "Douera"
-msgstr "دويرة"
+msgstr ""
 
 #: places/DZ.php:627
 msgctxt "Algerian Communes"
 msgid "Baba Hassen"
-msgstr "بابا حسن"
+msgstr ""
 
 #: places/DZ.php:628
 msgctxt "Algerian Communes"
 msgid "Khracia"
-msgstr "خرايسية"
+msgstr ""
 
 #: places/DZ.php:629
 msgctxt "Algerian Communes"
 msgid "Saoula"
-msgstr "السحاولة"
+msgstr ""
 
 #: places/DZ.php:632
 msgctxt "Algerian Communes"
 msgid "Djelfa"
-msgstr "الجلفة"
+msgstr ""
 
 #: places/DZ.php:633
 msgctxt "Algerian Communes"
 msgid "Moudjebara"
-msgstr "مجبرة"
+msgstr ""
 
 #: places/DZ.php:634
 msgctxt "Algerian Communes"
 msgid "El Guedid"
-msgstr "القديد"
+msgstr ""
 
 #: places/DZ.php:635
 msgctxt "Algerian Communes"
 msgid "Hassi Bahbah"
-msgstr "حاسي بحبح"
+msgstr ""
 
 #: places/DZ.php:636
 msgctxt "Algerian Communes"
 msgid "Ain Maabed"
-msgstr "عين معبد"
+msgstr ""
 
 #: places/DZ.php:637
 msgctxt "Algerian Communes"
 msgid "Sed Rahal"
-msgstr "سد رحال"
+msgstr ""
 
 #: places/DZ.php:638
 msgctxt "Algerian Communes"
 msgid "Feidh El Botma"
-msgstr "فيض البطمة"
+msgstr ""
 
 #: places/DZ.php:639
 msgctxt "Algerian Communes"
 msgid "Birine"
-msgstr "البيرين"
+msgstr ""
 
 #: places/DZ.php:640
 msgctxt "Algerian Communes"
 msgid "Bouira Lahdeb"
-msgstr "بويرة الأحداب"
+msgstr ""
 
 #: places/DZ.php:641
 msgctxt "Algerian Communes"
 msgid "Zaccar"
-msgstr "زكار"
+msgstr ""
 
 #: places/DZ.php:642
 msgctxt "Algerian Communes"
 msgid "El Khemis"
-msgstr "سوق الخميس"
+msgstr ""
 
 #: places/DZ.php:643
 msgctxt "Algerian Communes"
 msgid "Sidi Baizid"
-msgstr "سيدي بايزيد"
+msgstr ""
 
 #: places/DZ.php:644
 msgctxt "Algerian Communes"
 msgid "Mliliha"
-msgstr "المليليحة"
+msgstr ""
 
 #: places/DZ.php:645
 msgctxt "Algerian Communes"
 msgid "El Idrissia"
-msgstr "الإدريسية"
+msgstr ""
 
 #: places/DZ.php:646
 msgctxt "Algerian Communes"
 msgid "Douis"
-msgstr "الدويس"
+msgstr ""
 
 #: places/DZ.php:647
 msgctxt "Algerian Communes"
 msgid "Hassi El Euch"
-msgstr "حاسي العش"
+msgstr ""
 
 #: places/DZ.php:648
 msgctxt "Algerian Communes"
 msgid "Messaad"
-msgstr "مسعد"
+msgstr ""
 
 #: places/DZ.php:649
 msgctxt "Algerian Communes"
 msgid "Guettara"
-msgstr "قتارة"
+msgstr ""
 
 #: places/DZ.php:650
 msgctxt "Algerian Communes"
 msgid "Sidi Ladjel"
-msgstr "سيدي لعجال"
+msgstr ""
 
 #: places/DZ.php:651
 msgctxt "Algerian Communes"
 msgid "Had Sahary"
-msgstr "حد الصحاري"
+msgstr ""
 
 #: places/DZ.php:652
 msgctxt "Algerian Communes"
 msgid "Guernini"
-msgstr "القرنيني"
+msgstr ""
 
 #: places/DZ.php:653
 msgctxt "Algerian Communes"
 msgid "Selmana"
-msgstr "سلمانة"
+msgstr ""
 
 #: places/DZ.php:654
 msgctxt "Algerian Communes"
 msgid "Ain Chouhada"
-msgstr "عين الشهداء"
+msgstr ""
 
 #: places/DZ.php:655
 msgctxt "Algerian Communes"
 msgid "Oum Laadham"
-msgstr "ام العظام"
+msgstr ""
 
 #: places/DZ.php:656
 msgctxt "Algerian Communes"
 msgid "Dar Chouikh"
-msgstr "دار الشيوخ"
+msgstr ""
 
 #: places/DZ.php:657
 msgctxt "Algerian Communes"
 msgid "Charef"
-msgstr "الشارف"
+msgstr ""
 
 #: places/DZ.php:658
 msgctxt "Algerian Communes"
 msgid "Beni Yacoub"
-msgstr "بن يعقوب"
+msgstr ""
 
 #: places/DZ.php:659
 msgctxt "Algerian Communes"
 msgid "Zaafrane"
-msgstr "الزعفران"
+msgstr ""
 
 #: places/DZ.php:660
 #: places/DZ.php:1604
 msgctxt "Algerian Communes"
 msgid "Deldoul"
-msgstr "دﻟﺪول"
+msgstr ""
 
 #: places/DZ.php:661
 msgctxt "Algerian Communes"
 msgid "Ain El Ibel"
-msgstr "عين الابل"
+msgstr ""
 
 #: places/DZ.php:662
 msgctxt "Algerian Communes"
 msgid "Ain Oussera"
-msgstr "عين وسارة"
+msgstr ""
 
 #: places/DZ.php:663
 msgctxt "Algerian Communes"
 msgid "Benhar"
-msgstr "بنهار"
+msgstr ""
 
 #: places/DZ.php:664
 msgctxt "Algerian Communes"
 msgid "Hassi Fedoul"
-msgstr "حاسي فدول"
+msgstr ""
 
 #: places/DZ.php:665
 msgctxt "Algerian Communes"
 msgid "Amourah"
-msgstr "عمورة"
+msgstr ""
 
 #: places/DZ.php:666
 msgctxt "Algerian Communes"
 msgid "Ain Fekka"
-msgstr "عين افقة"
+msgstr ""
 
 #: places/DZ.php:667
 msgctxt "Algerian Communes"
 msgid "Tadmit"
-msgstr "تعضميت"
+msgstr ""
 
 #: places/DZ.php:670
 msgctxt "Algerian Communes"
 msgid "Jijel"
-msgstr "جيجل"
+msgstr ""
 
 #: places/DZ.php:671
 msgctxt "Algerian Communes"
 msgid "Erraguene"
-msgstr "إراڨن"
+msgstr ""
 
 #: places/DZ.php:672
 msgctxt "Algerian Communes"
 msgid "El Aouana"
-msgstr "العوانة"
+msgstr ""
 
 #: places/DZ.php:673
 msgctxt "Algerian Communes"
 msgid "Ziamma Mansouriah"
-msgstr "زيامة منصورية"
+msgstr ""
 
 #: places/DZ.php:674
 msgctxt "Algerian Communes"
 msgid "Taher"
-msgstr "الطاهير"
+msgstr ""
 
 #: places/DZ.php:675
 msgctxt "Algerian Communes"
 msgid "Emir Abdelkader"
-msgstr "الامير عبد القادر"
+msgstr ""
 
 #: places/DZ.php:676
 msgctxt "Algerian Communes"
 msgid "Chekfa"
-msgstr "الشقفة"
+msgstr ""
 
 #: places/DZ.php:677
 msgctxt "Algerian Communes"
 msgid "Chahna"
-msgstr "الشحنة"
+msgstr ""
 
 #: places/DZ.php:678
 msgctxt "Algerian Communes"
 msgid "El Milia"
-msgstr "الميلية"
+msgstr ""
 
 #: places/DZ.php:679
 msgctxt "Algerian Communes"
 msgid "Sidi Maarouf"
-msgstr "سيدي معروف"
+msgstr ""
 
 #: places/DZ.php:680
 msgctxt "Algerian Communes"
 msgid "Settara"
-msgstr "السطارة"
+msgstr ""
 
 #: places/DZ.php:681
 msgctxt "Algerian Communes"
 msgid "El Ancer"
-msgstr "العنصر"
+msgstr ""
 
 #: places/DZ.php:682
 msgctxt "Algerian Communes"
 msgid "Sidi Abdelaziz"
-msgstr "سيدي عبد العزيز"
+msgstr ""
 
 #: places/DZ.php:683
 msgctxt "Algerian Communes"
 msgid "Kaous"
-msgstr "قاوس"
+msgstr ""
 
 #: places/DZ.php:684
 msgctxt "Algerian Communes"
 msgid "Ghebala"
-msgstr "غبالة"
+msgstr ""
 
 #: places/DZ.php:685
 msgctxt "Algerian Communes"
 msgid "Bouraoui Belhadef"
-msgstr "بوراوي بلهادف"
+msgstr ""
 
 #: places/DZ.php:686
 msgctxt "Algerian Communes"
 msgid "Djmila"
-msgstr "جيملة"
+msgstr ""
 
 #: places/DZ.php:687
 msgctxt "Algerian Communes"
 msgid "Selma Benziada"
-msgstr "سلمى بن زيادة"
+msgstr ""
 
 #: places/DZ.php:688
 msgctxt "Algerian Communes"
 msgid "Boussif Ouled Askeur"
-msgstr "أولاد عسكر"
+msgstr ""
 
 #: places/DZ.php:689
 msgctxt "Algerian Communes"
 msgid "El Kennar Nouchfi"
-msgstr "القنار"
+msgstr ""
 
 #: places/DZ.php:690
 msgctxt "Algerian Communes"
 msgid "Ouled Yahia Khadrouch"
-msgstr "اولاد يحيى"
+msgstr ""
 
 #: places/DZ.php:691
 msgctxt "Algerian Communes"
 msgid "Boudria Beni Yadjis"
-msgstr "بودريعة بن ياجيس"
+msgstr ""
 
 #: places/DZ.php:692
 msgctxt "Algerian Communes"
 msgid "Kemir Oued Adjoul"
-msgstr "بني بلعيد"
+msgstr ""
 
 #: places/DZ.php:693
 msgctxt "Algerian Communes"
 msgid "Texena"
-msgstr "تاكسنة"
+msgstr ""
 
 #: places/DZ.php:694
 msgctxt "Algerian Communes"
 msgid "Djemaa Beni Habibi"
-msgstr "الجمعة بني حبيبي"
+msgstr ""
 
 #: places/DZ.php:695
 msgctxt "Algerian Communes"
@@ -9149,422 +9149,422 @@ msgstr ""
 #: places/DZ.php:696
 msgctxt "Algerian Communes"
 msgid "Ouled Rabah"
-msgstr "ولاد رابح"
+msgstr ""
 
 #: places/DZ.php:697
 msgctxt "Algerian Communes"
 msgid "Ouadjana"
-msgstr "وجانة"
+msgstr ""
 
 #: places/DZ.php:700
 msgctxt "Algerian Communes"
 msgid "Setif"
-msgstr "سطيف"
+msgstr ""
 
 #: places/DZ.php:701
 msgctxt "Algerian Communes"
 msgid "Ain El Kebira"
-msgstr "عين الكبيرة"
+msgstr ""
 
 #: places/DZ.php:702
 msgctxt "Algerian Communes"
 msgid "Beni Aziz"
-msgstr "بني عزيز"
+msgstr ""
 
 #: places/DZ.php:703
 msgctxt "Algerian Communes"
 msgid "Ouled Sidi Ahmed"
-msgstr "أولاد سي أحمد"
+msgstr ""
 
 #: places/DZ.php:704
 msgctxt "Algerian Communes"
 msgid "Boutaleb"
-msgstr "بوطالب"
+msgstr ""
 
 #: places/DZ.php:705
 msgctxt "Algerian Communes"
 msgid "Ain Roua"
-msgstr "عين الروى"
+msgstr ""
 
 #: places/DZ.php:706
 msgctxt "Algerian Communes"
 msgid "Draa Kebila"
-msgstr "ذراع قبيلة"
+msgstr ""
 
 #: places/DZ.php:707
 msgctxt "Algerian Communes"
 msgid "Bir El Arch"
-msgstr "بئر العرش"
+msgstr ""
 
 #: places/DZ.php:708
 msgctxt "Algerian Communes"
 msgid "Beni Chebana"
-msgstr "بني شبانة"
+msgstr ""
 
 #: places/DZ.php:709
 msgctxt "Algerian Communes"
 msgid "Ouled Tebben"
-msgstr "أولاد تبــان"
+msgstr ""
 
 #: places/DZ.php:710
 msgctxt "Algerian Communes"
 msgid "Hamma"
-msgstr "حمام ملوان"
+msgstr ""
 
 #: places/DZ.php:711
 msgctxt "Algerian Communes"
 msgid "Maaouia"
-msgstr "معـاويـة"
+msgstr ""
 
 #: places/DZ.php:712
 msgctxt "Algerian Communes"
 msgid "Ain Legraj"
-msgstr "عين لڨراج"
+msgstr ""
 
 #: places/DZ.php:713
 msgctxt "Algerian Communes"
 msgid "Ain Abessa"
-msgstr "عين عباسـة"
+msgstr ""
 
 #: places/DZ.php:714
 msgctxt "Algerian Communes"
 msgid "Dehamcha"
-msgstr "الدهامشة"
+msgstr ""
 
 #: places/DZ.php:715
 msgctxt "Algerian Communes"
 msgid "Babor"
-msgstr "بابور"
+msgstr ""
 
 #: places/DZ.php:716
 msgctxt "Algerian Communes"
 msgid "Guidjel"
-msgstr "قجــال"
+msgstr ""
 
 #: places/DZ.php:717
 msgctxt "Algerian Communes"
 msgid "Ain Lahdjar"
-msgstr "عين لحجـر"
+msgstr ""
 
 #: places/DZ.php:718
 msgctxt "Algerian Communes"
 msgid "Bousselam"
-msgstr "بوسلام"
+msgstr ""
 
 #: places/DZ.php:719
 msgctxt "Algerian Communes"
 msgid "El Eulma"
-msgstr "العلمة"
+msgstr ""
 
 #: places/DZ.php:720
 msgctxt "Algerian Communes"
 msgid "Djemila"
-msgstr "جميلـة"
+msgstr ""
 
 #: places/DZ.php:721
 msgctxt "Algerian Communes"
 msgid "Beni Ouartilane"
-msgstr "بني ورتيلان"
+msgstr ""
 
 #: places/DZ.php:722
 msgctxt "Algerian Communes"
 msgid "Rosfa"
-msgstr "الرصفة"
+msgstr ""
 
 #: places/DZ.php:723
 msgctxt "Algerian Communes"
 msgid "Ouled Addouane"
-msgstr "أولاد عدوان"
+msgstr ""
 
 #: places/DZ.php:724
 msgctxt "Algerian Communes"
 msgid "Belaa"
-msgstr "البلاعة"
+msgstr ""
 
 #: places/DZ.php:725
 msgctxt "Algerian Communes"
 msgid "Ain Arnat"
-msgstr "عين أرنـات"
+msgstr ""
 
 #: places/DZ.php:726
 msgctxt "Algerian Communes"
 msgid "Amoucha"
-msgstr "عموشة"
+msgstr ""
 
 #: places/DZ.php:727
 msgctxt "Algerian Communes"
 msgid "Ain Oulmane"
-msgstr "عين ولمان"
+msgstr ""
 
 #: places/DZ.php:728
 msgctxt "Algerian Communes"
 msgid "Beidha Bordj"
-msgstr "بيضاء برج"
+msgstr ""
 
 #: places/DZ.php:729
 msgctxt "Algerian Communes"
 msgid "Bouandas"
-msgstr "بوعنداس"
+msgstr ""
 
 #: places/DZ.php:730
 msgctxt "Algerian Communes"
 msgid "Bazer Sakhra"
-msgstr "بازر الصخرة"
+msgstr ""
 
 #: places/DZ.php:731
 msgctxt "Algerian Communes"
 msgid "Hammam Essokhna"
-msgstr "حمــام السخنة"
+msgstr ""
 
 #: places/DZ.php:732
 msgctxt "Algerian Communes"
 msgid "Mezloug"
-msgstr "مزلوق"
+msgstr ""
 
 #: places/DZ.php:733
 msgctxt "Algerian Communes"
 msgid "Bir Haddada"
-msgstr "بئر حدادة"
+msgstr ""
 
 #: places/DZ.php:734
 msgctxt "Algerian Communes"
 msgid "Serdj El Ghoul"
-msgstr "سرج الغول"
+msgstr ""
 
 #: places/DZ.php:735
 msgctxt "Algerian Communes"
 msgid "Harbil"
-msgstr "حربيل"
+msgstr ""
 
 #: places/DZ.php:736
 msgctxt "Algerian Communes"
 msgid "El Ouricia"
-msgstr "الأورسية"
+msgstr ""
 
 #: places/DZ.php:737
 msgctxt "Algerian Communes"
 msgid "Tizi Nbechar"
-msgstr "تيزي نبشار"
+msgstr ""
 
 #: places/DZ.php:738
 msgctxt "Algerian Communes"
 msgid "Salah Bey"
-msgstr "صـالح باي"
+msgstr ""
 
 #: places/DZ.php:739
 msgctxt "Algerian Communes"
 msgid "Ain Azal"
-msgstr "عين أزال"
+msgstr ""
 
 #: places/DZ.php:740
 msgctxt "Algerian Communes"
 msgid "Guenzet"
-msgstr "ڨنزات"
+msgstr ""
 
 #: places/DZ.php:741
 msgctxt "Algerian Communes"
 msgid "Talaifacene"
-msgstr "تالة إيفاسن"
+msgstr ""
 
 #: places/DZ.php:742
 msgctxt "Algerian Communes"
 msgid "Bougaa"
-msgstr "بوقاعـة"
+msgstr ""
 
 #: places/DZ.php:743
 msgctxt "Algerian Communes"
 msgid "Beni Fouda"
-msgstr "بني فودة"
+msgstr ""
 
 #: places/DZ.php:744
 msgctxt "Algerian Communes"
 msgid "Tachouda"
-msgstr "تاشودة"
+msgstr ""
 
 #: places/DZ.php:745
 msgctxt "Algerian Communes"
 msgid "Beni Mouhli"
-msgstr "إيث موحلي"
+msgstr ""
 
 #: places/DZ.php:746
 msgctxt "Algerian Communes"
 msgid "Ouled Sabor"
-msgstr "أولاد صـابر"
+msgstr ""
 
 #: places/DZ.php:747
 msgctxt "Algerian Communes"
 msgid "Guellal"
-msgstr "قلال"
+msgstr ""
 
 #: places/DZ.php:748
 msgctxt "Algerian Communes"
 msgid "Ain Sebt"
-msgstr "عين السبت"
+msgstr ""
 
 #: places/DZ.php:749
 msgctxt "Algerian Communes"
 msgid "Hammam Guergour"
-msgstr "حمام قرقور"
+msgstr ""
 
 #: places/DZ.php:750
 msgctxt "Algerian Communes"
 msgid "Ait Naoual Mezada"
-msgstr "آيت نوال مزادة"
+msgstr ""
 
 #: places/DZ.php:751
 msgctxt "Algerian Communes"
 msgid "Ksar El Abtal"
-msgstr "قصرالأبطال"
+msgstr ""
 
 #: places/DZ.php:752
 msgctxt "Algerian Communes"
 msgid "Beni Hocine"
-msgstr "بني حسين"
+msgstr ""
 
 #: places/DZ.php:753
 msgctxt "Algerian Communes"
 msgid "Ait Tizi"
-msgstr "آيت تيزي"
+msgstr ""
 
 #: places/DZ.php:754
 msgctxt "Algerian Communes"
 msgid "Maouklane"
-msgstr "موكلان"
+msgstr ""
 
 #: places/DZ.php:755
 msgctxt "Algerian Communes"
 msgid "Guelta Zerka"
-msgstr "القلتة الزرقاء"
+msgstr ""
 
 #: places/DZ.php:756
 msgctxt "Algerian Communes"
 msgid "Oued El Barad"
-msgstr "واد البارد"
+msgstr ""
 
 #: places/DZ.php:757
 msgctxt "Algerian Communes"
 msgid "Taya"
-msgstr "عين طاية"
+msgstr ""
 
 #: places/DZ.php:758
 #: places/DZ.php:1596
 msgctxt "Algerian Communes"
 msgid "El Ouldja"
-msgstr "الولجـة"
+msgstr ""
 
 #: places/DZ.php:759
 msgctxt "Algerian Communes"
 msgid "Tella"
-msgstr "التلة"
+msgstr ""
 
 #: places/DZ.php:762
 msgctxt "Algerian Communes"
 msgid "Saida"
-msgstr "سعيدة"
+msgstr ""
 
 #: places/DZ.php:763
 msgctxt "Algerian Communes"
 msgid "Doui Thabet"
-msgstr "دوى ثابت"
+msgstr ""
 
 #: places/DZ.php:765
 msgctxt "Algerian Communes"
 msgid "Ouled Khaled"
-msgstr "أولاد خالد"
+msgstr ""
 
 #: places/DZ.php:766
 msgctxt "Algerian Communes"
 msgid "Moulay Larbi"
-msgstr "موالي العربي"
+msgstr ""
 
 #: places/DZ.php:767
 msgctxt "Algerian Communes"
 msgid "Youb"
-msgstr "يوب"
+msgstr ""
 
 #: places/DZ.php:768
 msgctxt "Algerian Communes"
 msgid "Hounet"
-msgstr "هونت"
+msgstr ""
 
 #: places/DZ.php:769
 #: places/DZ.php:1411
 msgctxt "Algerian Communes"
 msgid "Sidi Amar"
-msgstr "يدي عمر"
+msgstr ""
 
 #: places/DZ.php:770
 msgctxt "Algerian Communes"
 msgid "Sidi Boubekeur"
-msgstr "سيدي بوبكر"
+msgstr ""
 
 #: places/DZ.php:771
 msgctxt "Algerian Communes"
 msgid "El Hassasna"
-msgstr "حساسنة"
+msgstr ""
 
 #: places/DZ.php:773
 msgctxt "Algerian Communes"
 msgid "Sidi Ahmed"
-msgstr "أولاد سي أحمد"
+msgstr ""
 
 #: places/DZ.php:774
 msgctxt "Algerian Communes"
 msgid "Ain Sekhouna"
-msgstr "العين السخونة"
+msgstr ""
 
 #: places/DZ.php:775
 #: places/DZ.php:949
 msgctxt "Algerian Communes"
 msgid "Ouled Brahim"
-msgstr "أولاد ابراھيم"
+msgstr ""
 
 #: places/DZ.php:776
 msgctxt "Algerian Communes"
 msgid "Tircine"
-msgstr "تيرسين"
+msgstr ""
 
 #: places/DZ.php:777
 #: places/DZ.php:1392
 #: places/DZ.php:1486
 msgctxt "Algerian Communes"
 msgid "Ain Soltane"
-msgstr "عين السلطان"
+msgstr ""
 
 #: places/DZ.php:780
 msgctxt "Algerian Communes"
 msgid "Skikda"
-msgstr "سكيكدة"
+msgstr ""
 
 #: places/DZ.php:781
 msgctxt "Algerian Communes"
 msgid "Ain Zouit"
-msgstr "عين زويت"
+msgstr ""
 
 #: places/DZ.php:782
 msgctxt "Algerian Communes"
 msgid "El Hadaik"
-msgstr "الحدايق"
+msgstr ""
 
 #: places/DZ.php:783
 msgctxt "Algerian Communes"
 msgid "Azzaba"
-msgstr "عزابة"
+msgstr ""
 
 #: places/DZ.php:784
 msgctxt "Algerian Communes"
 msgid "Djendel Saadi Mohamed"
-msgstr "جندل سعدي محمد"
+msgstr ""
 
 #: places/DZ.php:785
 msgctxt "Algerian Communes"
 msgid "Ain Cherchar"
-msgstr "عين شرشار"
+msgstr ""
 
 #: places/DZ.php:786
 msgctxt "Algerian Communes"
 msgid "Bekkouche Lakhdar"
-msgstr "بكوش لخضر"
+msgstr ""
 
 #: places/DZ.php:787
 msgctxt "Algerian Communes"
@@ -9574,324 +9574,324 @@ msgstr ""
 #: places/DZ.php:788
 msgctxt "Algerian Communes"
 msgid "Es Sebt"
-msgstr "السبت"
+msgstr ""
 
 #: places/DZ.php:789
 msgctxt "Algerian Communes"
 msgid "Collo"
-msgstr "القل"
+msgstr ""
 
 #: places/DZ.php:790
 msgctxt "Algerian Communes"
 msgid "Beni Zid"
-msgstr "بنى زيد"
+msgstr ""
 
 #: places/DZ.php:791
 msgctxt "Algerian Communes"
 msgid "Kerkera"
-msgstr "كركرة"
+msgstr ""
 
 #: places/DZ.php:792
 msgctxt "Algerian Communes"
 msgid "Ouled Attia"
-msgstr "أولاد عطية"
+msgstr ""
 
 #: places/DZ.php:793
 msgctxt "Algerian Communes"
 msgid "Oued Zehour"
-msgstr "وادي الزهور"
+msgstr ""
 
 #: places/DZ.php:794
 #: places/DZ.php:1293
 msgctxt "Algerian Communes"
 msgid "Zitouna"
-msgstr "الزيتونة"
+msgstr ""
 
 #: places/DZ.php:795
 msgctxt "Algerian Communes"
 msgid "El Harrouch"
-msgstr "الحروش"
+msgstr ""
 
 #: places/DZ.php:796
 msgctxt "Algerian Communes"
 msgid "Zerdazas"
-msgstr "زردازة"
+msgstr ""
 
 #: places/DZ.php:797
 msgctxt "Algerian Communes"
 msgid "Ouled Hebaba"
-msgstr "أولاد حبابة"
+msgstr ""
 
 #: places/DZ.php:798
 msgctxt "Algerian Communes"
 msgid "Sidi Mezghiche"
-msgstr "سيدي مزغيش"
+msgstr ""
 
 #: places/DZ.php:799
 msgctxt "Algerian Communes"
 msgid "Emdjez Edchich"
-msgstr "مجاز الدشيش"
+msgstr ""
 
 #: places/DZ.php:800
 msgctxt "Algerian Communes"
 msgid "Beni Oulbane"
-msgstr "بني والبان"
+msgstr ""
 
 #: places/DZ.php:801
 msgctxt "Algerian Communes"
 msgid "Ain Bouziane"
-msgstr "عين بوزيان"
+msgstr ""
 
 #: places/DZ.php:802
 msgctxt "Algerian Communes"
 msgid "Ramdane Djamel"
-msgstr "رمضان جمال"
+msgstr ""
 
 #: places/DZ.php:803
 msgctxt "Algerian Communes"
 msgid "Beni Bachir"
-msgstr "بني بشير"
+msgstr ""
 
 #: places/DZ.php:804
 msgctxt "Algerian Communes"
 msgid "Salah Bouchaour"
-msgstr "صالح بوالشعور"
+msgstr ""
 
 #: places/DZ.php:805
 msgctxt "Algerian Communes"
 msgid "Tamalous"
-msgstr "تمالوس"
+msgstr ""
 
 #: places/DZ.php:806
 msgctxt "Algerian Communes"
 msgid "Ain Kechra"
-msgstr "عين قشرة"
+msgstr ""
 
 #: places/DZ.php:807
 msgctxt "Algerian Communes"
 msgid "Oum Toub"
-msgstr "أم الطوب"
+msgstr ""
 
 #: places/DZ.php:808
 msgctxt "Algerian Communes"
 msgid "Bein El Ouiden"
-msgstr "بين الويدان"
+msgstr ""
 
 #: places/DZ.php:809
 msgctxt "Algerian Communes"
 msgid "Fil Fila"
-msgstr "فلفلة"
+msgstr ""
 
 #: places/DZ.php:810
 msgctxt "Algerian Communes"
 msgid "Cheraia"
-msgstr "الشرايع"
+msgstr ""
 
 #: places/DZ.php:811
 msgctxt "Algerian Communes"
 msgid "Kanoua"
-msgstr "قنواع"
+msgstr ""
 
 #: places/DZ.php:812
 msgctxt "Algerian Communes"
 msgid "El Ghedir"
-msgstr "الغدير"
+msgstr ""
 
 #: places/DZ.php:813
 msgctxt "Algerian Communes"
 msgid "Bouchtata"
-msgstr "بوشطاطة"
+msgstr ""
 
 #: places/DZ.php:814
 msgctxt "Algerian Communes"
 msgid "Ouldja Boulbalout"
-msgstr "الولجة بو البلوط"
+msgstr ""
 
 #: places/DZ.php:815
 msgctxt "Algerian Communes"
 msgid "Kheneg Mayoum"
-msgstr "خنق مايوم"
+msgstr ""
 
 #: places/DZ.php:816
 msgctxt "Algerian Communes"
 msgid "Hamadi Krouma"
-msgstr "حمادي كرومة"
+msgstr ""
 
 #: places/DZ.php:820
 msgctxt "Algerian Communes"
 msgid "Sidi Bel Abbes"
-msgstr "سيدي بلعباس"
+msgstr ""
 
 #: places/DZ.php:821
 msgctxt "Algerian Communes"
 msgid "Tessala"
-msgstr "تسالة"
+msgstr ""
 
 #: places/DZ.php:822
 msgctxt "Algerian Communes"
 msgid "Sidi Brahim"
-msgstr "سيدي ابراهيم"
+msgstr ""
 
 #: places/DZ.php:823
 msgctxt "Algerian Communes"
 msgid "Mostefa Ben Brahim"
-msgstr "مصطفى بن ابراهيم"
+msgstr ""
 
 #: places/DZ.php:824
 msgctxt "Algerian Communes"
 msgid "Telagh"
-msgstr "تلاغ"
+msgstr ""
 
 #: places/DZ.php:825
 msgctxt "Algerian Communes"
 msgid "Mezaourou"
-msgstr "مزاورو"
+msgstr ""
 
 #: places/DZ.php:826
 msgctxt "Algerian Communes"
 msgid "Boukhanafis"
-msgstr "بوخنفيس"
+msgstr ""
 
 #: places/DZ.php:827
 msgctxt "Algerian Communes"
 msgid "Sidi Ali Boussidi"
-msgstr "سيدي علي بوسيدي"
+msgstr ""
 
 #: places/DZ.php:828
 msgctxt "Algerian Communes"
 msgid "Badredine El Mokrani"
-msgstr "بدر الدين المقراني"
+msgstr ""
 
 #: places/DZ.php:829
 msgctxt "Algerian Communes"
 msgid "Marhoum"
-msgstr "مرحوم"
+msgstr ""
 
 #: places/DZ.php:830
 msgctxt "Algerian Communes"
 msgid "Tafissour"
-msgstr "تفسور"
+msgstr ""
 
 #: places/DZ.php:831
 msgctxt "Algerian Communes"
 msgid "Amarnas"
-msgstr "العمارنة"
+msgstr ""
 
 #: places/DZ.php:832
 msgctxt "Algerian Communes"
 msgid "Tilmouni"
-msgstr "تلموني"
+msgstr ""
 
 #: places/DZ.php:833
 msgctxt "Algerian Communes"
 msgid "Sidi Lahcene"
-msgstr "سيدي لحسن"
+msgstr ""
 
 #: places/DZ.php:834
 msgctxt "Algerian Communes"
 msgid "Ain Thrid"
-msgstr "عين التريد"
+msgstr ""
 
 #: places/DZ.php:835
 msgctxt "Algerian Communes"
 msgid "Makedra"
-msgstr "مكدرة"
+msgstr ""
 
 #: places/DZ.php:836
 msgctxt "Algerian Communes"
 msgid "Tenira"
-msgstr "تنيرة"
+msgstr ""
 
 #: places/DZ.php:837
 msgctxt "Algerian Communes"
 msgid "Moulay Slissen"
-msgstr "مولاي سليسن"
+msgstr ""
 
 #: places/DZ.php:838
 msgctxt "Algerian Communes"
 msgid "El Hacaiba"
-msgstr "الحصيبة"
+msgstr ""
 
 #: places/DZ.php:839
 msgctxt "Algerian Communes"
 msgid "Hassi Zehana"
-msgstr "حاسي زهانة"
+msgstr ""
 
 #: places/DZ.php:840
 msgctxt "Algerian Communes"
 msgid "Tabia"
-msgstr "طابية"
+msgstr ""
 
 #: places/DZ.php:841
 msgctxt "Algerian Communes"
 msgid "Merine"
-msgstr "مرين"
+msgstr ""
 
 #: places/DZ.php:842
 msgctxt "Algerian Communes"
 msgid "Ras El Ma"
-msgstr "رأس الماء"
+msgstr ""
 
 #: places/DZ.php:843
 msgctxt "Algerian Communes"
 msgid "Ain Tindamine"
-msgstr "عين تندامين"
+msgstr ""
 
 #: places/DZ.php:844
 msgctxt "Algerian Communes"
 msgid "Ain Kada"
-msgstr "عين قادة"
+msgstr ""
 
 #: places/DZ.php:845
 msgctxt "Algerian Communes"
 msgid "Mcid"
-msgstr "مسيد"
+msgstr ""
 
 #: places/DZ.php:846
 #: places/DZ.php:1625
 msgctxt "Algerian Communes"
 msgid "Sidi Khaled"
-msgstr "سيدي خالد"
+msgstr ""
 
 #: places/DZ.php:847
 msgctxt "Algerian Communes"
 msgid "Ain El Berd"
-msgstr "عين البرد"
+msgstr ""
 
 #: places/DZ.php:848
 msgctxt "Algerian Communes"
 msgid "Sfissef"
-msgstr "سفيزف"
+msgstr ""
 
 #: places/DZ.php:849
 msgctxt "Algerian Communes"
 msgid "Ain Adden"
-msgstr "عين عدان"
+msgstr ""
 
 #: places/DZ.php:850
 msgctxt "Algerian Communes"
 msgid "Oued Taourira"
-msgstr "واد تاوريرة"
+msgstr ""
 
 #: places/DZ.php:851
 msgctxt "Algerian Communes"
 msgid "Dhaya"
-msgstr "الظاية"
+msgstr ""
 
 #: places/DZ.php:852
 msgctxt "Algerian Communes"
 msgid "Zerouala"
-msgstr "زروالة"
+msgstr ""
 
 #: places/DZ.php:853
 msgctxt "Algerian Communes"
 msgid "Lamtar"
-msgstr "لمطار"
+msgstr ""
 
 #: places/DZ.php:854
 msgctxt "Algerian Communes"
 msgid "Sidi Chaib"
-msgstr "سيدي شعيب"
+msgstr ""
 
 #: places/DZ.php:855
 msgctxt "Algerian Communes"
@@ -9901,272 +9901,272 @@ msgstr ""
 #: places/DZ.php:856
 msgctxt "Algerian Communes"
 msgid "Oued Sbaa"
-msgstr "واد السبع"
+msgstr ""
 
 #: places/DZ.php:857
 msgctxt "Algerian Communes"
 msgid "Boudjebaa El Bordj"
-msgstr "بوجبهة البرج"
+msgstr ""
 
 #: places/DZ.php:858
 msgctxt "Algerian Communes"
 msgid "Sehala Thaoura"
-msgstr "سهالة الثورة"
+msgstr ""
 
 #: places/DZ.php:859
 msgctxt "Algerian Communes"
 msgid "Sidi Yacoub"
-msgstr "سيدي يعقوب"
+msgstr ""
 
 #: places/DZ.php:860
 msgctxt "Algerian Communes"
 msgid "Sidi Hamadouche"
-msgstr "سيدي حمادوش"
+msgstr ""
 
 #: places/DZ.php:861
 msgctxt "Algerian Communes"
 msgid "Belarbi"
-msgstr "بلعربي"
+msgstr ""
 
 #: places/DZ.php:862
 msgctxt "Algerian Communes"
 msgid "Oued Sefioun"
-msgstr "واد سفيون"
+msgstr ""
 
 #: places/DZ.php:863
 msgctxt "Algerian Communes"
 msgid "Teghalimet"
-msgstr "تغاليمت"
+msgstr ""
 
 #: places/DZ.php:864
 msgctxt "Algerian Communes"
 msgid "Ben Badis"
-msgstr "ابن باديس"
+msgstr ""
 
 #: places/DZ.php:865
 msgctxt "Algerian Communes"
 msgid "Sidi Ali Benyoub"
-msgstr "سيدي علي بن يوب"
+msgstr ""
 
 #: places/DZ.php:866
 msgctxt "Algerian Communes"
 msgid "Chetouane Belaila"
-msgstr "شطوان بلايلة"
+msgstr ""
 
 #: places/DZ.php:867
 msgctxt "Algerian Communes"
 msgid "Bir El Hammam"
-msgstr "بئر الحمام"
+msgstr ""
 
 #: places/DZ.php:868
 msgctxt "Algerian Communes"
 msgid "Taoudmout"
-msgstr "تاودموت"
+msgstr ""
 
 #: places/DZ.php:869
 msgctxt "Algerian Communes"
 msgid "Redjem Demouche"
-msgstr "رجم دموش"
+msgstr ""
 
 #: places/DZ.php:870
 msgctxt "Algerian Communes"
 msgid "Benachiba Chelia"
-msgstr "بن عشيبة شلية"
+msgstr ""
 
 #: places/DZ.php:871
 msgctxt "Algerian Communes"
 msgid "Hassi Dahou"
-msgstr "حاسي دحو"
+msgstr ""
 
 #: places/DZ.php:874
 msgctxt "Algerian Communes"
 msgid "Annaba"
-msgstr "عنابة"
+msgstr ""
 
 #: places/DZ.php:875
 msgctxt "Algerian Communes"
 msgid "Berrahel"
-msgstr "برحال"
+msgstr ""
 
 #: places/DZ.php:876
 msgctxt "Algerian Communes"
 msgid "El Hadjar"
-msgstr "عين الحجر"
+msgstr ""
 
 #: places/DZ.php:877
 msgctxt "Algerian Communes"
 msgid "Eulma"
-msgstr "العلمة"
+msgstr ""
 
 #: places/DZ.php:878
 msgctxt "Algerian Communes"
 msgid "El Bouni"
-msgstr "البوني"
+msgstr ""
 
 #: places/DZ.php:879
 msgctxt "Algerian Communes"
 msgid "Oued El Aneb"
-msgstr "وادي العنب"
+msgstr ""
 
 #: places/DZ.php:880
 msgctxt "Algerian Communes"
 msgid "Cheurfa"
-msgstr "الشرفة"
+msgstr ""
 
 #: places/DZ.php:881
 msgctxt "Algerian Communes"
 msgid "Seraidi"
-msgstr "سرايدي"
+msgstr ""
 
 #: places/DZ.php:882
 msgctxt "Algerian Communes"
 msgid "Ain Berda"
-msgstr "عين الباردة"
+msgstr ""
 
 #: places/DZ.php:883
 msgctxt "Algerian Communes"
 msgid "Chetaibi"
-msgstr "شطايبي"
+msgstr ""
 
 #: places/DZ.php:884
 msgctxt "Algerian Communes"
 msgid "Sidi Amer"
-msgstr "سيدي عمار"
+msgstr ""
 
 #: places/DZ.php:885
 msgctxt "Algerian Communes"
 msgid "Treat"
-msgstr "التريعات"
+msgstr ""
 
 #: places/DZ.php:888
 msgctxt "Algerian Communes"
 msgid "Guelma"
-msgstr "قالمة"
+msgstr ""
 
 #: places/DZ.php:889
 msgctxt "Algerian Communes"
 msgid "Nechmaya"
-msgstr "نشماية"
+msgstr ""
 
 #: places/DZ.php:890
 msgctxt "Algerian Communes"
 msgid "Bouati Mahmoud"
-msgstr "بوعاتي محمود"
+msgstr ""
 
 #: places/DZ.php:891
 msgctxt "Algerian Communes"
 msgid "Oued Zenati"
-msgstr "وادي الزناتي"
+msgstr ""
 
 #: places/DZ.php:892
 msgctxt "Algerian Communes"
 msgid "Tamlouka"
-msgstr "تاملوكة"
+msgstr ""
 
 #: places/DZ.php:893
 msgctxt "Algerian Communes"
 msgid "Oued Fragha"
-msgstr "وادي فراغة"
+msgstr ""
 
 #: places/DZ.php:894
 msgctxt "Algerian Communes"
 msgid "Ain Sandel"
-msgstr "عين صندل"
+msgstr ""
 
 #: places/DZ.php:895
 msgctxt "Algerian Communes"
 msgid "Ras El Agba"
-msgstr "راس العقبة"
+msgstr ""
 
 #: places/DZ.php:896
 msgctxt "Algerian Communes"
 msgid "Dahouara"
-msgstr "الدهوارة"
+msgstr ""
 
 #: places/DZ.php:897
 msgctxt "Algerian Communes"
 msgid "Belkhir"
-msgstr "بلخير"
+msgstr ""
 
 #: places/DZ.php:898
 msgctxt "Algerian Communes"
 msgid "Ben Djarah"
-msgstr "بن جراح"
+msgstr ""
 
 #: places/DZ.php:899
 msgctxt "Algerian Communes"
 msgid "Bou Hamdane"
-msgstr "بوحمدان"
+msgstr ""
 
 #: places/DZ.php:900
 msgctxt "Algerian Communes"
 msgid "Ain Makhlouf"
-msgstr "عين مخلوف"
+msgstr ""
 
 #: places/DZ.php:901
 msgctxt "Algerian Communes"
 msgid "Ain Ben Beida"
-msgstr "عين بن بيضاء"
+msgstr ""
 
 #: places/DZ.php:902
 msgctxt "Algerian Communes"
 msgid "Khezara"
-msgstr "خزارة"
+msgstr ""
 
 #: places/DZ.php:903
 msgctxt "Algerian Communes"
 msgid "Beni Mezline"
-msgstr "بني مزلين"
+msgstr ""
 
 #: places/DZ.php:904
 msgctxt "Algerian Communes"
 msgid "Bou Hachana"
-msgstr "بوحشانة"
+msgstr ""
 
 #: places/DZ.php:905
 msgctxt "Algerian Communes"
 msgid "Guelaat Bou Sbaa"
-msgstr "قلعة بوصبع"
+msgstr ""
 
 #: places/DZ.php:906
 msgctxt "Algerian Communes"
 msgid "Hammam Maskhoutine"
-msgstr "حمام مسخوطين"
+msgstr ""
 
 #: places/DZ.php:907
 msgctxt "Algerian Communes"
 msgid "El Fedjoudj"
-msgstr "الفجوج بوغرارة سعودى"
+msgstr ""
 
 #: places/DZ.php:908
 msgctxt "Algerian Communes"
 msgid "Bordj Sabat"
-msgstr "برج صباط"
+msgstr ""
 
 #: places/DZ.php:909
 msgctxt "Algerian Communes"
 msgid "Hamman Nbail"
-msgstr "حمام النبايل"
+msgstr ""
 
 #: places/DZ.php:910
 msgctxt "Algerian Communes"
 msgid "Ain Larbi"
-msgstr "عين العربى"
+msgstr ""
 
 #: places/DZ.php:911
 msgctxt "Algerian Communes"
 msgid "Medjez Amar"
-msgstr "مجاز عمار"
+msgstr ""
 
 #: places/DZ.php:912
 msgctxt "Algerian Communes"
 msgid "Bouchegouf"
-msgstr "بوشقوف"
+msgstr ""
 
 #: places/DZ.php:913
 msgctxt "Algerian Communes"
 msgid "Heliopolis"
-msgstr "ھيليوبوليس"
+msgstr ""
 
 #: places/DZ.php:914
 msgctxt "Algerian Communes"
@@ -10176,47 +10176,47 @@ msgstr ""
 #: places/DZ.php:915
 msgctxt "Algerian Communes"
 msgid "Roknia"
-msgstr "الركنية"
+msgstr ""
 
 #: places/DZ.php:916
 msgctxt "Algerian Communes"
 msgid "Salaoua Announa"
-msgstr "سلاوة عنونة"
+msgstr ""
 
 #: places/DZ.php:917
 msgctxt "Algerian Communes"
 msgid "Medjez Sfa"
-msgstr "مجاز الصفاء"
+msgstr ""
 
 #: places/DZ.php:918
 msgctxt "Algerian Communes"
 msgid "Boumahra Ahmed"
-msgstr "بومهرة أحمد"
+msgstr ""
 
 #: places/DZ.php:919
 msgctxt "Algerian Communes"
 msgid "Ain Reggada"
-msgstr "عين رقادة"
+msgstr ""
 
 #: places/DZ.php:920
 msgctxt "Algerian Communes"
 msgid "Oued Cheham"
-msgstr "وادي الشحم"
+msgstr ""
 
 #: places/DZ.php:921
 msgctxt "Algerian Communes"
 msgid "Djeballah Khemissi"
-msgstr "جبالة لخميسي"
+msgstr ""
 
 #: places/DZ.php:924
 msgctxt "Algerian Communes"
 msgid "Constantine"
-msgstr "قسنطينة"
+msgstr ""
 
 #: places/DZ.php:925
 msgctxt "Algerian Communes"
 msgid "Hamma Bouziane"
-msgstr "حامة بوزيان"
+msgstr ""
 
 #: places/DZ.php:926
 msgctxt "Algerian Communes"
@@ -10226,102 +10226,102 @@ msgstr ""
 #: places/DZ.php:927
 msgctxt "Algerian Communes"
 msgid "Zighoud Youcef"
-msgstr "زيغود يوسف"
+msgstr ""
 
 #: places/DZ.php:928
 msgctxt "Algerian Communes"
 msgid "Didouche Mourad"
-msgstr "ديدوش مراد"
+msgstr ""
 
 #: places/DZ.php:929
 msgctxt "Algerian Communes"
 msgid "El Khroub"
-msgstr "الخروب"
+msgstr ""
 
 #: places/DZ.php:930
 msgctxt "Algerian Communes"
 msgid "Ain Abid"
-msgstr "عين عبيد"
+msgstr ""
 
 #: places/DZ.php:931
 msgctxt "Algerian Communes"
 msgid "Beni Hamiden"
-msgstr "بني حميدان"
+msgstr ""
 
 #: places/DZ.php:932
 msgctxt "Algerian Communes"
 msgid "Ouled Rahmoune"
-msgstr "أولاد رحمون"
+msgstr ""
 
 #: places/DZ.php:933
 msgctxt "Algerian Communes"
 msgid "Ain Smara"
-msgstr "عين سمارة"
+msgstr ""
 
 #: places/DZ.php:934
 msgctxt "Algerian Communes"
 msgid "Mesaoud Boudjeriou"
-msgstr "مسعود بوجريو"
+msgstr ""
 
 #: places/DZ.php:935
 msgctxt "Algerian Communes"
 msgid "Ibn Ziad"
-msgstr "ابن زياد"
+msgstr ""
 
 #: places/DZ.php:938
 msgctxt "Algerian Communes"
 msgid "Medea"
-msgstr "المدية"
+msgstr ""
 
 #: places/DZ.php:939
 msgctxt "Algerian Communes"
 msgid "Ouzera"
-msgstr "وزرة"
+msgstr ""
 
 #: places/DZ.php:940
 msgctxt "Algerian Communes"
 msgid "Ouled Maaref"
-msgstr "أولاد معرف"
+msgstr ""
 
 #: places/DZ.php:941
 msgctxt "Algerian Communes"
 msgid "Ain Boucif"
-msgstr "عين بوسيف"
+msgstr ""
 
 #: places/DZ.php:942
 msgctxt "Algerian Communes"
 msgid "Aissaouia"
-msgstr "العيساوية"
+msgstr ""
 
 #: places/DZ.php:943
 msgctxt "Algerian Communes"
 msgid "Ouled Deide"
-msgstr "أولاد دايد"
+msgstr ""
 
 #: places/DZ.php:944
 msgctxt "Algerian Communes"
 msgid "El Omaria"
-msgstr "العمارية"
+msgstr ""
 
 #: places/DZ.php:945
 msgctxt "Algerian Communes"
 msgid "Derrag"
-msgstr "دراڨ"
+msgstr ""
 
 #: places/DZ.php:946
 msgctxt "Algerian Communes"
 msgid "El Guelbelkebir"
-msgstr "القلب الكبير"
+msgstr ""
 
 #: places/DZ.php:947
 msgctxt "Algerian Communes"
 msgid "Bouaiche"
-msgstr "بوعيش"
+msgstr ""
 
 #: places/DZ.php:948
 msgctxt "Algerian Communes"
 msgid "Mezerena"
-msgstr "مزغنة"
+msgstr ""
 
 #: places/DZ.php:950
 msgctxt "Algerian Communes"
@@ -10331,152 +10331,152 @@ msgstr ""
 #: places/DZ.php:951
 msgctxt "Algerian Communes"
 msgid "Sidi Ziane"
-msgstr "سيدي زيان"
+msgstr ""
 
 #: places/DZ.php:952
 msgctxt "Algerian Communes"
 msgid "Tamesguida"
-msgstr "تمزڨيدة"
+msgstr ""
 
 #: places/DZ.php:953
 msgctxt "Algerian Communes"
 msgid "El Hamdania"
-msgstr "الحمدانية"
+msgstr ""
 
 #: places/DZ.php:954
 msgctxt "Algerian Communes"
 msgid "Kef Lakhdar"
-msgstr "الكاف الأخضر"
+msgstr ""
 
 #: places/DZ.php:955
 msgctxt "Algerian Communes"
 msgid "Chelalet El Adhaoura"
-msgstr "شلالة العذاورة"
+msgstr ""
 
 #: places/DZ.php:956
 msgctxt "Algerian Communes"
 msgid "Bouskene"
-msgstr "بوسكن"
+msgstr ""
 
 #: places/DZ.php:957
 msgctxt "Algerian Communes"
 msgid "Rebaia"
-msgstr "الربعية"
+msgstr ""
 
 #: places/DZ.php:958
 msgctxt "Algerian Communes"
 msgid "Bouchrahil"
-msgstr "بوشراحيل"
+msgstr ""
 
 #: places/DZ.php:959
 msgctxt "Algerian Communes"
 msgid "Ouled Hellal"
-msgstr "أولاد هلال"
+msgstr ""
 
 #: places/DZ.php:960
 msgctxt "Algerian Communes"
 msgid "Tafraout"
-msgstr "تافراوت"
+msgstr ""
 
 #: places/DZ.php:961
 msgctxt "Algerian Communes"
 msgid "Baata"
-msgstr "بعطة"
+msgstr ""
 
 #: places/DZ.php:962
 msgctxt "Algerian Communes"
 msgid "Boghar"
-msgstr "بوغار"
+msgstr ""
 
 #: places/DZ.php:964
 msgctxt "Algerian Communes"
 msgid "Ouled Bouachra"
-msgstr "أولاد بوعشرة"
+msgstr ""
 
 #: places/DZ.php:965
 msgctxt "Algerian Communes"
 msgid "Sidi Zahar"
-msgstr "سيدي زهار"
+msgstr ""
 
 #: places/DZ.php:966
 msgctxt "Algerian Communes"
 msgid "Oued Harbil"
-msgstr "وادي حربيل"
+msgstr ""
 
 #: places/DZ.php:967
 msgctxt "Algerian Communes"
 msgid "Benchicao"
-msgstr "بن شكاو"
+msgstr ""
 
 #: places/DZ.php:968
 msgctxt "Algerian Communes"
 msgid "Sidi Damed"
-msgstr "سيدي دامد"
+msgstr ""
 
 #: places/DZ.php:969
 msgctxt "Algerian Communes"
 msgid "Aziz"
-msgstr "بني عزيز"
+msgstr ""
 
 #: places/DZ.php:970
 msgctxt "Algerian Communes"
 msgid "Souagui"
-msgstr "السواڨي"
+msgstr ""
 
 #: places/DZ.php:971
 msgctxt "Algerian Communes"
 msgid "Zoubiria"
-msgstr "الزبيرية"
+msgstr ""
 
 #: places/DZ.php:972
 msgctxt "Algerian Communes"
 msgid "Ksar El Boukhari"
-msgstr "قصر البخاري"
+msgstr ""
 
 #: places/DZ.php:973
 msgctxt "Algerian Communes"
 msgid "El Azizia"
-msgstr "العزيزية"
+msgstr ""
 
 #: places/DZ.php:974
 msgctxt "Algerian Communes"
 msgid "Djouab"
-msgstr "جواب"
+msgstr ""
 
 #: places/DZ.php:975
 msgctxt "Algerian Communes"
 msgid "Chahbounia"
-msgstr "الشهبونية"
+msgstr ""
 
 #: places/DZ.php:976
 msgctxt "Algerian Communes"
 msgid "Meghraoua"
-msgstr "مغراوة"
+msgstr ""
 
 #: places/DZ.php:977
 msgctxt "Algerian Communes"
 msgid "Cheniguel"
-msgstr "شنيڨل"
+msgstr ""
 
 #: places/DZ.php:978
 msgctxt "Algerian Communes"
 msgid "Ain Ouksir"
-msgstr "عين القصير"
+msgstr ""
 
 #: places/DZ.php:979
 msgctxt "Algerian Communes"
 msgid "Oum El Djalil"
-msgstr "أم الجليل"
+msgstr ""
 
 #: places/DZ.php:980
 msgctxt "Algerian Communes"
 msgid "Ouamri"
-msgstr "عوامري"
+msgstr ""
 
 #: places/DZ.php:981
 msgctxt "Algerian Communes"
 msgid "Si Mahdjoub"
-msgstr "سى المحجوب"
+msgstr ""
 
 #: places/DZ.php:982
 msgctxt "Algerian Communes"
@@ -10486,147 +10486,147 @@ msgstr ""
 #: places/DZ.php:983
 msgctxt "Algerian Communes"
 msgid "Beni Slimane"
-msgstr "بني سليمان"
+msgstr ""
 
 #: places/DZ.php:984
 msgctxt "Algerian Communes"
 msgid "Berrouaghia"
-msgstr "البرواڨية"
+msgstr ""
 
 #: places/DZ.php:985
 msgctxt "Algerian Communes"
 msgid "Seghouane"
-msgstr "سغوان"
+msgstr ""
 
 #: places/DZ.php:986
 msgctxt "Algerian Communes"
 msgid "Meftaha"
-msgstr "المفاتحة"
+msgstr ""
 
 #: places/DZ.php:987
 msgctxt "Algerian Communes"
 msgid "Mihoub"
-msgstr "ميهوب"
+msgstr ""
 
 #: places/DZ.php:988
 msgctxt "Algerian Communes"
 msgid "Boughezoul"
-msgstr "بوغزول"
+msgstr ""
 
 #: places/DZ.php:989
 msgctxt "Algerian Communes"
 msgid "Tablat"
-msgstr "تابلاط"
+msgstr ""
 
 #: places/DZ.php:990
 msgctxt "Algerian Communes"
 msgid "Deux Bassins"
-msgstr "فج الحوضين"
+msgstr ""
 
 #: places/DZ.php:991
 msgctxt "Algerian Communes"
 msgid "Draa Essamar"
-msgstr "ذراع السمار"
+msgstr ""
 
 #: places/DZ.php:992
 msgctxt "Algerian Communes"
 msgid "Sidi Errabia"
-msgstr "سيدي الربيع"
+msgstr ""
 
 #: places/DZ.php:993
 msgctxt "Algerian Communes"
 msgid "Bir Ben Laabed"
-msgstr "بئر بن العابد"
+msgstr ""
 
 #: places/DZ.php:994
 msgctxt "Algerian Communes"
 msgid "El Ouinet"
-msgstr "العوينات"
+msgstr ""
 
 #: places/DZ.php:995
 msgctxt "Algerian Communes"
 msgid "Ouled Antar"
-msgstr "أولاد عنتر"
+msgstr ""
 
 #: places/DZ.php:996
 msgctxt "Algerian Communes"
 msgid "Bouaichoune"
-msgstr "بوعيشون"
+msgstr ""
 
 #: places/DZ.php:997
 msgctxt "Algerian Communes"
 msgid "Hannacha"
-msgstr "حناشة"
+msgstr ""
 
 #: places/DZ.php:998
 msgctxt "Algerian Communes"
 msgid "Sedraia"
-msgstr "سدراية"
+msgstr ""
 
 #: places/DZ.php:999
 msgctxt "Algerian Communes"
 msgid "Medjebar"
-msgstr "مجبر"
+msgstr ""
 
 #: places/DZ.php:1000
 msgctxt "Algerian Communes"
 msgid "Khams Djouamaa"
-msgstr "خمس جوامع"
+msgstr ""
 
 #: places/DZ.php:1001
 msgctxt "Algerian Communes"
 msgid "Saneg"
-msgstr "سانڨ"
+msgstr ""
 
 #: places/DZ.php:1004
 msgctxt "Algerian Communes"
 msgid "Mostaganem"
-msgstr "مستغانم"
+msgstr ""
 
 #: places/DZ.php:1005
 msgctxt "Algerian Communes"
 msgid "Sayada"
-msgstr "صيادة"
+msgstr ""
 
 #: places/DZ.php:1006
 msgctxt "Algerian Communes"
 msgid "Fornaka"
-msgstr "فرناكة"
+msgstr ""
 
 #: places/DZ.php:1007
 msgctxt "Algerian Communes"
 msgid "Stidia"
-msgstr "ستيدية"
+msgstr ""
 
 #: places/DZ.php:1008
 msgctxt "Algerian Communes"
 msgid "Ain Nouissy"
-msgstr "عين نويسي"
+msgstr ""
 
 #: places/DZ.php:1009
 msgctxt "Algerian Communes"
 msgid "Hassi Maameche"
-msgstr "حاسي مماش"
+msgstr ""
 
 #: places/DZ.php:1010
 msgctxt "Algerian Communes"
 msgid "Ain Tadles"
-msgstr "عين تادلس"
+msgstr ""
 
 #: places/DZ.php:1011
 msgctxt "Algerian Communes"
 msgid "Sour"
-msgstr "سور الغزلان"
+msgstr ""
 
 #: places/DZ.php:1012
 msgctxt "Algerian Communes"
 msgid "Oued El Kheir"
-msgstr "واد الخير"
+msgstr ""
 
 #: places/DZ.php:1013
 msgctxt "Algerian Communes"
 msgid "Sidi Bellater"
-msgstr "سيدي بلعاتر"
+msgstr ""
 
 #: places/DZ.php:1014
 msgctxt "Algerian Communes"
@@ -10636,2359 +10636,2359 @@ msgstr ""
 #: places/DZ.php:1015
 msgctxt "Algerian Communes"
 msgid "Sidi Ali"
-msgstr "عين سيدي علي"
+msgstr ""
 
 #: places/DZ.php:1016
 msgctxt "Algerian Communes"
 msgid "Abdelmalek Ramdane"
-msgstr "عبد المالك رمضان"
+msgstr ""
 
 #: places/DZ.php:1017
 msgctxt "Algerian Communes"
 msgid "Hadjadj"
-msgstr "الحجاج"
+msgstr ""
 
 #: places/DZ.php:1018
 msgctxt "Algerian Communes"
 msgid "Nekmaria"
-msgstr "نقمارية"
+msgstr ""
 
 #: places/DZ.php:1019
 #: places/DZ.php:1490
 msgctxt "Algerian Communes"
 msgid "Sidi Lakhdar"
-msgstr "سيدي لخضر"
+msgstr ""
 
 #: places/DZ.php:1020
 msgctxt "Algerian Communes"
 msgid "Achaacha"
-msgstr "عشعاشة"
+msgstr ""
 
 #: places/DZ.php:1021
 msgctxt "Algerian Communes"
 msgid "Khadra"
-msgstr "خضراء"
+msgstr ""
 
 #: places/DZ.php:1022
 msgctxt "Algerian Communes"
 msgid "Bouguirat"
-msgstr "بوقيراط"
+msgstr ""
 
 #: places/DZ.php:1023
 msgctxt "Algerian Communes"
 msgid "Sirat"
-msgstr "سيرات"
+msgstr ""
 
 #: places/DZ.php:1024
 msgctxt "Algerian Communes"
 msgid "Ain Sidi Cherif"
-msgstr "عين سيدي شريف"
+msgstr ""
 
 #: places/DZ.php:1025
 msgctxt "Algerian Communes"
 msgid "Mesra"
-msgstr "ماسرة"
+msgstr ""
 
 #: places/DZ.php:1027
 msgctxt "Algerian Communes"
 msgid "Souaflia"
-msgstr "سوافلية"
+msgstr ""
 
 #: places/DZ.php:1028
 msgctxt "Algerian Communes"
 msgid "Ouled Boughalem"
-msgstr "أوالد بوغالم"
+msgstr ""
 
 #: places/DZ.php:1029
 msgctxt "Algerian Communes"
 msgid "Ouled Maallah"
-msgstr "أولاد مع اللّه"
+msgstr ""
 
 #: places/DZ.php:1030
 msgctxt "Algerian Communes"
 msgid "Mezghrane"
-msgstr "مزغران"
+msgstr ""
 
 #: places/DZ.php:1031
 msgctxt "Algerian Communes"
 msgid "Ain Boudinar"
-msgstr "عين بودينار"
+msgstr ""
 
 #: places/DZ.php:1032
 msgctxt "Algerian Communes"
 msgid "Tazgait"
-msgstr "تزقايت"
+msgstr ""
 
 #: places/DZ.php:1033
 msgctxt "Algerian Communes"
 msgid "Safsaf"
-msgstr "صفصاف الوسرة"
+msgstr ""
 
 #: places/DZ.php:1034
 msgctxt "Algerian Communes"
 msgid "Touahria"
-msgstr "طواھيرية"
+msgstr ""
 
 #: places/DZ.php:1035
 msgctxt "Algerian Communes"
 msgid "El Hassiane"
-msgstr "الحسيان"
+msgstr ""
 
 #: places/DZ.php:1038
 msgctxt "Algerian Communes"
 msgid "Msila"
-msgstr "المسيلة"
+msgstr ""
 
 #: places/DZ.php:1039
 msgctxt "Algerian Communes"
 msgid "Maadid"
-msgstr "المعاضيد"
+msgstr ""
 
 #: places/DZ.php:1040
 msgctxt "Algerian Communes"
 msgid "Hammam Dhalaa"
-msgstr "حمـام الضلعة"
+msgstr ""
 
 #: places/DZ.php:1041
 msgctxt "Algerian Communes"
 msgid "Ouled Derradj"
-msgstr "أولاد دراج"
+msgstr ""
 
 #: places/DZ.php:1042
 msgctxt "Algerian Communes"
 msgid "Tarmount"
-msgstr "تارمونت"
+msgstr ""
 
 #: places/DZ.php:1043
 msgctxt "Algerian Communes"
 msgid "Mtarfa"
-msgstr "مطارفة"
+msgstr ""
 
 #: places/DZ.php:1044
 msgctxt "Algerian Communes"
 msgid "Khoubana"
-msgstr "خبانة"
+msgstr ""
 
 #: places/DZ.php:1045
 msgctxt "Algerian Communes"
 msgid "Mcif"
-msgstr "مسيف"
+msgstr ""
 
 #: places/DZ.php:1046
 msgctxt "Algerian Communes"
 msgid "Chellal"
-msgstr "قصر الشلالة"
+msgstr ""
 
 #: places/DZ.php:1047
 msgctxt "Algerian Communes"
 msgid "Ouled Madhi"
-msgstr "أولاد مـاضي"
+msgstr ""
 
 #: places/DZ.php:1048
 msgctxt "Algerian Communes"
 msgid "Magra"
-msgstr "مقرة"
+msgstr ""
 
 #: places/DZ.php:1049
 msgctxt "Algerian Communes"
 msgid "Berhoum"
-msgstr "برهوم"
+msgstr ""
 
 #: places/DZ.php:1050
 msgctxt "Algerian Communes"
 msgid "Ain Khadra"
-msgstr "عين الخضراء"
+msgstr ""
 
 #: places/DZ.php:1051
 msgctxt "Algerian Communes"
 msgid "Ouled Addi Guebala"
-msgstr "اولاد عدي لقبالة"
+msgstr ""
 
 #: places/DZ.php:1052
 msgctxt "Algerian Communes"
 msgid "Belaiba"
-msgstr "بلعايبة"
+msgstr ""
 
 #: places/DZ.php:1053
 msgctxt "Algerian Communes"
 msgid "Sidi Aissa"
-msgstr "سيدي عيسى"
+msgstr ""
 
 #: places/DZ.php:1054
 msgctxt "Algerian Communes"
 msgid "Ain El Hadjel"
-msgstr "عين الحجل"
+msgstr ""
 
 #: places/DZ.php:1055
 msgctxt "Algerian Communes"
 msgid "Sidi Hadjeres"
-msgstr "سيدي ھجرس"
+msgstr ""
 
 #: places/DZ.php:1056
 msgctxt "Algerian Communes"
 msgid "Ouanougha"
-msgstr "ونوغة"
+msgstr ""
 
 #: places/DZ.php:1057
 msgctxt "Algerian Communes"
 msgid "Bou Saada"
-msgstr "بوسعادة"
+msgstr ""
 
 #: places/DZ.php:1058
 #: places/DZ.php:1226
 msgctxt "Algerian Communes"
 msgid "Ouled Sidi Brahim"
-msgstr "أولاد سيدي ابراهيم"
+msgstr ""
 
 #: places/DZ.php:1059
 #: places/DZ.php:1191
 msgctxt "Algerian Communes"
 msgid "Sidi Ameur"
-msgstr "سيدي عامر"
+msgstr ""
 
 #: places/DZ.php:1060
 msgctxt "Algerian Communes"
 msgid "Tamsa"
-msgstr "تامسة"
+msgstr ""
 
 #: places/DZ.php:1061
 msgctxt "Algerian Communes"
 msgid "Ben Srour"
-msgstr "بن سرور"
+msgstr ""
 
 #: places/DZ.php:1062
 msgctxt "Algerian Communes"
 msgid "Ouled Slimane"
-msgstr "أولاد سليمان"
+msgstr ""
 
 #: places/DZ.php:1063
 msgctxt "Algerian Communes"
 msgid "El Houamed"
-msgstr "الحوامد"
+msgstr ""
 
 #: places/DZ.php:1064
 msgctxt "Algerian Communes"
 msgid "El Hamel"
-msgstr "الهامل"
+msgstr ""
 
 #: places/DZ.php:1065
 msgctxt "Algerian Communes"
 msgid "Ouled Mansour"
-msgstr "أولاد منصور"
+msgstr ""
 
 #: places/DZ.php:1066
 msgctxt "Algerian Communes"
 msgid "Maarif"
-msgstr "المعاريف"
+msgstr ""
 
 #: places/DZ.php:1067
 msgctxt "Algerian Communes"
 msgid "Dehahna"
-msgstr "الدهاهنة"
+msgstr ""
 
 #: places/DZ.php:1068
 msgctxt "Algerian Communes"
 msgid "Bouti Sayah"
-msgstr "بوطي السايح"
+msgstr ""
 
 #: places/DZ.php:1069
 msgctxt "Algerian Communes"
 msgid "Khettouti Sed Djir"
-msgstr "خطوطي سد الجير"
+msgstr ""
 
 #: places/DZ.php:1070
 msgctxt "Algerian Communes"
 msgid "Zarzour"
-msgstr "الزرزور"
+msgstr ""
 
 #: places/DZ.php:1071
 msgctxt "Algerian Communes"
 msgid "Oued Chair"
-msgstr "محمد بوضياف"
+msgstr ""
 
 #: places/DZ.php:1072
 msgctxt "Algerian Communes"
 msgid "Benzouh"
-msgstr "بن الزوه"
+msgstr ""
 
 #: places/DZ.php:1073
 msgctxt "Algerian Communes"
 msgid "Bir Foda"
-msgstr "بير الفضة"
+msgstr ""
 
 #: places/DZ.php:1074
 #: places/DZ.php:1110
 msgctxt "Algerian Communes"
 msgid "Ain Fares"
-msgstr "عين فارس"
+msgstr ""
 
 #: places/DZ.php:1076
 msgctxt "Algerian Communes"
 msgid "Ouled Atia"
-msgstr "منعة"
+msgstr ""
 
 #: places/DZ.php:1078
 msgctxt "Algerian Communes"
 msgid "Ain El Melh"
-msgstr "عين الملح"
+msgstr ""
 
 #: places/DZ.php:1079
 msgctxt "Algerian Communes"
 msgid "Medjedel"
-msgstr "مجدل"
+msgstr ""
 
 #: places/DZ.php:1080
 msgctxt "Algerian Communes"
 msgid "Slim"
-msgstr "أولاد سي سليمان"
+msgstr ""
 
 #: places/DZ.php:1081
 msgctxt "Algerian Communes"
 msgid "Ain Errich"
-msgstr "عين الريش"
+msgstr ""
 
 #: places/DZ.php:1082
 msgctxt "Algerian Communes"
 msgid "Beni Ilmane"
-msgstr "بنى يلمان"
+msgstr ""
 
 #: places/DZ.php:1083
 msgctxt "Algerian Communes"
 msgid "Oultene"
-msgstr "ولتام"
+msgstr ""
 
 #: places/DZ.php:1084
 msgctxt "Algerian Communes"
 msgid "Djebel Messaad"
-msgstr "جبل مساعد"
+msgstr ""
 
 #: places/DZ.php:1087
 msgctxt "Algerian Communes"
 msgid "Mascara"
-msgstr "مـعـسـكـر"
+msgstr ""
 
 #: places/DZ.php:1088
 msgctxt "Algerian Communes"
 msgid "Bou Hanifia"
-msgstr "بوحنيفية"
+msgstr ""
 
 #: places/DZ.php:1089
 msgctxt "Algerian Communes"
 msgid "Tizi"
-msgstr "تيزى نبربر"
+msgstr ""
 
 #: places/DZ.php:1090
 msgctxt "Algerian Communes"
 msgid "Hacine"
-msgstr "حسين"
+msgstr ""
 
 #: places/DZ.php:1091
 msgctxt "Algerian Communes"
 msgid "Maoussa"
-msgstr "ماوسة"
+msgstr ""
 
 #: places/DZ.php:1092
 msgctxt "Algerian Communes"
 msgid "Teghennif"
-msgstr "تيغنيف"
+msgstr ""
 
 #: places/DZ.php:1093
 msgctxt "Algerian Communes"
 msgid "El Hachem"
-msgstr "الهاشم"
+msgstr ""
 
 #: places/DZ.php:1094
 msgctxt "Algerian Communes"
 msgid "Sidi Kada"
-msgstr "سيدي قادة"
+msgstr ""
 
 #: places/DZ.php:1095
 msgctxt "Algerian Communes"
 msgid "Zelmata"
-msgstr "زلماطة"
+msgstr ""
 
 #: places/DZ.php:1096
 msgctxt "Algerian Communes"
 msgid "Oued El Abtal"
-msgstr "واد الأبطال"
+msgstr ""
 
 #: places/DZ.php:1097
 msgctxt "Algerian Communes"
 msgid "Ain Ferah"
-msgstr "عين فراح"
+msgstr ""
 
 #: places/DZ.php:1098
 msgctxt "Algerian Communes"
 msgid "Ghriss"
-msgstr "غريس"
+msgstr ""
 
 #: places/DZ.php:1099
 msgctxt "Algerian Communes"
 msgid "Froha"
-msgstr "فروحة"
+msgstr ""
 
 #: places/DZ.php:1100
 msgctxt "Algerian Communes"
 msgid "Matemore"
-msgstr "مطمور"
+msgstr ""
 
 #: places/DZ.php:1101
 msgctxt "Algerian Communes"
 msgid "Makdha"
-msgstr "ماقضة"
+msgstr ""
 
 #: places/DZ.php:1102
 msgctxt "Algerian Communes"
 msgid "Sidi Boussaid"
-msgstr "سيدي بوسعيد"
+msgstr ""
 
 #: places/DZ.php:1103
 msgctxt "Algerian Communes"
 msgid "El Bordj"
-msgstr "بوجبهة البرج"
+msgstr ""
 
 #: places/DZ.php:1104
 msgctxt "Algerian Communes"
 msgid "Ain Fekan"
-msgstr "عين فكان"
+msgstr ""
 
 #: places/DZ.php:1105
 msgctxt "Algerian Communes"
 msgid "Benian"
-msgstr "عين بنيان"
+msgstr ""
 
 #: places/DZ.php:1106
 msgctxt "Algerian Communes"
 msgid "Khalouia"
-msgstr "خلوية"
+msgstr ""
 
 #: places/DZ.php:1107
 msgctxt "Algerian Communes"
 msgid "El Menaouer"
-msgstr "المناور"
+msgstr ""
 
 #: places/DZ.php:1108
 msgctxt "Algerian Communes"
 msgid "Oued Taria"
-msgstr "واد التاغية"
+msgstr ""
 
 #: places/DZ.php:1109
 msgctxt "Algerian Communes"
 msgid "Aouf"
-msgstr "أولاد عوف"
+msgstr ""
 
 #: places/DZ.php:1111
 msgctxt "Algerian Communes"
 msgid "Ain Frass"
-msgstr "عين فراس"
+msgstr ""
 
 #: places/DZ.php:1112
 msgctxt "Algerian Communes"
 msgid "Sig"
-msgstr "سيقوس"
+msgstr ""
 
 #: places/DZ.php:1113
 msgctxt "Algerian Communes"
 msgid "Oggaz"
-msgstr "عقاز"
+msgstr ""
 
 #: places/DZ.php:1114
 msgctxt "Algerian Communes"
 msgid "Alaimia"
-msgstr "العلايمية"
+msgstr ""
 
 #: places/DZ.php:1115
 msgctxt "Algerian Communes"
 msgid "El Gaada"
-msgstr "القعدة"
+msgstr ""
 
 #: places/DZ.php:1116
 msgctxt "Algerian Communes"
 msgid "Zahana"
-msgstr "زھانة"
+msgstr ""
 
 #: places/DZ.php:1118
 msgctxt "Algerian Communes"
 msgid "Sidi Abdelmoumene"
-msgstr "سيدي عبد المومن"
+msgstr ""
 
 #: places/DZ.php:1119
 msgctxt "Algerian Communes"
 msgid "Ferraguig"
-msgstr "فرقيق"
+msgstr ""
 
 #: places/DZ.php:1120
 msgctxt "Algerian Communes"
 msgid "El Ghomri"
-msgstr "الغمري"
+msgstr ""
 
 #: places/DZ.php:1121
 msgctxt "Algerian Communes"
 msgid "Sedjerara"
-msgstr "سجرارة"
+msgstr ""
 
 #: places/DZ.php:1122
 msgctxt "Algerian Communes"
 msgid "Moctadouz"
-msgstr "مقطع الدوز"
+msgstr ""
 
 #: places/DZ.php:1123
 msgctxt "Algerian Communes"
 msgid "Bou Henni"
-msgstr "بوهني"
+msgstr ""
 
 #: places/DZ.php:1124
 msgctxt "Algerian Communes"
 msgid "Guettena"
-msgstr "القيطنة"
+msgstr ""
 
 #: places/DZ.php:1125
 msgctxt "Algerian Communes"
 msgid "El Mamounia"
-msgstr "المامونية"
+msgstr ""
 
 #: places/DZ.php:1126
 msgctxt "Algerian Communes"
 msgid "El Keurt"
-msgstr "الكرط"
+msgstr ""
 
 #: places/DZ.php:1127
 msgctxt "Algerian Communes"
 msgid "Gharrous"
-msgstr "غروس"
+msgstr ""
 
 #: places/DZ.php:1128
 msgctxt "Algerian Communes"
 msgid "Gherdjoum"
-msgstr "ڤرجوم"
+msgstr ""
 
 #: places/DZ.php:1130
 msgctxt "Algerian Communes"
 msgid "Ras Ain Amirouche"
-msgstr "رأس العين عميروش"
+msgstr ""
 
 #: places/DZ.php:1131
 msgctxt "Algerian Communes"
 msgid "Nesmot"
-msgstr "نسموط"
+msgstr ""
 
 #: places/DZ.php:1132
 msgctxt "Algerian Communes"
 msgid "Sidi Abdeldjebar"
-msgstr "سيدي عبد الجبار"
+msgstr ""
 
 #: places/DZ.php:1133
 msgctxt "Algerian Communes"
 msgid "Sehailia"
-msgstr "سحايلية"
+msgstr ""
 
 #: places/DZ.php:1136
 msgctxt "Algerian Communes"
 msgid "Ouargla"
-msgstr "ورڨلة"
+msgstr ""
 
 #: places/DZ.php:1138
 msgctxt "Algerian Communes"
 msgid "Ngoussa"
-msgstr "نقوسة"
+msgstr ""
 
 #: places/DZ.php:1139
 msgctxt "Algerian Communes"
 msgid "Hassi Messaoud"
-msgstr "حاسي مسعود"
+msgstr ""
 
 #: places/DZ.php:1140
 msgctxt "Algerian Communes"
 msgid "Rouissat"
-msgstr "الرويسات"
+msgstr ""
 
 #: places/DZ.php:1141
 msgctxt "Algerian Communes"
 msgid "Sidi Khouiled"
-msgstr "سيدي خويلد"
+msgstr ""
 
 #: places/DZ.php:1142
 msgctxt "Algerian Communes"
 msgid "Hassi Ben Abdellah"
-msgstr "حاسي بن عبد ﷲ"
+msgstr ""
 
 #: places/DZ.php:1143
 msgctxt "Algerian Communes"
 msgid "El Borma"
-msgstr "البرمة"
+msgstr ""
 
 #: places/DZ.php:1146
 msgctxt "Algerian Communes"
 msgid "Oran"
-msgstr "وهران"
+msgstr ""
 
 #: places/DZ.php:1147
 msgctxt "Algerian Communes"
 msgid "Gdyel"
-msgstr "ڨديل"
+msgstr ""
 
 #: places/DZ.php:1148
 msgctxt "Algerian Communes"
 msgid "Bir El Djir"
-msgstr "بئر الجير"
+msgstr ""
 
 #: places/DZ.php:1149
 msgctxt "Algerian Communes"
 msgid "Hassi Bounif"
-msgstr "حاسيْ بُونِيف"
+msgstr ""
 
 #: places/DZ.php:1150
 msgctxt "Algerian Communes"
 msgid "Es Senia"
-msgstr "السانية"
+msgstr ""
 
 #: places/DZ.php:1151
 msgctxt "Algerian Communes"
 msgid "Arzew"
-msgstr "أرزيو"
+msgstr ""
 
 #: places/DZ.php:1152
 msgctxt "Algerian Communes"
 msgid "Bethioua"
-msgstr "ﺑﻃﻴﻭة"
+msgstr ""
 
 #: places/DZ.php:1153
 msgctxt "Algerian Communes"
 msgid "Marsat El Hadjadj"
-msgstr "مَرس ألحَجَاج"
+msgstr ""
 
 #: places/DZ.php:1155
 msgctxt "Algerian Communes"
 msgid "El Ancar"
-msgstr "العنصر"
+msgstr ""
 
 #: places/DZ.php:1156
 msgctxt "Algerian Communes"
 msgid "Oued Tlelat"
-msgstr "وادى تليلات"
+msgstr ""
 
 #: places/DZ.php:1157
 msgctxt "Algerian Communes"
 msgid "Tafraoui"
-msgstr "طفراوي"
+msgstr ""
 
 #: places/DZ.php:1158
 msgctxt "Algerian Communes"
 msgid "Sidi Chami"
-msgstr "سيدي الشحمي"
+msgstr ""
 
 #: places/DZ.php:1159
 msgctxt "Algerian Communes"
 msgid "Boufatis"
-msgstr "بوفاطيس"
+msgstr ""
 
 #: places/DZ.php:1160
 msgctxt "Algerian Communes"
 msgid "Mers El Kebir"
-msgstr "المرسى الكبير"
+msgstr ""
 
 #: places/DZ.php:1161
 msgctxt "Algerian Communes"
 msgid "Bousfer"
-msgstr "بوسفر"
+msgstr ""
 
 #: places/DZ.php:1162
 msgctxt "Algerian Communes"
 msgid "El Karma"
-msgstr "الكرمة"
+msgstr ""
 
 #: places/DZ.php:1163
 msgctxt "Algerian Communes"
 msgid "El Braya"
-msgstr "ألبْرَيَ"
+msgstr ""
 
 #: places/DZ.php:1164
 msgctxt "Algerian Communes"
 msgid "Hassi Ben Okba"
-msgstr "حاسي بن عقبة"
+msgstr ""
 
 #: places/DZ.php:1165
 msgctxt "Algerian Communes"
 msgid "Ben Freha"
-msgstr "بن فريحة"
+msgstr ""
 
 #: places/DZ.php:1166
 msgctxt "Algerian Communes"
 msgid "Hassi Mefsoukh"
-msgstr "حاسي مفسوخ"
+msgstr ""
 
 #: places/DZ.php:1167
 msgctxt "Algerian Communes"
 msgid "Sidi Ben Yabka"
-msgstr "سيدي بن يبقى"
+msgstr ""
 
 #: places/DZ.php:1168
 msgctxt "Algerian Communes"
 msgid "Messerghin"
-msgstr "مسرغين"
+msgstr ""
 
 #: places/DZ.php:1169
 msgctxt "Algerian Communes"
 msgid "Boutlelis"
-msgstr "بوتليليس"
+msgstr ""
 
 #: places/DZ.php:1170
 #: places/DZ.php:1294
 msgctxt "Algerian Communes"
 msgid "Ain Kerma"
-msgstr "عين الكرمة"
+msgstr ""
 
 #: places/DZ.php:1171
 msgctxt "Algerian Communes"
 msgid "Ain Biya"
-msgstr "عين البية"
+msgstr ""
 
 #: places/DZ.php:1174
 msgctxt "Algerian Communes"
 msgid "El Bayadh"
-msgstr "الـبـيـض"
+msgstr ""
 
 #: places/DZ.php:1175
 msgctxt "Algerian Communes"
 msgid "Rogassa"
-msgstr "روقاصة"
+msgstr ""
 
 #: places/DZ.php:1176
 msgctxt "Algerian Communes"
 msgid "Stitten"
-msgstr "ستيتين"
+msgstr ""
 
 #: places/DZ.php:1177
 msgctxt "Algerian Communes"
 msgid "Brezina"
-msgstr "بريزينة"
+msgstr ""
 
 #: places/DZ.php:1178
 msgctxt "Algerian Communes"
 msgid "Ghassoul"
-msgstr "غسول"
+msgstr ""
 
 #: places/DZ.php:1179
 msgctxt "Algerian Communes"
 msgid "Boualem"
-msgstr "بوعلام"
+msgstr ""
 
 #: places/DZ.php:1180
 msgctxt "Algerian Communes"
 msgid "El Abiodh Sidi Cheikh"
-msgstr "الابيض سيدي الشيخ"
+msgstr ""
 
 #: places/DZ.php:1181
 msgctxt "Algerian Communes"
 msgid "Ain El Orak"
-msgstr "عين العراك"
+msgstr ""
 
 #: places/DZ.php:1182
 msgctxt "Algerian Communes"
 msgid "Arbaouat"
-msgstr "أربوات"
+msgstr ""
 
 #: places/DZ.php:1183
 msgctxt "Algerian Communes"
 msgid "Bougtoub"
-msgstr "بوقطب"
+msgstr ""
 
 #: places/DZ.php:1184
 msgctxt "Algerian Communes"
 msgid "El Kheither"
-msgstr "الخيثر"
+msgstr ""
 
 #: places/DZ.php:1185
 msgctxt "Algerian Communes"
 msgid "Kef El Ahmar"
-msgstr "الكاف الاحمر"
+msgstr ""
 
 #: places/DZ.php:1186
 msgctxt "Algerian Communes"
 msgid "Boussemghoun"
-msgstr "بوسمغون"
+msgstr ""
 
 #: places/DZ.php:1187
 msgctxt "Algerian Communes"
 msgid "Chellala"
-msgstr "قصر الشلالة"
+msgstr ""
 
 #: places/DZ.php:1188
 msgctxt "Algerian Communes"
 msgid "Krakda"
-msgstr "كراكدة"
+msgstr ""
 
 #: places/DZ.php:1189
 msgctxt "Algerian Communes"
 msgid "El Bnoud"
-msgstr "البنود"
+msgstr ""
 
 #: places/DZ.php:1190
 msgctxt "Algerian Communes"
 msgid "Cheguig"
-msgstr "الشقيق"
+msgstr ""
 
 #: places/DZ.php:1192
 msgctxt "Algerian Communes"
 msgid "El Mehara"
-msgstr "المھارة"
+msgstr ""
 
 #: places/DZ.php:1193
 msgctxt "Algerian Communes"
 msgid "Tousmouline"
-msgstr "توسمولين"
+msgstr ""
 
 #: places/DZ.php:1194
 #: places/DZ.php:1323
 #: places/DZ.php:1660
 msgctxt "Algerian Communes"
 msgid "Sidi Slimane"
-msgstr "سيدي سليمان"
+msgstr ""
 
 #: places/DZ.php:1195
 msgctxt "Algerian Communes"
 msgid "Sidi Tifour"
-msgstr "سيدي طيفور"
+msgstr ""
 
 #: places/DZ.php:1198
 msgctxt "Algerian Communes"
 msgid "Illizi"
-msgstr "إلـيـزي"
+msgstr ""
 
 #: places/DZ.php:1199
 msgctxt "Algerian Communes"
 msgid "Debdeb"
-msgstr "دبداب"
+msgstr ""
 
 #: places/DZ.php:1200
 msgctxt "Algerian Communes"
 msgid "Bordj Omar Driss"
-msgstr "برج عمر ادريس"
+msgstr ""
 
 #: places/DZ.php:1201
 msgctxt "Algerian Communes"
 msgid "In Amenas"
-msgstr "إن أميناس"
+msgstr ""
 
 #: places/DZ.php:1204
 msgctxt "Algerian Communes"
 msgid "Bordj Bou Arreridj"
-msgstr "برج بوعريريج"
+msgstr ""
 
 #: places/DZ.php:1205
 msgctxt "Algerian Communes"
 msgid "Ras El Oued"
-msgstr "رأس الوادي"
+msgstr ""
 
 #: places/DZ.php:1206
 msgctxt "Algerian Communes"
 msgid "Bordj Zemoura"
-msgstr "برج زمورة"
+msgstr ""
 
 #: places/DZ.php:1207
 #: places/DZ.php:1558
 msgctxt "Algerian Communes"
 msgid "Mansoura"
-msgstr "المنصورة"
+msgstr ""
 
 #: places/DZ.php:1208
 msgctxt "Algerian Communes"
 msgid "El Mhir"
-msgstr "المھير"
+msgstr ""
 
 #: places/DZ.php:1209
 msgctxt "Algerian Communes"
 msgid "Ben Daoud"
-msgstr "بن داود"
+msgstr ""
 
 #: places/DZ.php:1210
 msgctxt "Algerian Communes"
 msgid "El Achir"
-msgstr "العشير"
+msgstr ""
 
 #: places/DZ.php:1211
 msgctxt "Algerian Communes"
 msgid "Ain Taghrout"
-msgstr "عين تاغروت"
+msgstr ""
 
 #: places/DZ.php:1212
 msgctxt "Algerian Communes"
 msgid "Bordj Ghdir"
-msgstr "برج غدير"
+msgstr ""
 
 #: places/DZ.php:1213
 msgctxt "Algerian Communes"
 msgid "Sidi Embarek"
-msgstr "سيدي مبارك"
+msgstr ""
 
 #: places/DZ.php:1214
 msgctxt "Algerian Communes"
 msgid "El Hamadia"
-msgstr "الحمادية"
+msgstr ""
 
 #: places/DZ.php:1215
 msgctxt "Algerian Communes"
 msgid "Belimour"
-msgstr "بليمور"
+msgstr ""
 
 #: places/DZ.php:1216
 msgctxt "Algerian Communes"
 msgid "Medjana"
-msgstr "مجانة"
+msgstr ""
 
 #: places/DZ.php:1217
 msgctxt "Algerian Communes"
 msgid "Teniet En Nasr"
-msgstr "ثنية النصر"
+msgstr ""
 
 #: places/DZ.php:1218
 msgctxt "Algerian Communes"
 msgid "Djaafra"
-msgstr "جعافرة"
+msgstr ""
 
 #: places/DZ.php:1219
 msgctxt "Algerian Communes"
 msgid "El Main"
-msgstr "إلماين"
+msgstr ""
 
 #: places/DZ.php:1220
 msgctxt "Algerian Communes"
 msgid "Ouled Brahem"
-msgstr "أولاد ابراھم"
+msgstr ""
 
 #: places/DZ.php:1221
 msgctxt "Algerian Communes"
 msgid "Ouled Dahmane"
-msgstr "أولاد دحمان"
+msgstr ""
 
 #: places/DZ.php:1222
 msgctxt "Algerian Communes"
 msgid "Hasnaoua"
-msgstr "حسناوة"
+msgstr ""
 
 #: places/DZ.php:1223
 msgctxt "Algerian Communes"
 msgid "Khelil"
-msgstr "أيت خليلي"
+msgstr ""
 
 #: places/DZ.php:1224
 msgctxt "Algerian Communes"
 msgid "Taglait"
-msgstr "تاقلعيت"
+msgstr ""
 
 #: places/DZ.php:1225
 msgctxt "Algerian Communes"
 msgid "Ksour"
-msgstr "القصور"
+msgstr ""
 
 #: places/DZ.php:1227
 msgctxt "Algerian Communes"
 msgid "Tafreg"
-msgstr "تفرڨ"
+msgstr ""
 
 #: places/DZ.php:1228
 msgctxt "Algerian Communes"
 msgid "Colla"
-msgstr "القلة"
+msgstr ""
 
 #: places/DZ.php:1229
 msgctxt "Algerian Communes"
 msgid "Tixter"
-msgstr "تقصطر"
+msgstr ""
 
 #: places/DZ.php:1230
 msgctxt "Algerian Communes"
 msgid "El Ach"
-msgstr "العاشور"
+msgstr ""
 
 #: places/DZ.php:1231
 msgctxt "Algerian Communes"
 msgid "El Anseur"
-msgstr "العناصر"
+msgstr ""
 
 #: places/DZ.php:1232
 msgctxt "Algerian Communes"
 msgid "Tesmart"
-msgstr "تسمارت"
+msgstr ""
 
 #: places/DZ.php:1233
 msgctxt "Algerian Communes"
 msgid "Ain Tesra"
-msgstr "عين تسرة"
+msgstr ""
 
 #: places/DZ.php:1234
 msgctxt "Algerian Communes"
 msgid "Bir Kasdali"
-msgstr "بئر قصد علي"
+msgstr ""
 
 #: places/DZ.php:1235
 msgctxt "Algerian Communes"
 msgid "Ghilassa"
-msgstr "غيلاسة"
+msgstr ""
 
 #: places/DZ.php:1236
 msgctxt "Algerian Communes"
 msgid "Rabta"
-msgstr "الرابطة"
+msgstr ""
 
 #: places/DZ.php:1237
 msgctxt "Algerian Communes"
 msgid "Haraza"
-msgstr "الحرازة"
+msgstr ""
 
 #: places/DZ.php:1240
 msgctxt "Algerian Communes"
 msgid "Boumerdes"
-msgstr "بومرداس"
+msgstr ""
 
 #: places/DZ.php:1241
 msgctxt "Algerian Communes"
 msgid "Boudouaou"
-msgstr "بودواو"
+msgstr ""
 
 #: places/DZ.php:1242
 msgctxt "Algerian Communes"
 msgid "Afir"
-msgstr "أفير"
+msgstr ""
 
 #: places/DZ.php:1243
 msgctxt "Algerian Communes"
 msgid "Bordj Menaiel"
-msgstr "برج منايل"
+msgstr ""
 
 #: places/DZ.php:1244
 msgctxt "Algerian Communes"
 msgid "Baghlia"
-msgstr "بغلية"
+msgstr ""
 
 #: places/DZ.php:1245
 msgctxt "Algerian Communes"
 msgid "Sidi Daoud"
-msgstr "سيدي داود"
+msgstr ""
 
 #: places/DZ.php:1246
 msgctxt "Algerian Communes"
 msgid "Naciria"
-msgstr "الناصرية"
+msgstr ""
 
 #: places/DZ.php:1247
 msgctxt "Algerian Communes"
 msgid "Djinet"
-msgstr "جنات"
+msgstr ""
 
 #: places/DZ.php:1248
 msgctxt "Algerian Communes"
 msgid "Isser"
-msgstr "يسر"
+msgstr ""
 
 #: places/DZ.php:1249
 msgctxt "Algerian Communes"
 msgid "Zemmouri"
-msgstr "زموري"
+msgstr ""
 
 #: places/DZ.php:1250
 msgctxt "Algerian Communes"
 msgid "Si Mustapha"
-msgstr "سي مصطفى"
+msgstr ""
 
 #: places/DZ.php:1251
 msgctxt "Algerian Communes"
 msgid "Tidjelabine"
-msgstr "تيجلابين"
+msgstr ""
 
 #: places/DZ.php:1252
 msgctxt "Algerian Communes"
 msgid "Chabet El Ameur"
-msgstr "شعبة العامر"
+msgstr ""
 
 #: places/DZ.php:1253
 msgctxt "Algerian Communes"
 msgid "Thenia"
-msgstr "الثنية"
+msgstr ""
 
 #: places/DZ.php:1254
 msgctxt "Algerian Communes"
 msgid "Timezrit"
-msgstr "تمزريت"
+msgstr ""
 
 #: places/DZ.php:1255
 msgctxt "Algerian Communes"
 msgid "Corso"
-msgstr "قورصو"
+msgstr ""
 
 #: places/DZ.php:1256
 msgctxt "Algerian Communes"
 msgid "Ouled Moussa"
-msgstr "أولاد موسى"
+msgstr ""
 
 #: places/DZ.php:1257
 msgctxt "Algerian Communes"
 msgid "Larbatache"
-msgstr "الأربعطاش"
+msgstr ""
 
 #: places/DZ.php:1258
 msgctxt "Algerian Communes"
 msgid "Bouzegza Keddara"
-msgstr "بوزقزة قدارة"
+msgstr ""
 
 #: places/DZ.php:1259
 msgctxt "Algerian Communes"
 msgid "Taourga"
-msgstr "تورقة"
+msgstr ""
 
 #: places/DZ.php:1260
 #: places/DZ.php:1607
 msgctxt "Algerian Communes"
 msgid "Ouled Aissa"
-msgstr "أولاد عيسى"
+msgstr ""
 
 #: places/DZ.php:1261
 msgctxt "Algerian Communes"
 msgid "Ben Choud"
-msgstr "بن شود"
+msgstr ""
 
 #: places/DZ.php:1262
 msgctxt "Algerian Communes"
 msgid "Dellys"
-msgstr "دلس"
+msgstr ""
 
 #: places/DZ.php:1263
 msgctxt "Algerian Communes"
 msgid "Ammal"
-msgstr "عمال"
+msgstr ""
 
 #: places/DZ.php:1264
 msgctxt "Algerian Communes"
 msgid "Beni Amrane"
-msgstr "بنى عمران"
+msgstr ""
 
 #: places/DZ.php:1265
 msgctxt "Algerian Communes"
 msgid "Souk El Had"
-msgstr "سوق الحد"
+msgstr ""
 
 #: places/DZ.php:1266
 msgctxt "Algerian Communes"
 msgid "Boudouaou El Bahri"
-msgstr "بودواو البحرى"
+msgstr ""
 
 #: places/DZ.php:1267
 msgctxt "Algerian Communes"
 msgid "Ouled Hedadj"
-msgstr "أولاد ھداج"
+msgstr ""
 
 #: places/DZ.php:1268
 msgctxt "Algerian Communes"
 msgid "Laghata"
-msgstr "لقاطة"
+msgstr ""
 
 #: places/DZ.php:1269
 msgctxt "Algerian Communes"
 msgid "Hammedi"
-msgstr "حمادى"
+msgstr ""
 
 #: places/DZ.php:1270
 msgctxt "Algerian Communes"
 msgid "Khemis El Khechna"
-msgstr "خميس الخشنة"
+msgstr ""
 
 #: places/DZ.php:1271
 msgctxt "Algerian Communes"
 msgid "El Kharrouba"
-msgstr "الخروبة"
+msgstr ""
 
 #: places/DZ.php:1274
 msgctxt "Algerian Communes"
 msgid "El Tarf"
-msgstr "الطارف"
+msgstr ""
 
 #: places/DZ.php:1275
 msgctxt "Algerian Communes"
 msgid "Bouhadjar"
-msgstr "بوحجار"
+msgstr ""
 
 #: places/DZ.php:1276
 msgctxt "Algerian Communes"
 msgid "Ben Mhidi"
-msgstr "مرسى بن مھيدي"
+msgstr ""
 
 #: places/DZ.php:1277
 msgctxt "Algerian Communes"
 msgid "Bougous"
-msgstr "بوقوس"
+msgstr ""
 
 #: places/DZ.php:1278
 msgctxt "Algerian Communes"
 msgid "El Kala"
-msgstr "القالة"
+msgstr ""
 
 #: places/DZ.php:1279
 msgctxt "Algerian Communes"
 msgid "Ain El Assel"
-msgstr "عين العسل"
+msgstr ""
 
 #: places/DZ.php:1280
 msgctxt "Algerian Communes"
 msgid "El Aioun"
-msgstr "رأس العيون"
+msgstr ""
 
 #: places/DZ.php:1281
 msgctxt "Algerian Communes"
 msgid "Bouteldja"
-msgstr "بوثلجة"
+msgstr ""
 
 #: places/DZ.php:1282
 msgctxt "Algerian Communes"
 msgid "Souarekh"
-msgstr "السوارخ"
+msgstr ""
 
 #: places/DZ.php:1283
 msgctxt "Algerian Communes"
 msgid "Berrihane"
-msgstr "برحان"
+msgstr ""
 
 #: places/DZ.php:1284
 msgctxt "Algerian Communes"
 msgid "Lac Des Oiseaux"
-msgstr "بحيرة الطيور"
+msgstr ""
 
 #: places/DZ.php:1285
 msgctxt "Algerian Communes"
 msgid "Chefia"
-msgstr "الشافية"
+msgstr ""
 
 #: places/DZ.php:1286
 msgctxt "Algerian Communes"
 msgid "Drean"
-msgstr "الذرعان"
+msgstr ""
 
 #: places/DZ.php:1287
 msgctxt "Algerian Communes"
 msgid "Chihani"
-msgstr "شهانى"
+msgstr ""
 
 #: places/DZ.php:1288
 msgctxt "Algerian Communes"
 msgid "Chebaita Mokhtar"
-msgstr "شبيطة مختار"
+msgstr ""
 
 #: places/DZ.php:1289
 #: places/DZ.php:1620
 msgctxt "Algerian Communes"
 msgid "Besbes"
-msgstr "البسباس"
+msgstr ""
 
 #: places/DZ.php:1290
 msgctxt "Algerian Communes"
 msgid "Asfour"
-msgstr "عصفور"
+msgstr ""
 
 #: places/DZ.php:1291
 msgctxt "Algerian Communes"
 msgid "Echatt"
-msgstr "الشط"
+msgstr ""
 
 #: places/DZ.php:1292
 msgctxt "Algerian Communes"
 msgid "Zerizer"
-msgstr "زريزر"
+msgstr ""
 
 #: places/DZ.php:1295
 msgctxt "Algerian Communes"
 msgid "Oued Zitoun"
-msgstr "وادى الزيتون"
+msgstr ""
 
 #: places/DZ.php:1296
 msgctxt "Algerian Communes"
 msgid "Hammam Beni Salah"
-msgstr "حمام بنى صالح"
+msgstr ""
 
 #: places/DZ.php:1297
 msgctxt "Algerian Communes"
 msgid "Raml Souk"
-msgstr "رمل سوق"
+msgstr ""
 
 #: places/DZ.php:1300
 msgctxt "Algerian Communes"
 msgid "Tindouf"
-msgstr "تندوف"
+msgstr ""
 
 #: places/DZ.php:1301
 msgctxt "Algerian Communes"
 msgid "Oum El Assel"
-msgstr "أم العسل"
+msgstr ""
 
 #: places/DZ.php:1304
 msgctxt "Algerian Communes"
 msgid "Tissemsilt"
-msgstr "تـيـسـمـسـيـلـت"
+msgstr ""
 
 #: places/DZ.php:1305
 msgctxt "Algerian Communes"
 msgid "Bordj Bou Naama"
-msgstr "برج بونعامة"
+msgstr ""
 
 #: places/DZ.php:1306
 msgctxt "Algerian Communes"
 msgid "Theniet El Had"
-msgstr "ثنية الاحد"
+msgstr ""
 
 #: places/DZ.php:1307
 msgctxt "Algerian Communes"
 msgid "Lazharia"
-msgstr "الازھرية"
+msgstr ""
 
 #: places/DZ.php:1308
 msgctxt "Algerian Communes"
 msgid "Beni Chaib"
-msgstr "بنى شعيب"
+msgstr ""
 
 #: places/DZ.php:1309
 msgctxt "Algerian Communes"
 msgid "Lardjem"
-msgstr "لارجم"
+msgstr ""
 
 #: places/DZ.php:1310
 msgctxt "Algerian Communes"
 msgid "Melaab"
-msgstr "ملعب"
+msgstr ""
 
 #: places/DZ.php:1311
 msgctxt "Algerian Communes"
 msgid "Sidi Lantri"
-msgstr "سيدي العنترى"
+msgstr ""
 
 #: places/DZ.php:1312
 msgctxt "Algerian Communes"
 msgid "Bordj El Emir Abdelkader"
-msgstr "برج الامير عبد القادر"
+msgstr ""
 
 #: places/DZ.php:1313
 msgctxt "Algerian Communes"
 msgid "Layoune"
-msgstr "العيون"
+msgstr ""
 
 #: places/DZ.php:1314
 #: places/DZ.php:1408
 msgctxt "Algerian Communes"
 msgid "Khemisti"
-msgstr "خميستى"
+msgstr ""
 
 #: places/DZ.php:1315
 msgctxt "Algerian Communes"
 msgid "Ouled Bessem"
-msgstr "أولاد بسام"
+msgstr ""
 
 #: places/DZ.php:1316
 msgctxt "Algerian Communes"
 msgid "Ammari"
-msgstr "عمارى"
+msgstr ""
 
 #: places/DZ.php:1317
 msgctxt "Algerian Communes"
 msgid "Youssoufia"
-msgstr "اليوسفية"
+msgstr ""
 
 #: places/DZ.php:1318
 msgctxt "Algerian Communes"
 msgid "Sidi Boutouchent"
-msgstr "سيدي بوتوشنت"
+msgstr ""
 
 #: places/DZ.php:1320
 msgctxt "Algerian Communes"
 msgid "Maasem"
-msgstr "المعاصم"
+msgstr ""
 
 #: places/DZ.php:1321
 msgctxt "Algerian Communes"
 msgid "Sidi Abed"
-msgstr "سيدي عابد"
+msgstr ""
 
 #: places/DZ.php:1322
 msgctxt "Algerian Communes"
 msgid "Tamalaht"
-msgstr "تاملاحت"
+msgstr ""
 
 #: places/DZ.php:1324
 msgctxt "Algerian Communes"
 msgid "Boucaid"
-msgstr "بوقايد"
+msgstr ""
 
 #: places/DZ.php:1325
 msgctxt "Algerian Communes"
 msgid "Beni Lahcene"
-msgstr "بنى لحسن"
+msgstr ""
 
 #: places/DZ.php:1328
 msgctxt "Algerian Communes"
 msgid "El Oued"
-msgstr "زريبة الوادي"
+msgstr ""
 
 #: places/DZ.php:1329
 msgctxt "Algerian Communes"
 msgid "Robbah"
-msgstr "رباح"
+msgstr ""
 
 #: places/DZ.php:1330
 msgctxt "Algerian Communes"
 msgid "Oued El Alenda"
-msgstr "وادى العلندة"
+msgstr ""
 
 #: places/DZ.php:1331
 msgctxt "Algerian Communes"
 msgid "Bayadha"
-msgstr "البياضة"
+msgstr ""
 
 #: places/DZ.php:1332
 msgctxt "Algerian Communes"
 msgid "Nakhla"
-msgstr "النخلة"
+msgstr ""
 
 #: places/DZ.php:1333
 msgctxt "Algerian Communes"
 msgid "Guemar"
-msgstr "ڨمار"
+msgstr ""
 
 #: places/DZ.php:1334
 msgctxt "Algerian Communes"
 msgid "Kouinine"
-msgstr "كوينين"
+msgstr ""
 
 #: places/DZ.php:1335
 msgctxt "Algerian Communes"
 msgid "Reguiba"
-msgstr "الرڨيبة"
+msgstr ""
 
 #: places/DZ.php:1336
 msgctxt "Algerian Communes"
 msgid "Hamraia"
-msgstr "الحمراية"
+msgstr ""
 
 #: places/DZ.php:1338
 msgctxt "Algerian Communes"
 msgid "Debila"
-msgstr "الدبيلة"
+msgstr ""
 
 #: places/DZ.php:1339
 msgctxt "Algerian Communes"
 msgid "Hassani Abdelkrim"
-msgstr "بلدية حساني عبد الكريم"
+msgstr ""
 
 #: places/DZ.php:1340
 msgctxt "Algerian Communes"
 msgid "Hassi Khelifa"
-msgstr "حاسى خليفة"
+msgstr ""
 
 #: places/DZ.php:1341
 msgctxt "Algerian Communes"
 msgid "Taleb Larbi"
-msgstr "طالب العربي"
+msgstr ""
 
 #: places/DZ.php:1342
 msgctxt "Algerian Communes"
 msgid "Douar El Ma"
-msgstr "دوار الماء"
+msgstr ""
 
 #: places/DZ.php:1343
 msgctxt "Algerian Communes"
 msgid "Sidi Aoun"
-msgstr "سيدي عون"
+msgstr ""
 
 #: places/DZ.php:1344
 msgctxt "Algerian Communes"
 msgid "Trifaoui"
-msgstr "تريفاوى"
+msgstr ""
 
 #: places/DZ.php:1345
 msgctxt "Algerian Communes"
 msgid "Magrane"
-msgstr "المڨرن"
+msgstr ""
 
 #: places/DZ.php:1346
 msgctxt "Algerian Communes"
 msgid "Beni Guecha"
-msgstr "بن ڨشة"
+msgstr ""
 
 #: places/DZ.php:1347
 msgctxt "Algerian Communes"
 msgid "Ourmas"
-msgstr "أورماس"
+msgstr ""
 
 #: places/DZ.php:1349
 msgctxt "Algerian Communes"
 msgid "Mih Ouansa"
-msgstr "مية ونسة"
+msgstr ""
 
 #: places/DZ.php:1352
 msgctxt "Algerian Communes"
 msgid "Khenchela"
-msgstr "خنشلة"
+msgstr ""
 
 #: places/DZ.php:1353
 msgctxt "Algerian Communes"
 msgid "Mtoussa"
-msgstr "متوسة"
+msgstr ""
 
 #: places/DZ.php:1354
 msgctxt "Algerian Communes"
 msgid "Kais"
-msgstr "قايس"
+msgstr ""
 
 #: places/DZ.php:1355
 msgctxt "Algerian Communes"
 msgid "Baghai"
-msgstr "بغاي"
+msgstr ""
 
 #: places/DZ.php:1356
 msgctxt "Algerian Communes"
 msgid "El Hamma"
-msgstr "عين الحمام"
+msgstr ""
 
 #: places/DZ.php:1357
 msgctxt "Algerian Communes"
 msgid "Ain Touila"
-msgstr "عين الطويلة"
+msgstr ""
 
 #: places/DZ.php:1358
 msgctxt "Algerian Communes"
 msgid "Taouzianat"
-msgstr "تاوزيانت"
+msgstr ""
 
 #: places/DZ.php:1359
 msgctxt "Algerian Communes"
 msgid "Bouhmama"
-msgstr "بوحمامة"
+msgstr ""
 
 #: places/DZ.php:1360
 msgctxt "Algerian Communes"
 msgid "El Oueldja"
-msgstr "الولجة"
+msgstr ""
 
 #: places/DZ.php:1361
 msgctxt "Algerian Communes"
 msgid "Remila"
-msgstr "الرميلة"
+msgstr ""
 
 #: places/DZ.php:1362
 msgctxt "Algerian Communes"
 msgid "Cherchar"
-msgstr "عين شرشار"
+msgstr ""
 
 #: places/DZ.php:1363
 msgctxt "Algerian Communes"
 msgid "Djellal"
-msgstr "أولاد جلال"
+msgstr ""
 
 #: places/DZ.php:1364
 msgctxt "Algerian Communes"
 msgid "Babar"
-msgstr "بابار"
+msgstr ""
 
 #: places/DZ.php:1365
 msgctxt "Algerian Communes"
 msgid "Tamza"
-msgstr "تامزة"
+msgstr ""
 
 #: places/DZ.php:1366
 msgctxt "Algerian Communes"
 msgid "Ensigha"
-msgstr "انسيغة"
+msgstr ""
 
 #: places/DZ.php:1367
 msgctxt "Algerian Communes"
 msgid "Ouled Rechache"
-msgstr "أولاد رشاش"
+msgstr ""
 
 #: places/DZ.php:1368
 msgctxt "Algerian Communes"
 msgid "El Mahmal"
-msgstr "المحمل"
+msgstr ""
 
 #: places/DZ.php:1369
 msgctxt "Algerian Communes"
 msgid "Msara"
-msgstr "أمصارة"
+msgstr ""
 
 #: places/DZ.php:1370
 msgctxt "Algerian Communes"
 msgid "Yabous"
-msgstr "يابوس"
+msgstr ""
 
 #: places/DZ.php:1371
 msgctxt "Algerian Communes"
 msgid "Khirane"
-msgstr "خيران"
+msgstr ""
 
 #: places/DZ.php:1372
 msgctxt "Algerian Communes"
 msgid "Chelia"
-msgstr "بن عشيبة شلية"
+msgstr ""
 
 #: places/DZ.php:1375
 msgctxt "Algerian Communes"
 msgid "Souk Ahras"
-msgstr "سوق أهراس"
+msgstr ""
 
 #: places/DZ.php:1376
 msgctxt "Algerian Communes"
 msgid "Sedrata"
-msgstr "سدراتة"
+msgstr ""
 
 #: places/DZ.php:1377
 msgctxt "Algerian Communes"
 msgid "Hanancha"
-msgstr "الحنانشة"
+msgstr ""
 
 #: places/DZ.php:1378
 msgctxt "Algerian Communes"
 msgid "Mechroha"
-msgstr "المشروحة"
+msgstr ""
 
 #: places/DZ.php:1379
 msgctxt "Algerian Communes"
 msgid "Ouled Driss"
-msgstr "أولاد ادريس"
+msgstr ""
 
 #: places/DZ.php:1380
 msgctxt "Algerian Communes"
 msgid "Tiffech"
-msgstr "تيفاش"
+msgstr ""
 
 #: places/DZ.php:1381
 msgctxt "Algerian Communes"
 msgid "Zaarouria"
-msgstr "الزعرورية"
+msgstr ""
 
 #: places/DZ.php:1382
 msgctxt "Algerian Communes"
 msgid "Taoura"
-msgstr "تاورة"
+msgstr ""
 
 #: places/DZ.php:1383
 msgctxt "Algerian Communes"
 msgid "Drea"
-msgstr "الذرعان"
+msgstr ""
 
 #: places/DZ.php:1384
 msgctxt "Algerian Communes"
 msgid "Haddada"
-msgstr "بئر حدادة"
+msgstr ""
 
 #: places/DZ.php:1385
 msgctxt "Algerian Communes"
 msgid "Khedara"
-msgstr "لخضارة"
+msgstr ""
 
 #: places/DZ.php:1386
 msgctxt "Algerian Communes"
 msgid "Merahna"
-msgstr "المراهنة"
+msgstr ""
 
 #: places/DZ.php:1387
 msgctxt "Algerian Communes"
 msgid "Ouled Moumen"
-msgstr "أولاد مؤمن"
+msgstr ""
 
 #: places/DZ.php:1388
 msgctxt "Algerian Communes"
 msgid "Bir Bouhouche"
-msgstr "بئر بوحوش"
+msgstr ""
 
 #: places/DZ.php:1389
 msgctxt "Algerian Communes"
 msgid "Mdaourouche"
-msgstr "مداوروش"
+msgstr ""
 
 #: places/DZ.php:1390
 msgctxt "Algerian Communes"
 msgid "Oum El Adhaim"
-msgstr "أم العظائم"
+msgstr ""
 
 #: places/DZ.php:1391
 msgctxt "Algerian Communes"
 msgid "Ain Zana"
-msgstr "عين الزانة"
+msgstr ""
 
 #: places/DZ.php:1393
 msgctxt "Algerian Communes"
 msgid "Quillen"
-msgstr "ويلان"
+msgstr ""
 
 #: places/DZ.php:1394
 msgctxt "Algerian Communes"
 msgid "Sidi Fredj"
-msgstr "سيدي فرج"
+msgstr ""
 
 #: places/DZ.php:1395
 msgctxt "Algerian Communes"
 msgid "Safel El Ouiden"
-msgstr "سافل الويدان"
+msgstr ""
 
 #: places/DZ.php:1396
 msgctxt "Algerian Communes"
 msgid "Ragouba"
-msgstr "الرقوبة"
+msgstr ""
 
 #: places/DZ.php:1397
 msgctxt "Algerian Communes"
 msgid "Khemissa"
-msgstr "خميسة"
+msgstr ""
 
 #: places/DZ.php:1398
 msgctxt "Algerian Communes"
 msgid "Oued Keberit"
-msgstr "وادى الكبريت"
+msgstr ""
 
 #: places/DZ.php:1399
 msgctxt "Algerian Communes"
 msgid "Terraguelt"
-msgstr "ترقالت"
+msgstr ""
 
 #: places/DZ.php:1400
 msgctxt "Algerian Communes"
 msgid "Zouabi"
-msgstr "الزوابى"
+msgstr ""
 
 #: places/DZ.php:1403
 msgctxt "Algerian Communes"
 msgid "Tipaza"
-msgstr "تيبازة"
+msgstr ""
 
 #: places/DZ.php:1404
 msgctxt "Algerian Communes"
 msgid "Menaceur"
-msgstr "مناصر"
+msgstr ""
 
 #: places/DZ.php:1405
 msgctxt "Algerian Communes"
 msgid "Larhat"
-msgstr "الأرهاط"
+msgstr ""
 
 #: places/DZ.php:1406
 msgctxt "Algerian Communes"
 msgid "Douaouda"
-msgstr "دواودة"
+msgstr ""
 
 #: places/DZ.php:1407
 msgctxt "Algerian Communes"
 msgid "Bourkika"
-msgstr "بورقيقة"
+msgstr ""
 
 #: places/DZ.php:1409
 msgctxt "Algerian Communes"
 msgid "Aghabal"
-msgstr "أغابال"
+msgstr ""
 
 #: places/DZ.php:1410
 msgctxt "Algerian Communes"
 msgid "Hadjout"
-msgstr "حجوط"
+msgstr ""
 
 #: places/DZ.php:1412
 msgctxt "Algerian Communes"
 msgid "Gouraya"
-msgstr "ڨورايا"
+msgstr ""
 
 #: places/DZ.php:1413
 msgctxt "Algerian Communes"
 msgid "Nodor"
-msgstr "الناظور"
+msgstr ""
 
 #: places/DZ.php:1414
 #: places/DZ.php:1621
 msgctxt "Algerian Communes"
 msgid "Chaiba"
-msgstr "أولاد رحمة"
+msgstr ""
 
 #: places/DZ.php:1415
 msgctxt "Algerian Communes"
 msgid "Ain Tagourait"
-msgstr "عين تڨورايت"
+msgstr ""
 
 #: places/DZ.php:1416
 msgctxt "Algerian Communes"
 msgid "Cherchel"
-msgstr "شرشال"
+msgstr ""
 
 #: places/DZ.php:1417
 msgctxt "Algerian Communes"
 msgid "Damous"
-msgstr "الداموس"
+msgstr ""
 
 #: places/DZ.php:1418
 msgctxt "Algerian Communes"
 msgid "Meurad"
-msgstr "مراد"
+msgstr ""
 
 #: places/DZ.php:1419
 msgctxt "Algerian Communes"
 msgid "Fouka"
-msgstr "فوكة"
+msgstr ""
 
 #: places/DZ.php:1420
 msgctxt "Algerian Communes"
 msgid "Bou Ismail"
-msgstr "بو اسماعيل"
+msgstr ""
 
 #: places/DZ.php:1421
 msgctxt "Algerian Communes"
 msgid "Ahmer El Ain"
-msgstr "أحمر العين"
+msgstr ""
 
 #: places/DZ.php:1422
 msgctxt "Algerian Communes"
 msgid "Bou Haroun"
-msgstr "بوهارون"
+msgstr ""
 
 #: places/DZ.php:1423
 msgctxt "Algerian Communes"
 msgid "Sidi Ghiles"
-msgstr "سيدي غيلاس"
+msgstr ""
 
 #: places/DZ.php:1424
 msgctxt "Algerian Communes"
 msgid "Messelmoun"
-msgstr "مسلمون"
+msgstr ""
 
 #: places/DZ.php:1425
 msgctxt "Algerian Communes"
 msgid "Sidi Rached"
-msgstr "سيدي راشد"
+msgstr ""
 
 #: places/DZ.php:1426
 msgctxt "Algerian Communes"
 msgid "Kolea"
-msgstr "القليعة"
+msgstr ""
 
 #: places/DZ.php:1427
 msgctxt "Algerian Communes"
 msgid "Attatba"
-msgstr "الحطاطبة"
+msgstr ""
 
 #: places/DZ.php:1428
 msgctxt "Algerian Communes"
 msgid "Sidi Semiane"
-msgstr "سيدي سميان"
+msgstr ""
 
 #: places/DZ.php:1429
 msgctxt "Algerian Communes"
 msgid "Beni Milleuk"
-msgstr "بني ميلك"
+msgstr ""
 
 #: places/DZ.php:1430
 msgctxt "Algerian Communes"
 msgid "Hadjerat Ennous"
-msgstr "حجرة النص"
+msgstr ""
 
 #: places/DZ.php:1433
 msgctxt "Algerian Communes"
 msgid "Mila"
-msgstr "ميلة"
+msgstr ""
 
 #: places/DZ.php:1434
 msgctxt "Algerian Communes"
 msgid "Ferdjioua"
-msgstr "فرجيوة"
+msgstr ""
 
 #: places/DZ.php:1435
 msgctxt "Algerian Communes"
 msgid "Chelghoum Laid"
-msgstr "شلغوم العيد"
+msgstr ""
 
 #: places/DZ.php:1436
 msgctxt "Algerian Communes"
 msgid "Oued Athmenia"
-msgstr "وادي العثمانية"
+msgstr ""
 
 #: places/DZ.php:1437
 msgctxt "Algerian Communes"
 msgid "Ain Mellouk"
-msgstr "عين ملوك"
+msgstr ""
 
 #: places/DZ.php:1438
 msgctxt "Algerian Communes"
 msgid "Telerghma"
-msgstr "تلاغمة"
+msgstr ""
 
 #: places/DZ.php:1439
 msgctxt "Algerian Communes"
 msgid "Oued Seguen"
-msgstr "وادى سقان"
+msgstr ""
 
 #: places/DZ.php:1440
 msgctxt "Algerian Communes"
 msgid "Tadjenanet"
-msgstr "تاجنانت"
+msgstr ""
 
 #: places/DZ.php:1441
 msgctxt "Algerian Communes"
 msgid "Benyahia Abderrahmane"
-msgstr "بن يحيى عبد الرحمان"
+msgstr ""
 
 #: places/DZ.php:1442
 msgctxt "Algerian Communes"
 msgid "Oued Endja"
-msgstr "وادى النجاء"
+msgstr ""
 
 #: places/DZ.php:1443
 msgctxt "Algerian Communes"
 msgid "Ahmed Rachedi"
-msgstr "أحمد راشدي"
+msgstr ""
 
 #: places/DZ.php:1444
 msgctxt "Algerian Communes"
 msgid "Ouled Khalouf"
-msgstr "أولاد خلوف"
+msgstr ""
 
 #: places/DZ.php:1445
 msgctxt "Algerian Communes"
 msgid "Tiberguent"
-msgstr "تيبرقنت"
+msgstr ""
 
 #: places/DZ.php:1446
 msgctxt "Algerian Communes"
 msgid "Bouhatem"
-msgstr "بوحاتم"
+msgstr ""
 
 #: places/DZ.php:1447
 msgctxt "Algerian Communes"
 msgid "Rouached"
-msgstr "رواشد"
+msgstr ""
 
 #: places/DZ.php:1448
 msgctxt "Algerian Communes"
 msgid "Tessala Lamatai"
-msgstr "تسالة لمطاي"
+msgstr ""
 
 #: places/DZ.php:1449
 msgctxt "Algerian Communes"
 msgid "Grarem Gouga"
-msgstr "القرارم قوقة"
+msgstr ""
 
 #: places/DZ.php:1450
 msgctxt "Algerian Communes"
 msgid "Sidi Merouane"
-msgstr "سيدي مروان"
+msgstr ""
 
 #: places/DZ.php:1451
 msgctxt "Algerian Communes"
 msgid "Tassadane Haddada"
-msgstr "تسدان حدادة"
+msgstr ""
 
 #: places/DZ.php:1452
 msgctxt "Algerian Communes"
 msgid "Derradji Bousselah"
-msgstr "دراحي بوصلاح"
+msgstr ""
 
 #: places/DZ.php:1453
 msgctxt "Algerian Communes"
 msgid "Minar Zarza"
-msgstr "مينار زرزة"
+msgstr ""
 
 #: places/DZ.php:1454
 msgctxt "Algerian Communes"
 msgid "Amira Arras"
-msgstr "عميرة أراس"
+msgstr ""
 
 #: places/DZ.php:1455
 msgctxt "Algerian Communes"
 msgid "Terrai Bainen"
-msgstr "ترعى بينان"
+msgstr ""
 
 #: places/DZ.php:1456
 msgctxt "Algerian Communes"
 msgid "Hamala"
-msgstr "حمالة"
+msgstr ""
 
 #: places/DZ.php:1457
 msgctxt "Algerian Communes"
 msgid "Ain Tine"
-msgstr "عين التين"
+msgstr ""
 
 #: places/DZ.php:1458
 msgctxt "Algerian Communes"
 msgid "El Mechira"
-msgstr "المشيرة"
+msgstr ""
 
 #: places/DZ.php:1459
 msgctxt "Algerian Communes"
 msgid "Sidi Khelifa"
-msgstr "سيدي خليفة"
+msgstr ""
 
 #: places/DZ.php:1460
 msgctxt "Algerian Communes"
 msgid "Zeghaia"
-msgstr "زغاية"
+msgstr ""
 
 #: places/DZ.php:1461
 msgctxt "Algerian Communes"
 msgid "Elayadi Barbes"
-msgstr "العياضى برباس"
+msgstr ""
 
 #: places/DZ.php:1462
 msgctxt "Algerian Communes"
 msgid "Ain Beida Harriche"
-msgstr "عين البيضاء حريش"
+msgstr ""
 
 #: places/DZ.php:1463
 msgctxt "Algerian Communes"
 msgid "Yahia Beniguecha"
-msgstr "يحيى بنى قشة"
+msgstr ""
 
 #: places/DZ.php:1464
 msgctxt "Algerian Communes"
 msgid "Chigara"
-msgstr "الشيقارة"
+msgstr ""
 
 #: places/DZ.php:1467
 msgctxt "Algerian Communes"
 msgid "Ain Defla"
-msgstr "عين دفلة - عين الدفلى"
+msgstr ""
 
 #: places/DZ.php:1468
 msgctxt "Algerian Communes"
 msgid "Miliana"
-msgstr "مليانة"
+msgstr ""
 
 #: places/DZ.php:1469
 msgctxt "Algerian Communes"
 msgid "Boumedfaa"
-msgstr "بومدفع"
+msgstr ""
 
 #: places/DZ.php:1470
 msgctxt "Algerian Communes"
 msgid "Khemis Miliana"
-msgstr "خميس مليانة"
+msgstr ""
 
 #: places/DZ.php:1471
 msgctxt "Algerian Communes"
 msgid "Hammam Righa"
-msgstr "حمام ريغة"
+msgstr ""
 
 #: places/DZ.php:1472
 msgctxt "Algerian Communes"
 msgid "Arib"
-msgstr "عريب"
+msgstr ""
 
 #: places/DZ.php:1473
 msgctxt "Algerian Communes"
 msgid "Djelida"
-msgstr "جليدة"
+msgstr ""
 
 #: places/DZ.php:1474
 msgctxt "Algerian Communes"
 msgid "El Amra"
-msgstr "العامرة"
+msgstr ""
 
 #: places/DZ.php:1475
 msgctxt "Algerian Communes"
 msgid "Bourached"
-msgstr "بوراشد"
+msgstr ""
 
 #: places/DZ.php:1476
 msgctxt "Algerian Communes"
 msgid "El Attaf"
-msgstr "العطاف"
+msgstr ""
 
 #: places/DZ.php:1477
 msgctxt "Algerian Communes"
 msgid "El Abadia"
-msgstr "العبادية"
+msgstr ""
 
 #: places/DZ.php:1478
 msgctxt "Algerian Communes"
 msgid "Djendel"
-msgstr "جندل سعدي محمد"
+msgstr ""
 
 #: places/DZ.php:1479
 msgctxt "Algerian Communes"
 msgid "Oued Chorfa"
-msgstr "وادى الشرفاء"
+msgstr ""
 
 #: places/DZ.php:1480
 msgctxt "Algerian Communes"
 msgid "Ain Lechiakh"
-msgstr "عين االشياخ"
+msgstr ""
 
 #: places/DZ.php:1481
 msgctxt "Algerian Communes"
 msgid "Oued Djemaa"
-msgstr "وادى جمعة"
+msgstr ""
 
 #: places/DZ.php:1482
 msgctxt "Algerian Communes"
 msgid "Rouina"
-msgstr "روينة"
+msgstr ""
 
 #: places/DZ.php:1483
 msgctxt "Algerian Communes"
 msgid "Zeddine"
-msgstr "زدين"
+msgstr ""
 
 #: places/DZ.php:1484
 msgctxt "Algerian Communes"
 msgid "El Hassania"
-msgstr "الحسنية"
+msgstr ""
 
 #: places/DZ.php:1485
 msgctxt "Algerian Communes"
 msgid "Bir Ouled Khelifa"
-msgstr "بئر ولد خليفة"
+msgstr ""
 
 #: places/DZ.php:1487
 msgctxt "Algerian Communes"
 msgid "Tarik Ibn Ziad"
-msgstr "طارق بن زياد"
+msgstr ""
 
 #: places/DZ.php:1488
 msgctxt "Algerian Communes"
 msgid "Bordj Emir Khaled"
-msgstr "برج الأمير خالد"
+msgstr ""
 
 #: places/DZ.php:1489
 msgctxt "Algerian Communes"
 msgid "Ain Torki"
-msgstr "عين التركى"
+msgstr ""
 
 #: places/DZ.php:1491
 msgctxt "Algerian Communes"
 msgid "Ben Allal"
-msgstr "بن علال"
+msgstr ""
 
 #: places/DZ.php:1493
 msgctxt "Algerian Communes"
 msgid "Hoceinia"
-msgstr "حسينية"
+msgstr ""
 
 #: places/DZ.php:1494
 msgctxt "Algerian Communes"
 msgid "Barbouche"
-msgstr "بربوش"
+msgstr ""
 
 #: places/DZ.php:1495
 msgctxt "Algerian Communes"
 msgid "Djemaa Ouled Chikh"
-msgstr "جمعة أولاد الشيخ"
+msgstr ""
 
 #: places/DZ.php:1496
 msgctxt "Algerian Communes"
 msgid "Mekhatria"
-msgstr "المخاطرية"
+msgstr ""
 
 #: places/DZ.php:1497
 msgctxt "Algerian Communes"
 msgid "Bathia"
-msgstr "بطحية"
+msgstr ""
 
 #: places/DZ.php:1498
 msgctxt "Algerian Communes"
 msgid "Tachta Zegagha"
-msgstr "تاشتة زقاغة"
+msgstr ""
 
 #: places/DZ.php:1499
 msgctxt "Algerian Communes"
 msgid "Ain Bouyahia"
-msgstr "عين بويحى"
+msgstr ""
 
 #: places/DZ.php:1500
 msgctxt "Algerian Communes"
 msgid "El Maine"
-msgstr "الماين"
+msgstr ""
 
 #: places/DZ.php:1501
 msgctxt "Algerian Communes"
 msgid "Tiberkanine"
-msgstr "تبركانين"
+msgstr ""
 
 #: places/DZ.php:1502
 msgctxt "Algerian Communes"
 msgid "Belaas"
-msgstr "بالعاص"
+msgstr ""
 
 #: places/DZ.php:1505
 msgctxt "Algerian Communes"
 msgid "Naama"
-msgstr "سوق نعمان"
+msgstr ""
 
 #: places/DZ.php:1506
 msgctxt "Algerian Communes"
 msgid "Mechria"
-msgstr "مشرية"
+msgstr ""
 
 #: places/DZ.php:1507
 msgctxt "Algerian Communes"
 msgid "Ain Sefra"
-msgstr "عين الصفراء"
+msgstr ""
 
 #: places/DZ.php:1508
 msgctxt "Algerian Communes"
 msgid "Tiout"
-msgstr "تيوت"
+msgstr ""
 
 #: places/DZ.php:1509
 msgctxt "Algerian Communes"
 msgid "Sfissifa"
-msgstr "صفيصيفة"
+msgstr ""
 
 #: places/DZ.php:1510
 msgctxt "Algerian Communes"
 msgid "Moghrar"
-msgstr "مغرار"
+msgstr ""
 
 #: places/DZ.php:1511
 msgctxt "Algerian Communes"
 msgid "Assela"
-msgstr "عسلة"
+msgstr ""
 
 #: places/DZ.php:1512
 msgctxt "Algerian Communes"
 msgid "Djeniane Bourzeg"
-msgstr "جنين بورزق"
+msgstr ""
 
 #: places/DZ.php:1513
 msgctxt "Algerian Communes"
 msgid "Ain Ben Khelil"
-msgstr "عين بن خليل"
+msgstr ""
 
 #: places/DZ.php:1514
 msgctxt "Algerian Communes"
 msgid "Makman Ben Amer"
-msgstr "مكمن بن عمر"
+msgstr ""
 
 #: places/DZ.php:1515
 msgctxt "Algerian Communes"
 msgid "Kasdir"
-msgstr "قصدير"
+msgstr ""
 
 #: places/DZ.php:1516
 msgctxt "Algerian Communes"
 msgid "El Biod"
-msgstr "الماء الأبيض"
+msgstr ""
 
 #: places/DZ.php:1519
 msgctxt "Algerian Communes"
 msgid "Ain Temouchent"
-msgstr "عـيـن تـمـوشـنـت"
+msgstr ""
 
 #: places/DZ.php:1520
 msgctxt "Algerian Communes"
 msgid "Chaabet El Ham"
-msgstr "شعبة اللحم"
+msgstr ""
 
 #: places/DZ.php:1521
 msgctxt "Algerian Communes"
 msgid "Ain Kihal"
-msgstr "عين الكيحل"
+msgstr ""
 
 #: places/DZ.php:1522
 msgctxt "Algerian Communes"
 msgid "Hammam Bouhadjar"
-msgstr "حمام بو حجر"
+msgstr ""
 
 #: places/DZ.php:1523
 msgctxt "Algerian Communes"
 msgid "Bou Zedjar"
-msgstr "بوزجار"
+msgstr ""
 
 #: places/DZ.php:1524
 msgctxt "Algerian Communes"
 msgid "Oued Berkeche"
-msgstr "وادى برقش"
+msgstr ""
 
 #: places/DZ.php:1525
 msgctxt "Algerian Communes"
 msgid "Aghlal"
-msgstr "أغلال"
+msgstr ""
 
 #: places/DZ.php:1526
 msgctxt "Algerian Communes"
 msgid "Terga"
-msgstr "تارقة"
+msgstr ""
 
 #: places/DZ.php:1527
 msgctxt "Algerian Communes"
 msgid "Ain El Arbaa"
-msgstr "عين الاربعاء"
+msgstr ""
 
 #: places/DZ.php:1528
 msgctxt "Algerian Communes"
 msgid "Tamzoura"
-msgstr "تامزوغة"
+msgstr ""
 
 #: places/DZ.php:1529
 msgctxt "Algerian Communes"
 msgid "Chentouf"
-msgstr "شنتوف"
+msgstr ""
 
 #: places/DZ.php:1530
 msgctxt "Algerian Communes"
 msgid "Sidi Ben Adda"
-msgstr "سيدي بن عدة"
+msgstr ""
 
 #: places/DZ.php:1531
 msgctxt "Algerian Communes"
 msgid "Aoubellil"
-msgstr "عقب الليل"
+msgstr ""
 
 #: places/DZ.php:1532
 msgctxt "Algerian Communes"
 msgid "El Malah"
-msgstr "المالح"
+msgstr ""
 
 #: places/DZ.php:1533
 msgctxt "Algerian Communes"
 msgid "Sidi Boumediene"
-msgstr "سيدي بومدين"
+msgstr ""
 
 #: places/DZ.php:1534
 msgctxt "Algerian Communes"
 msgid "Oued Sabah"
-msgstr "وادى الصباح"
+msgstr ""
 
 #: places/DZ.php:1535
 msgctxt "Algerian Communes"
 msgid "Ouled Boudjemaa"
-msgstr "أولاد بوجمعة"
+msgstr ""
 
 #: places/DZ.php:1536
 msgctxt "Algerian Communes"
 msgid "Ain Tolba"
-msgstr "عين الطلبة"
+msgstr ""
 
 #: places/DZ.php:1537
 msgctxt "Algerian Communes"
 msgid "El Amria"
-msgstr "العامرية"
+msgstr ""
 
 #: places/DZ.php:1538
 msgctxt "Algerian Communes"
 msgid "Hassi El Ghella"
-msgstr "حاسى الغلة"
+msgstr ""
 
 #: places/DZ.php:1539
 msgctxt "Algerian Communes"
 msgid "Hassasna"
-msgstr "حساسنة"
+msgstr ""
 
 #: places/DZ.php:1540
 msgctxt "Algerian Communes"
 msgid "Ouled Kihal"
-msgstr "أولاد الكيحل"
+msgstr ""
 
 #: places/DZ.php:1541
 msgctxt "Algerian Communes"
 msgid "Beni Saf"
-msgstr "بني صاف"
+msgstr ""
 
 #: places/DZ.php:1542
 msgctxt "Algerian Communes"
 msgid "Sidi Safi"
-msgstr "سيدي الصافي"
+msgstr ""
 
 #: places/DZ.php:1543
 msgctxt "Algerian Communes"
 msgid "Oulhaca El Gheraba"
-msgstr "ولهاصة الغرابة"
+msgstr ""
 
 #: places/DZ.php:1544
 msgctxt "Algerian Communes"
@@ -12998,367 +12998,367 @@ msgstr ""
 #: places/DZ.php:1545
 msgctxt "Algerian Communes"
 msgid "El Emir Abdelkader"
-msgstr "برج الامير عبد القادر"
+msgstr ""
 
 #: places/DZ.php:1546
 msgctxt "Algerian Communes"
 msgid "El Messaid"
-msgstr "المساعيد"
+msgstr ""
 
 #: places/DZ.php:1549
 msgctxt "Algerian Communes"
 msgid "Ghardaia"
-msgstr "غرداية"
+msgstr ""
 
 #: places/DZ.php:1550
 msgctxt "Algerian Communes"
 msgid "Dhayet Bendhahoua"
-msgstr "ضاية بن ضحوة"
+msgstr ""
 
 #: places/DZ.php:1551
 msgctxt "Algerian Communes"
 msgid "Berriane"
-msgstr "بريان"
+msgstr ""
 
 #: places/DZ.php:1552
 msgctxt "Algerian Communes"
 msgid "Metlili"
-msgstr "متليلي الشعانبة"
+msgstr ""
 
 #: places/DZ.php:1553
 msgctxt "Algerian Communes"
 msgid "El Guerrara"
-msgstr "الڨرارة"
+msgstr ""
 
 #: places/DZ.php:1554
 msgctxt "Algerian Communes"
 msgid "El Atteuf"
-msgstr "العطف"
+msgstr ""
 
 #: places/DZ.php:1555
 msgctxt "Algerian Communes"
 msgid "Zelfana"
-msgstr "زلفانة"
+msgstr ""
 
 #: places/DZ.php:1556
 msgctxt "Algerian Communes"
 msgid "Sebseb"
-msgstr "سبسب"
+msgstr ""
 
 #: places/DZ.php:1557
 msgctxt "Algerian Communes"
 msgid "Bounoura"
-msgstr "بونورة"
+msgstr ""
 
 #: places/DZ.php:1561
 msgctxt "Algerian Communes"
 msgid "Relizane"
-msgstr "غيليزان"
+msgstr ""
 
 #: places/DZ.php:1562
 msgctxt "Algerian Communes"
 msgid "Oued Rhiou"
-msgstr "وادي رهيو"
+msgstr ""
 
 #: places/DZ.php:1563
 msgctxt "Algerian Communes"
 msgid "Belaassel Bouzegza"
-msgstr "بلعسل بوزقزة"
+msgstr ""
 
 #: places/DZ.php:1564
 msgctxt "Algerian Communes"
 msgid "Sidi Saada"
-msgstr "سيدي سعادة"
+msgstr ""
 
 #: places/DZ.php:1565
 msgctxt "Algerian Communes"
 msgid "Ouled Aiche"
-msgstr "أولاد يعيش"
+msgstr ""
 
 #: places/DZ.php:1566
 msgctxt "Algerian Communes"
 msgid "Sidi Lazreg"
-msgstr "سيدي لزرق"
+msgstr ""
 
 #: places/DZ.php:1567
 msgctxt "Algerian Communes"
 msgid "El Hamadna"
-msgstr "الحمادنة"
+msgstr ""
 
 #: places/DZ.php:1568
 msgctxt "Algerian Communes"
 msgid "Sidi Mhamed Ben Ali"
-msgstr "سيدي امحمد بن علي"
+msgstr ""
 
 #: places/DZ.php:1569
 msgctxt "Algerian Communes"
 msgid "Mediouna"
-msgstr "مديونة"
+msgstr ""
 
 #: places/DZ.php:1570
 msgctxt "Algerian Communes"
 msgid "Sidi Khettab"
-msgstr "سيدي خطاب"
+msgstr ""
 
 #: places/DZ.php:1571
 msgctxt "Algerian Communes"
 msgid "Ammi Moussa"
-msgstr "عمي موسى"
+msgstr ""
 
 #: places/DZ.php:1572
 msgctxt "Algerian Communes"
 msgid "Zemmoura"
-msgstr "زمورة"
+msgstr ""
 
 #: places/DZ.php:1573
 msgctxt "Algerian Communes"
 msgid "Beni Dergoun"
-msgstr "بني درقن"
+msgstr ""
 
 #: places/DZ.php:1574
 msgctxt "Algerian Communes"
 msgid "Djidiouia"
-msgstr "جيديوة"
+msgstr ""
 
 #: places/DZ.php:1575
 msgctxt "Algerian Communes"
 msgid "El Guettar"
-msgstr "القطارة"
+msgstr ""
 
 #: places/DZ.php:1576
 msgctxt "Algerian Communes"
 msgid "Hamri"
-msgstr "الحمري"
+msgstr ""
 
 #: places/DZ.php:1577
 msgctxt "Algerian Communes"
 msgid "El Matmar"
-msgstr "المطمار"
+msgstr ""
 
 #: places/DZ.php:1578
 msgctxt "Algerian Communes"
 msgid "Sidi Mhamed Ben Aouda"
-msgstr "سيدي بن عودة"
+msgstr ""
 
 #: places/DZ.php:1579
 msgctxt "Algerian Communes"
 msgid "Ain Tarek"
-msgstr "عين طارق"
+msgstr ""
 
 #: places/DZ.php:1580
 msgctxt "Algerian Communes"
 msgid "Oued Essalem"
-msgstr "وادي السلام"
+msgstr ""
 
 #: places/DZ.php:1581
 msgctxt "Algerian Communes"
 msgid "Ouarizane"
-msgstr "ﻭﺍﺭﻳﺯﺍﻥ"
+msgstr ""
 
 #: places/DZ.php:1582
 msgctxt "Algerian Communes"
 msgid "Mazouna"
-msgstr "مازونة"
+msgstr ""
 
 #: places/DZ.php:1583
 msgctxt "Algerian Communes"
 msgid "Kalaa"
-msgstr "قلعة"
+msgstr ""
 
 #: places/DZ.php:1584
 msgctxt "Algerian Communes"
 msgid "Ain Rahma"
-msgstr "عين الرحمة"
+msgstr ""
 
 #: places/DZ.php:1585
 msgctxt "Algerian Communes"
 msgid "Yellel"
-msgstr "يلل"
+msgstr ""
 
 #: places/DZ.php:1586
 msgctxt "Algerian Communes"
 msgid "Oued El Djemaa"
-msgstr "وادى الجمعة"
+msgstr ""
 
 #: places/DZ.php:1587
 msgctxt "Algerian Communes"
 msgid "Ramka"
-msgstr "رمكة"
+msgstr ""
 
 #: places/DZ.php:1588
 msgctxt "Algerian Communes"
 msgid "Mendes"
-msgstr "مندس"
+msgstr ""
 
 #: places/DZ.php:1589
 msgctxt "Algerian Communes"
 msgid "Lahlef"
-msgstr "لحلاف"
+msgstr ""
 
 #: places/DZ.php:1590
 msgctxt "Algerian Communes"
 msgid "Beni Zentis"
-msgstr "بني زنتيس"
+msgstr ""
 
 #: places/DZ.php:1591
 msgctxt "Algerian Communes"
 msgid "Souk El Haad"
-msgstr "سوق الحد"
+msgstr ""
 
 #: places/DZ.php:1592
 msgctxt "Algerian Communes"
 msgid "Dar Ben Abdellah"
-msgstr "دار بن عبد الله"
+msgstr ""
 
 #: places/DZ.php:1594
 msgctxt "Algerian Communes"
 msgid "Had Echkalla"
-msgstr "حد الشقالة"
+msgstr ""
 
 #: places/DZ.php:1595
 msgctxt "Algerian Communes"
 msgid "Bendaoud"
-msgstr "بن داود"
+msgstr ""
 
 #: places/DZ.php:1597
 msgctxt "Algerian Communes"
 msgid "Merdja Sidi Abed"
-msgstr "مرجة سيدي عابد"
+msgstr ""
 
 #: places/DZ.php:1598
 msgctxt "Algerian Communes"
 msgid "Ouled Sidi Mihoub"
-msgstr "أولاد سيدي ميهوب"
+msgstr ""
 
 #: places/DZ.php:1602
 msgctxt "Algerian Communes"
 msgid "Aougrout"
-msgstr "أوقروت"
+msgstr ""
 
 #: places/DZ.php:1603
 msgctxt "Algerian Communes"
 msgid "Charouine"
-msgstr "شروين"
+msgstr ""
 
 #: places/DZ.php:1605
 msgctxt "Algerian Communes"
 msgid "Ksar Kaddour"
-msgstr "قصر قدور"
+msgstr ""
 
 #: places/DZ.php:1606
 msgctxt "Algerian Communes"
 msgid "Metarfa"
-msgstr "المطارفة"
+msgstr ""
 
 #: places/DZ.php:1608
 msgctxt "Algerian Communes"
 msgid "Ouled Said"
-msgstr "أولاد سعيد"
+msgstr ""
 
 #: places/DZ.php:1610
 msgctxt "Algerian Communes"
 msgid "Timimoun"
-msgstr "تيميمون"
+msgstr ""
 
 #: places/DZ.php:1611
 msgctxt "Algerian Communes"
 msgid "Tinerkouk"
-msgstr "زاوية دباغ"
+msgstr ""
 
 #: places/DZ.php:1615
 msgctxt "Algerian Communes"
 msgid "Bordj Badji Mokhtar"
-msgstr "برج باجي مختار"
+msgstr ""
 
 #: places/DZ.php:1616
 msgctxt "Algerian Communes"
 msgid "Timiaouine"
-msgstr "تيمياوين"
+msgstr ""
 
 #: places/DZ.php:1622
 msgctxt "Algerian Communes"
 msgid "Doucen"
-msgstr "الدوسن"
+msgstr ""
 
 #: places/DZ.php:1623
 msgctxt "Algerian Communes"
 msgid "Ouled Djellal"
-msgstr "أولاد جلال"
+msgstr ""
 
 #: places/DZ.php:1624
 msgctxt "Algerian Communes"
 msgid "Ras El Miad"
-msgstr "راس الميعاد"
+msgstr ""
 
 #: places/DZ.php:1629
 msgctxt "Algerian Communes"
 msgid "Beni Abbes"
-msgstr "بني عباس"
+msgstr ""
 
 #: places/DZ.php:1630
 msgctxt "Algerian Communes"
 msgid "Beni Ikhlef"
-msgstr "بني يخلف"
+msgstr ""
 
 #: places/DZ.php:1631
 msgctxt "Algerian Communes"
 msgid "El Ouata"
-msgstr "الوطى"
+msgstr ""
 
 #: places/DZ.php:1632
 msgctxt "Algerian Communes"
 msgid "Igli"
-msgstr "إقلي"
+msgstr ""
 
 #: places/DZ.php:1633
 msgctxt "Algerian Communes"
 msgid "Kerzaz"
-msgstr "كرزاز"
+msgstr ""
 
 #: places/DZ.php:1634
 msgctxt "Algerian Communes"
 msgid "Ksabi"
-msgstr "قصابى"
+msgstr ""
 
 #: places/DZ.php:1635
 msgctxt "Algerian Communes"
 msgid "Ouled Khoudir"
-msgstr "أولاد خدير"
+msgstr ""
 
 #: places/DZ.php:1636
 msgctxt "Algerian Communes"
 msgid "Tabelbala"
-msgstr "تبلبالة"
+msgstr ""
 
 #: places/DZ.php:1637
 msgctxt "Algerian Communes"
 msgid "Tamtert"
-msgstr "تامترت"
+msgstr ""
 
 #: places/DZ.php:1638
 msgctxt "Algerian Communes"
 msgid "Timoudi"
-msgstr "تيمودى"
+msgstr ""
 
 #: places/DZ.php:1642
 msgctxt "Algerian Communes"
 msgid "Foggaret Ezzaouia"
-msgstr "فقارة الزوى"
+msgstr ""
 
 #: places/DZ.php:1643
 msgctxt "Algerian Communes"
 msgid "In Ghar"
-msgstr "عـيـن غــار"
+msgstr ""
 
 #: places/DZ.php:1644
 msgctxt "Algerian Communes"
 msgid "In Salah"
-msgstr "عين صالح"
+msgstr ""
 
 #: places/DZ.php:1648
 msgctxt "Algerian Communes"
 msgid "In Guezzam"
-msgstr "عين قزام"
+msgstr ""
 
 #: places/DZ.php:1649
 msgctxt "Algerian Communes"
@@ -13368,97 +13368,97 @@ msgstr ""
 #: places/DZ.php:1653
 msgctxt "Algerian Communes"
 msgid "Benaceur"
-msgstr "بن ناصر"
+msgstr ""
 
 #: places/DZ.php:1654
 msgctxt "Algerian Communes"
 msgid "Blidet Amor"
-msgstr "بليدة عامر"
+msgstr ""
 
 #: places/DZ.php:1655
 msgctxt "Algerian Communes"
 msgid "El Allia"
-msgstr "العالية"
+msgstr ""
 
 #: places/DZ.php:1656
 msgctxt "Algerian Communes"
 msgid "El Hadjira"
-msgstr "الحجيرة"
+msgstr ""
 
 #: places/DZ.php:1657
 msgctxt "Algerian Communes"
 msgid "Megarine"
-msgstr "المقارين"
+msgstr ""
 
 #: places/DZ.php:1658
 msgctxt "Algerian Communes"
 msgid "Mnaguer"
-msgstr "المنقر"
+msgstr ""
 
 #: places/DZ.php:1659
 msgctxt "Algerian Communes"
 msgid "Nezla"
-msgstr "نزلة"
+msgstr ""
 
 #: places/DZ.php:1661
 msgctxt "Algerian Communes"
 msgid "Taibet"
-msgstr "الطيبات"
+msgstr ""
 
 #: places/DZ.php:1662
 msgctxt "Algerian Communes"
 msgid "Tebesbest"
-msgstr "تبسبست"
+msgstr ""
 
 #: places/DZ.php:1663
 msgctxt "Algerian Communes"
 msgid "Tamacine"
-msgstr "تماسين"
+msgstr ""
 
 #: places/DZ.php:1664
 msgctxt "Algerian Communes"
 msgid "Touggourt"
-msgstr "توقرت"
+msgstr ""
 
 #: places/DZ.php:1665
 msgctxt "Algerian Communes"
 msgid "Zaouia El Abidia"
-msgstr "الزاوية العابدية"
+msgstr ""
 
 #: places/DZ.php:1669
 msgctxt "Algerian Communes"
 msgid "Bordj El Haouasse"
-msgstr "برج الحواس"
+msgstr ""
 
 #: places/DZ.php:1670
 msgctxt "Algerian Communes"
 msgid "Djanet"
-msgstr "جانت"
+msgstr ""
 
 #: places/DZ.php:1674
 msgctxt "Algerian Communes"
 msgid "Djamaa"
-msgstr "جامعة"
+msgstr ""
 
 #: places/DZ.php:1675
 msgctxt "Algerian Communes"
 msgid "El Mghair"
-msgstr "المغير"
+msgstr ""
 
 #: places/DZ.php:1676
 msgctxt "Algerian Communes"
 msgid "Mrara"
-msgstr "مرارة"
+msgstr ""
 
 #: places/DZ.php:1677
 msgctxt "Algerian Communes"
 msgid "Oum Touyour"
-msgstr "أم الطيور"
+msgstr ""
 
 #: places/DZ.php:1678
 msgctxt "Algerian Communes"
 msgid "Sidi Amrane"
-msgstr "سيدي عمران"
+msgstr ""
 
 #: places/DZ.php:1679
 msgctxt "Algerian Communes"
@@ -13468,27 +13468,27 @@ msgstr ""
 #: places/DZ.php:1680
 msgctxt "Algerian Communes"
 msgid "Still"
-msgstr "سطيل"
+msgstr ""
 
 #: places/DZ.php:1681
 msgctxt "Algerian Communes"
 msgid "Tendla"
-msgstr "تندلة"
+msgstr ""
 
 #: places/DZ.php:1684
 msgctxt "Algerian Communes"
 msgid "El Menia"
-msgstr "المنيعة"
+msgstr ""
 
 #: places/DZ.php:1685
 msgctxt "Algerian Communes"
 msgid "Hassi Fehal"
-msgstr "حاسي الفحل"
+msgstr ""
 
 #: places/DZ.php:1686
 msgctxt "Algerian Communes"
 msgid "Hassi Gara"
-msgstr "حاسي قارة"
+msgstr ""
 
 #: places/EG.php:18
 msgctxt "City of Egypt"
