@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2024-10-06T11:50:42+00:00\n"
+"POT-Creation-Date: 2024-10-06T12:56:09+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: states-cities-and-places-for-woocommerce\n"
@@ -6898,8 +6898,8 @@ msgstr "أوقاس"
 
 #: places/DZ.php:220
 msgctxt "Algerian Communes"
-msgid "Beni Djellil"
-msgstr ""
+msgid "Ait Djellil"
+msgstr "آيث جليل"
 
 #: places/DZ.php:221
 msgctxt "Algerian Communes"
@@ -8565,8 +8565,8 @@ msgstr "المدنية"
 
 #: places/DZ.php:576
 msgctxt "Algerian Communes"
-msgid "Hamma Anassers"
-msgstr ""
+msgid "Belouizdad"
+msgstr "بلوزداد"
 
 #: places/DZ.php:577
 msgctxt "Algerian Communes"
@@ -8575,8 +8575,8 @@ msgstr "باب الواد"
 
 #: places/DZ.php:578
 msgctxt "Algerian Communes"
-msgid "Bologhine Ibn Ziri"
-msgstr ""
+msgid "Bologhine"
+msgstr "بولوغين"
 
 #: places/DZ.php:579
 msgctxt "Algerian Communes"
@@ -9143,8 +9143,8 @@ msgstr "الجمعة بني حبيبي"
 
 #: places/DZ.php:695
 msgctxt "Algerian Communes"
-msgid "Bordj Taher"
-msgstr ""
+msgid "Bordj T'her"
+msgstr "برج الطهر"
 
 #: places/DZ.php:696
 msgctxt "Algerian Communes"
@@ -9568,8 +9568,8 @@ msgstr "بكوش لخضر"
 
 #: places/DZ.php:787
 msgctxt "Algerian Communes"
-msgid "Benazouz"
-msgstr ""
+msgid "Benazzouz"
+msgstr "بن عزوز"
 
 #: places/DZ.php:788
 msgctxt "Algerian Communes"
@@ -9895,8 +9895,8 @@ msgstr "سيدي شعيب"
 
 #: places/DZ.php:855
 msgctxt "Algerian Communes"
-msgid "Sidi Dahou Dezairs"
-msgstr ""
+msgid "Sidi Dahou"
+msgstr "سيدي دحو"
 
 #: places/DZ.php:856
 msgctxt "Algerian Communes"
@@ -10220,8 +10220,8 @@ msgstr "حامة بوزيان"
 
 #: places/DZ.php:926
 msgctxt "Algerian Communes"
-msgid "El Haria"
-msgstr ""
+msgid "Ibn Badis"
+msgstr "إبن باديس"
 
 #: places/DZ.php:927
 msgctxt "Algerian Communes"
@@ -10480,8 +10480,8 @@ msgstr "سى المحجوب"
 
 #: places/DZ.php:982
 msgctxt "Algerian Communes"
-msgid "Tlatet Eddoair"
-msgstr ""
+msgid "Tlatet Eddouair"
+msgstr "ثلاثة الدوائر"
 
 #: places/DZ.php:983
 msgctxt "Algerian Communes"
@@ -10630,8 +10630,8 @@ msgstr "سيدي بلعاتر"
 
 #: places/DZ.php:1014
 msgctxt "Algerian Communes"
-msgid "Kheiredine "
-msgstr ""
+msgid "Kheiredine"
+msgstr "خير الدين"
 
 #: places/DZ.php:1015
 msgctxt "Algerian Communes"
@@ -12992,8 +12992,8 @@ msgstr "ولهاصة الغرابة"
 
 #: places/DZ.php:1544
 msgctxt "Algerian Communes"
-msgid "Tadmaya"
-msgstr ""
+msgid "Sidi Ouriache"
+msgstr "سيدي وريلش"
 
 #: places/DZ.php:1545
 msgctxt "Algerian Communes"
@@ -13362,8 +13362,8 @@ msgstr "عين قزام"
 
 #: places/DZ.php:1649
 msgctxt "Algerian Communes"
-msgid "Tin Zouatine"
-msgstr ""
+msgid "Tin Zaouatine"
+msgstr "تين زاوتين"
 
 #: places/DZ.php:1653
 msgctxt "Algerian Communes"
@@ -13462,8 +13462,8 @@ msgstr "سيدي عمران"
 
 #: places/DZ.php:1679
 msgctxt "Algerian Communes"
-msgid "Sidi Khelil"
-msgstr ""
+msgid "Sidi Khellil"
+msgstr "سيدي خليل"
 
 #: places/DZ.php:1680
 msgctxt "Algerian Communes"
