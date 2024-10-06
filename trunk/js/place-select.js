@@ -93,14 +93,14 @@ jQuery( function($) {
     var country = $container.find( '#billing_country, #shipping_country, #calc_shipping_country' ).val();
     // var state = $( this ).val();
 
-    /* 
-     * just a temporary fix.
-     * I need to think about this in the future
-     */
-    if ($(this).val() <= 9) {
-      var state = country + '-0' + $( this ).val();
+    if(country === 'DZ') {
+      if ($(this).val() <= 9) {
+        var state = country + '-0' + $( this ).val();
+      } else {
+        var state = country + '-' + $( this ).val();
+      }
     } else {
-      var state = country + '-' + $( this ).val();
+      var state = $( this ).val();
     }
 
     $( document.body ).trigger( 'state_changing', [country, state, $container ] );
